@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
+	"github.com/qingcc/yi/utils"
 	"io"
 	"io/ioutil"
 	"log"
@@ -14,32 +15,31 @@ import (
 	"strings"
 	"sync"
 	"time"
-	"unsafe"
 )
 
 const (
-	DATA_TYPE_JSON = "json"
-	DATA_TYPE_XML = "xml"
-	ERROR_DESERIALIZE_XML = 40005
+	DATA_TYPE_JSON         = "json"
+	DATA_TYPE_XML          = "xml"
+	ERROR_DESERIALIZE_XML  = 40005
 	ERROR_DESERIALIZE_JSON = 40004
-	SUCCESS = 40000
-	ERROR_REQUEST_TIMEOUT = 40006
-	ERROR_SEND_REQUEST = 40007
+	SUCCESS                = 40000
+	ERROR_REQUEST_TIMEOUT  = 40006
+	ERROR_SEND_REQUEST     = 40007
 )
 
 type ServiceHttpClient struct {
 	ServiceClient *http.Client
-	Timeout time.Duration
+	Timeout       time.Duration
 }
 
 type HttpRequestContext struct {
-	Endpoint string
-	ReqBody []byte
-	BasicAuth BasicAuthConfig
-	IsBasicAuth bool
-	Headers map[string]string
+	Endpoint        string
+	ReqBody         []byte
+	BasicAuth       BasicAuthConfig
+	IsBasicAuth     bool
+	Headers         map[string]string
 	ConcurrentCount int
-	DataType string
+	DataType        string
 }
 
 type BasicAuthConfig struct {
@@ -47,83 +47,77 @@ type BasicAuthConfig struct {
 	Password string
 }
 
-func (c *ServiceHttpClient)initHttpClient()  {
+func (c *ServiceHttpClient) initHttpClient() {
 	var httpTransport = &http.Transport{
-		DialContext:            (&net.Dialer{
+		DialContext: (&net.Dialer{
 			Timeout: 3 * time.Second,
 		}).DialContext,
-		MaxIdleConns:           20,
-		IdleConnTimeout:        10 * time.Second,
+		MaxIdleConns:        20,
+		IdleConnTimeout:     10 * time.Second,
 		TLSHandshakeTimeout: 2 * time.Second,
 	}
 
 	c.ServiceClient = &http.Client{
-		Transport:     httpTransport,
+		Transport: httpTransport,
 	}
 
-	if c.Timeout > 0 * time.Second {
+	if c.Timeout > 0*time.Second {
 		c.ServiceClient.Timeout = c.Timeout
 	}
 }
 
-func (c *ServiceHttpClient)SendJson(url string, body []byte, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
+func (c *ServiceHttpClient) SendJson(url string, body []byte, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		ReqBody:         body,
 		Headers:         headers,
-		DataType: DATA_TYPE_JSON,
+		DataType:        DATA_TYPE_JSON,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodPost, pRS)
 }
 
-
-func (c *ServiceHttpClient)SendXml(url string, body []byte, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
+func (c *ServiceHttpClient) SendXml(url string, body []byte, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		ReqBody:         body,
 		Headers:         headers,
-		DataType: DATA_TYPE_XML,
+		DataType:        DATA_TYPE_XML,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodPost, pRS)
 }
-func (c *ServiceHttpClient)SendJsonDelete(url string, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
+func (c *ServiceHttpClient) SendJsonDelete(url string, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		Headers:         headers,
-		DataType: DATA_TYPE_JSON,
+		DataType:        DATA_TYPE_JSON,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodDelete, pRS)
 }
 
-
-func (c *ServiceHttpClient)GetJson(url string, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
+func (c *ServiceHttpClient) GetJson(url string, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		Headers:         headers,
-		DataType: DATA_TYPE_JSON,
+		DataType:        DATA_TYPE_JSON,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodGet, pRS)
 }
 
-
-func (c *ServiceHttpClient)GetXml(url string, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
+func (c *ServiceHttpClient) GetXml(url string, headers map[string]string, concurrentCount int, pRS interface{}) (code int, message string, data []byte) {
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		Headers:         headers,
-		DataType: DATA_TYPE_XML,
+		DataType:        DATA_TYPE_XML,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodGet, pRS)
 }
 
-
-
-
-func (c *ServiceHttpClient)SendWithRequestContext(ctx HttpRequestContext, method string, pRS interface{}) (code int, message string, data []byte)  {
+func (c *ServiceHttpClient) SendWithRequestContext(ctx HttpRequestContext, method string, pRS interface{}) (code int, message string, data []byte) {
 	concurrentCount := 1
 	if ctx.ConcurrentCount > 1 {
 		concurrentCount = ctx.ConcurrentCount
@@ -134,7 +128,7 @@ func (c *ServiceHttpClient)SendWithRequestContext(ctx HttpRequestContext, method
 
 		var wg sync.WaitGroup
 
-		for i := 0 ; i < concurrentCount ; i++ {
+		for i := 0; i < concurrentCount; i++ {
 			go func(index int) {
 				defer wg.Done()
 				if d, err := c.reqData(method, &ctx); err == nil {
@@ -157,12 +151,12 @@ func (c *ServiceHttpClient)SendWithRequestContext(ctx HttpRequestContext, method
 		case respData := <-dataChan:
 			code, message = deserializeData(respData, ctx, pRS)
 			timer.Stop()
-		case t := <- timer.C:
+		case t := <-timer.C:
 			code = ERROR_REQUEST_TIMEOUT
 			message = fmt.Sprint("*** Service timeout at %v", t)
 		}
-	}else {
-		for i := 0; i < 3 ; i++ {
+	} else {
+		for i := 0; i < 3; i++ {
 			if d, err := c.reqData(method, &ctx); err == nil {
 				data = d
 				code, message = deserializeData(d, ctx, pRS)
@@ -173,7 +167,7 @@ func (c *ServiceHttpClient)SendWithRequestContext(ctx HttpRequestContext, method
 					code = ERROR_REQUEST_TIMEOUT
 				}
 				message = err.Error()
-				switch  {
+				switch {
 				case strings.Contains(err.Error(), "TLS handshake timeout"):
 				case strings.HasPrefix(err.Error(), "i/o timeout") && strings.Contains(err.Error(), "dial tcp"):
 					//do not break, will do retry request
@@ -188,11 +182,11 @@ func (c *ServiceHttpClient)SendWithRequestContext(ctx HttpRequestContext, method
 
 	if code != SUCCESS {
 		log.Printf("[error] request url: %s, error: %s", ctx.Endpoint, message)
-		log.Printf("[error] response: %s", Bytes2String(data))
+		log.Printf("[error] response: %s", utils.Bytes2String(data))
 	}
 }
 
-func (c *ServiceHttpClient)reqData(method string, ctx *HttpRequestContext) (data []byte, err error) {
+func (c *ServiceHttpClient) reqData(method string, ctx *HttpRequestContext) (data []byte, err error) {
 	if c.ServiceClient == nil {
 		c.initHttpClient()
 	}
@@ -208,7 +202,7 @@ func (c *ServiceHttpClient)reqData(method string, ctx *HttpRequestContext) (data
 
 		if ctx.DataType == DATA_TYPE_JSON {
 			req.Header.Set("Accept", "application/json")
-		}else if ctx.DataType == DATA_TYPE_XML {
+		} else if ctx.DataType == DATA_TYPE_XML {
 			req.Header.Set("Accept", "application/xml")
 		}
 
@@ -239,7 +233,7 @@ func (c *ServiceHttpClient)reqData(method string, ctx *HttpRequestContext) (data
 				}
 			}
 			resp.Body.Close()
-		}else {
+		} else {
 			err = e
 			return
 		}
@@ -265,9 +259,4 @@ func deserializeData(d []byte, ctx HttpRequestContext, pRS interface{}) (code in
 		}
 	}
 	return
-}
-
-
-func Bytes2String(b []byte) string {
-	return *(*string)(unsafe.Pointer(&b))
 }
