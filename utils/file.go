@@ -2,6 +2,7 @@ package utils
 
 import (
 	"encoding/csv"
+	"log"
 	"os"
 	"runtime"
 	"strconv"
@@ -75,6 +76,22 @@ func Write2File(fileName string, data [][]string) {
 	//}
 	w.WriteAll(data) //写入数据
 	w.Flush()
+}
+
+//endregion
+
+//region Remark: writefile Author:Qing
+func WriteFile(b []byte, filename string) {
+	f, err := os.OpenFile(filename, os.O_WRONLY|os.O_TRUNC|os.O_APPEND, 0644)
+	if err != nil {
+		log.Printf("write to file %s failed, failed err: %v", filename, err)
+	}
+	defer f.Close()
+
+	if _, err := f.WriteString(string(b)); err != nil {
+		log.Printf("write to file %s failed, failed err: %v", filename, err)
+	}
+	return
 }
 
 //endregion
