@@ -74,7 +74,7 @@ func Transfer(query, from, to string, ssl bool) (res TransResponse) {
 		Salt:  strconv.Itoa(rand.Intn(10000)),
 		Ssl:   ssl,
 	}
-	SendTransData(req, res, false)
+	SendTransData(req, res, true)
 	return
 }
 
