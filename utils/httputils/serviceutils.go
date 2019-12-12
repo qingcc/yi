@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
+	"github.com/qingcc/yi/commobj"
 	"github.com/qingcc/yi/utils"
 	"io"
 	"io/ioutil"
@@ -17,15 +18,6 @@ import (
 	"time"
 )
 
-const (
-	DATA_TYPE_JSON         = "json"
-	DATA_TYPE_XML          = "xml"
-	ERROR_DESERIALIZE_XML  = 40005
-	ERROR_DESERIALIZE_JSON = 40004
-	SUCCESS                = 40000
-	ERROR_REQUEST_TIMEOUT  = 40006
-	ERROR_SEND_REQUEST     = 40007
-)
 
 type ServiceHttpClient struct {
 	ServiceClient *http.Client
@@ -71,7 +63,7 @@ func (c *ServiceHttpClient) SendJson(url string, body []byte, headers map[string
 		Endpoint:        url,
 		ReqBody:         body,
 		Headers:         headers,
-		DataType:        DATA_TYPE_JSON,
+		DataType:        commobj.DATA_TYPE_JSON,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodPost, pRS)
@@ -82,7 +74,7 @@ func (c *ServiceHttpClient) SendXml(url string, body []byte, headers map[string]
 		Endpoint:        url,
 		ReqBody:         body,
 		Headers:         headers,
-		DataType:        DATA_TYPE_XML,
+		DataType:        commobj.DATA_TYPE_XML,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodPost, pRS)
@@ -91,7 +83,7 @@ func (c *ServiceHttpClient) SendJsonDelete(url string, headers map[string]string
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		Headers:         headers,
-		DataType:        DATA_TYPE_JSON,
+		DataType:        commobj.DATA_TYPE_JSON,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodDelete, pRS)
@@ -101,7 +93,7 @@ func (c *ServiceHttpClient) GetJson(url string, headers map[string]string, concu
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		Headers:         headers,
-		DataType:        DATA_TYPE_JSON,
+		DataType:        commobj.DATA_TYPE_JSON,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodGet, pRS)
@@ -111,7 +103,7 @@ func (c *ServiceHttpClient) GetXml(url string, headers map[string]string, concur
 	ctx := HttpRequestContext{
 		Endpoint:        url,
 		Headers:         headers,
-		DataType:        DATA_TYPE_XML,
+		DataType:        commobj.DATA_TYPE_XML,
 		ConcurrentCount: concurrentCount,
 	}
 	return c.SendWithRequestContext(ctx, http.MethodGet, pRS)
@@ -152,7 +144,7 @@ func (c *ServiceHttpClient) SendWithRequestContext(ctx HttpRequestContext, metho
 			code, message = deserializeData(respData, ctx, pRS)
 			timer.Stop()
 		case t := <-timer.C:
-			code = ERROR_REQUEST_TIMEOUT
+			code = commobj.ERROR_REQUEST_TIMEOUT
 			message = fmt.Sprint("*** Service timeout at %v", t)
 		}
 	} else {
@@ -162,9 +154,9 @@ func (c *ServiceHttpClient) SendWithRequestContext(ctx HttpRequestContext, metho
 				code, message = deserializeData(d, ctx, pRS)
 				break
 			} else {
-				code = ERROR_SEND_REQUEST
+				code = commobj.ERROR_SEND_REQUEST
 				if strings.Contains(strings.ToLower(err.Error()), "timeout") {
-					code = ERROR_REQUEST_TIMEOUT
+					code = commobj.ERROR_REQUEST_TIMEOUT
 				}
 				message = err.Error()
 				switch {
@@ -180,7 +172,7 @@ func (c *ServiceHttpClient) SendWithRequestContext(ctx HttpRequestContext, metho
 		}
 	}
 
-	if code != SUCCESS {
+	if code != commobj.SUCCESS {
 		log.Printf("[error] request url: %s, error: %s", ctx.Endpoint, message)
 		log.Printf("[error] response: %s", utils.Bytes2String(data))
 	}
@@ -200,9 +192,9 @@ func (c *ServiceHttpClient) reqData(method string, ctx *HttpRequestContext) (dat
 			req.Header.Set(key, val)
 		}
 
-		if ctx.DataType == DATA_TYPE_JSON {
+		if ctx.DataType == commobj.DATA_TYPE_JSON {
 			req.Header.Set("Accept", "application/json")
-		} else if ctx.DataType == DATA_TYPE_XML {
+		} else if ctx.DataType == commobj.DATA_TYPE_XML {
 			req.Header.Set("Accept", "application/xml")
 		}
 
@@ -243,17 +235,17 @@ func (c *ServiceHttpClient) reqData(method string, ctx *HttpRequestContext) (dat
 }
 
 func deserializeData(d []byte, ctx HttpRequestContext, pRS interface{}) (code int, message string) {
-	code = SUCCESS
+	code = commobj.SUCCESS
 	message = "Success"
 	if pRS != nil {
-		if ctx.DataType == DATA_TYPE_XML {
+		if ctx.DataType == commobj.DATA_TYPE_XML {
 			if err := xml.Unmarshal(d, pRS); err != nil {
-				code = ERROR_DESERIALIZE_XML
+				code = commobj.ERROR_DESERIALIZE_XML
 				message = "invalid xml response error, " + err.Error()
 			}
-		} else if ctx.DataType == DATA_TYPE_JSON {
+		} else if ctx.DataType == commobj.DATA_TYPE_JSON {
 			if err := json.Unmarshal(d, pRS); err != nil {
-				code = ERROR_DESERIALIZE_JSON
+				code = commobj.ERROR_DESERIALIZE_JSON
 				message = "invalid json response error, " + err.Error()
 			}
 		}

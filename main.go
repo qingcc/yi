@@ -1,4 +1,4 @@
-package yi
+package main
 
 import (
 	"bufio"
