@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"flag"
-	"github.com/qingcc/yi/utils/transutils"
+	"github.com/qingcc/yi/utils/rpcx/trans_server/service"
 	"github.com/smallnest/rpcx/server"
 )
 
@@ -28,11 +28,11 @@ type Args struct {
 }
 
 type Reply struct {
-	Words string `json:"words"`
+	Query string `json:"query"`
 }
 
 func (tr *TransServer)Trans(ctx context.Context, args Args, reply *Reply)  {
-	res := transutils.Transfer(args.Query, args.From, args.To, args.Ssl)
-	res = res
+	//reply.Query = service.Transfer(args.Query, args.From, args.To, args.Ssl)
+	reply.Query = service.Trans(args.Query, args.From, args.To, args.Ssl)
 	return
 }

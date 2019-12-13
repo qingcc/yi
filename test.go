@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/qingcc/yi/utils/transutils"
+	"github.com/qingcc/yi/utils/rpcx/trans_server/service"
 )
 
 var (
@@ -12,8 +12,8 @@ var (
 )
 func f()  {
 	flag.Parse()
-	//res := transutils.Transfer("中文", "zh", "en", false)
-	res := transutils.Trans("中文", "zh", "en", false)
+	//res := service.Transfer("中文", "zh", "en", false)
+	res := service.Trans("中文", "zh", "en", false)
 	fmt.Println(res)
 }
 
@@ -22,8 +22,9 @@ func main()  {
 	gin.Default()
 	r := gin.Default()
 	r.GET("/ping", func(c *gin.Context) {
-		res := transutils.Trans("中文", "zh", "en", false)
+		res := service.Trans("中文", "zh", "en", false)
 		fmt.Println(res)
+		service.Transfer("中文", "zh", "en", false)
 		c.JSON(200, gin.H{
 			"message": "pong, addr: " + *addr,
 		})
