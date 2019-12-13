@@ -85,6 +85,49 @@ func Update2Redis(key string, dbIdx int, val string) (err error) {
 }
 
 
+func UpdateStringToRedisEx(key string, dbIdx int, val string, timeout time.Duration) (err error) {
+	c := rediscli.GetConn()
+	defer c.Close()
+
+	timeoutSec := int(timeout / time.Second)
+	if err = c.Send("SELECT", dbIdx); err == nil {
+		if err = c.Send("SETEX", key, timeoutSec, val); err == nil {
+			if err = c.Flush(); err != nil {
+				log.Println("flush commands failed:", zap.Error(err))
+			}
+		} else {
+			log.Println("Send setex commands failed", zap.Error(err))
+		}
+	} else {
+		log.Println("Select redis database failed", zap.Error(err))
+	}
+
+	return
+}
+
+func UpdateToRedisEx(key string, dbIdx int, val interface{}, timeout time.Duration) (err error) {
+	c := rediscli.GetConn()
+	defer c.Close()
+	// set to redis
+
+	timeoutSec := int(timeout / time.Second)
+	if jsonData, e := json.Marshal(val); e != nil {
+		err = e
+		log.Println(fmt.Sprintf("marshal data failed %+v", val), zap.Error(e))
+	} else {
+		if err = c.Send("SELECT", dbIdx); err == nil {
+			if _, err = c.Do("SETEX", key, timeoutSec, jsonData); err != nil {
+				log.Println("SETEX commands failed:", err)
+			}
+		} else {
+			log.Println("Select redis database failed", err)
+		}
+	}
+
+	return
+}
+
+
 //设置key, 若key值不存在，设置key，val，返回OK。key存在，返回nil。
 func SetKeyNotExistEx(key string, dbIdx int, val string, timeout time.Duration) (err error) {
 	c := rediscli.GetConn()

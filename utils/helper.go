@@ -10,7 +10,6 @@ import (
 	"errors"
 	"fmt"
 	"github.com/bitly/go-simplejson"
-	"github.com/garyburd/redigo/redis"
 	"github.com/gin-gonic/gin"
 	"github.com/qingcc/goblog/databases"
 	"github.com/shopspring/decimal"
@@ -69,21 +68,6 @@ func GetSjCode(len int64) string {
 func CheckErr(err error) {
 	if err != nil {
 		fmt.Println(err.Error())
-	}
-}
-
-func AddWsLinksToRedis(user_id string) {
-	redis_key := "ws_links"
-	if res, _ := Exists(redis_key); res {
-		value, _ := redis.String(Get(redis_key))
-		if value == "" {
-			value = user_id
-		} else {
-			value += "," + user_id
-		}
-		Set(redis_key, value, -1)
-	} else {
-		Set(redis_key, user_id, -1)
 	}
 }
 

@@ -6,6 +6,8 @@ import (
 	"fmt"
 	"github.com/go-ini/ini"
 	"github.com/polaris1119/logger"
+	rediscli "github.com/qingcc/yi/database/redis"
+	"github.com/qingcc/yi/database/redis/redis_utils"
 	"html/template"
 	"log"
 	"net"
@@ -62,8 +64,8 @@ func SendMail(r Email, type_id int) bool {
 	if err := r.ParseTemplate("views/email/template"+strconv.Itoa(type_id)+".html", templateData); err == nil {
 		ok, _ := r.SendEmail()
 		str_key := r.To[0] + ":" + strconv.Itoa(type_id)
-		err := Set(str_key, code, 60*5)
-		if err == false {
+
+		if err := redis_utils.UpdateToRedisEx(str_key, rediscli.RedisDBIdx_Common, code, 60*5); err != nil {
 			return false
 		}
 		return ok

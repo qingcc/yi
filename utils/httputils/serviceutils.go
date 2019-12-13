@@ -176,6 +176,7 @@ func (c *ServiceHttpClient) SendWithRequestContext(ctx HttpRequestContext, metho
 		log.Printf("[error] request url: %s, error: %s", ctx.Endpoint, message)
 		log.Printf("[error] response: %s", utils.Bytes2String(data))
 	}
+	return
 }
 
 func (c *ServiceHttpClient) reqData(method string, ctx *HttpRequestContext) (data []byte, err error) {
