@@ -10,29 +10,31 @@ import (
 var (
 	addr = flag.String("addr", "localhost:10003", "server address")
 )
-func main()  {
+
+func main() {
 	flag.Parse()
 	s := server.NewServer()
-	s.RegisterName("Trans", new(TransServer), "")
-	s.Serve("tcp",*addr)
+	if err := s.RegisterName("TransServer", new(TransServer), ""); err != nil {
+		panic(err)
+	}
+	s.Serve("tcp", *addr)
 }
 
-
-type TransServer struct {}
+type TransServer int
 
 type Args struct {
-	From string `json:"from"`
-	To string `json:"to"`
+	From  string `json:"from"`
+	To    string `json:"to"`
 	Query string `json:"query"`
-	Ssl bool `json:"ssl"`
+	Ssl   bool   `json:"ssl"`
 }
 
 type Reply struct {
 	Query string `json:"query"`
 }
 
-func (tr *TransServer)Trans(ctx context.Context, args Args, reply *Reply)  {
+func (tr *TransServer) Transfer(ctx context.Context, args Args, reply *Reply) error {
 	//reply.Query = service.Transfer(args.Query, args.From, args.To, args.Ssl)
 	reply.Query = service.Trans(args.Query, args.From, args.To, args.Ssl)
-	return
+	return nil
 }
