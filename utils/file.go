@@ -6,6 +6,7 @@ import (
 	"os"
 	"runtime"
 	"strconv"
+	"strings"
 )
 
 //region Remark: 创建文件夹 Author; Qing
@@ -95,3 +96,12 @@ func WriteFile(b []byte, filename string) {
 }
 
 //endregion
+
+func Tracefile(str_content string, file string)  {
+	fd,_:=os.OpenFile(file,os.O_RDWR|os.O_CREATE|os.O_APPEND,0644)
+
+	fd_content:=strings.Join([]string{str_content,"\n"},"")
+	buf:=[]byte(fd_content)
+	fd.Write(buf)
+	fd.Close()
+}

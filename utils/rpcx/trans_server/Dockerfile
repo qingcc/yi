@@ -1,7 +1,6 @@
 FROM alpine
 
-#RUN go build trans_server.go
-MAINTAINER qing <qingcc0503@163.com>
+RUN go build trans_server.go
 
 WORKDIR /app
 
