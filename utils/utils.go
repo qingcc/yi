@@ -1,7 +1,10 @@
 package utils
 
 import (
+	"bufio"
+	"fmt"
 	"log"
+	"os"
 	"runtime/debug"
 	"unsafe"
 )
@@ -19,3 +22,37 @@ func RecoverPanic(isPrintStack bool)  {
 	}
 	return
 }
+
+//region Author: qing  标准输入
+func Stdin(n int) string {
+	if n == 0 {
+		n = 1024
+	}
+	var buf = make([]byte, 0, n)
+	if m, err := os.Stdin.Read(buf); err == nil {
+		return string(buf[:m])
+	}else {
+		log.Printf("read error：%s", err.Error())
+	}
+	return ""
+}
+
+var (
+	firstname, lastname string
+	age int
+)
+func Scanf()  {
+	fmt.Println("please input firstname, lastname, age:")
+	fmt.Scanln(&firstname, &lastname, &age)
+	fmt.Println("firstname:", firstname, "lastname:", lastname, "age:", age)
+}
+
+func Stdin2()  {
+	inputReader := bufio.NewReader(os.Stdin)
+	fmt.Println("please enter something:")
+	input, err := inputReader.ReadString('\n')
+	if err == nil {
+		fmt.Println("the input was:", input)
+	}
+}
+//endregion

@@ -13,15 +13,14 @@ var(
 )
 
 func GetConn() redis.Conn {
-	return GetPool().Get()
+	return redisPool.Get()
 }
 
-func GetPool() *redis.Pool {
+func init() {
 	redisOnce.Do(func() {
 	log.Printf("init a new redis pool")
 	redisPool = newPool()
 	})
-	return redisPool
 }
 
 func newPool() *redis.Pool {

@@ -59,7 +59,7 @@ func RetrieveOrSetJsonFromRedis(key string, dbIdx int, val interface{}, getFromD
 }
 
 //设置key， value
-func Update2Redis(key string, dbIdx int, val string) (err error) {
+func UpdateString2Redis(key string, dbIdx int, val string) (err error) {
 	c := rediscli.GetConn()
 	defer c.Close()
 
@@ -169,7 +169,7 @@ func RetrieveFromRedis(key string, dbIdx int, val interface{}) (err error) {
 	}
 	return
 }
-func RetrieveStringFromRedis(key string, dbIdx int, val interface{}) (err error) {
+func RetrieveStringFromRedis(key string, dbIdx int) (val string, err error) {
 	c := rediscli.GetConn()
 	defer c.Close()
 
