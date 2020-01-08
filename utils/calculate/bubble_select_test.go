@@ -18,3 +18,8 @@ func Test_Select(t *testing.T)  {
 	selectSort(data)
 	fmt.Println(data)
 }
+func Test_insert (t *testing.T)  {
+	data := []int{1,48,3,34, 32,10, 23, 43, 32}
+	insertSort(data)
+	fmt.Println(data)
+}
