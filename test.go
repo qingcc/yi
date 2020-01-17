@@ -1,20 +1,18 @@
 package main
 
 import (
+	"context"
 	"crypto/md5"
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/gin-gonic/gin"
-	rediscli "github.com/qingcc/yi/database/redis"
-	"github.com/qingcc/yi/database/redis/redis_utils"
+	lib "github.com/qingcc/yi/lib/workpool"
 	"github.com/qingcc/yi/utils"
 	"github.com/qingcc/yi/utils/rpcx/trans_server/service"
 	"github.com/tealeg/xlsx"
 	"io"
 	"log"
 	"net/url"
-	"strconv"
 	"strings"
 	"time"
 )
@@ -22,30 +20,18 @@ import (
 var (
 	addr = flag.String("addr", "localhost:10003", "server address")
 )
-const(
+
+const (
 	AUTHKEY = "8x76w362uc9v6k2hm9tc"
 )
-func f()  {
+
+func f() {
 	flag.Parse()
 	//res := service.Transfer("中文", "zh", "en", false)
 	res := service.Trans("中文", "zh", "en", false)
 	fmt.Println(res)
 }
 
-func main1()  {
-	flag.Parse()
-	gin.Default()
-	r := gin.Default()
-	r.GET("/ping", func(c *gin.Context) {
-		res := service.Trans("中文", "zh", "en", false)
-		fmt.Println(res)
-		service.Transfer("中文", "zh", "en", false)
-		c.JSON(200, gin.H{
-			"message": "pong, addr: " + *addr,
-		})
-	})
-	r.Run(*addr) // 在 0.0.0.0:8080 上监听并服务
-}
 type CreateOrderRequest struct {
 	GuestRemarks     string                  `json:"GuestRemarks"`     //非必填， 宾客特殊要求"Non-Smoking", "Smoking Room", "Higher Floor", "Lower Floor", "King-size Bed", "Twin bed"
 	RateKey          string                  `json:"RateKey"`          //套餐唯一标识
@@ -64,12 +50,13 @@ type ApiBookingRoomPaxRequest struct {
 	FirstName string `json:"FirstName"`
 	PaxType   int    `json:"PaxType"` //1成人，2儿童 默认成人
 }
-func init1()  {
-//Partner=2019001113&RequestData=%7b%22HotelID%22%3a27889%2c%22CheckInDate%22%3a%222019-12-28%22%2c%22CheckOutDate%22%3a%222019-12-29%22%2c%22AdultCount%22%3a2%2c%22RoomCount%22%3a1%2c%22CountryCode%22%3a%22CN%22%7d
-// &Sign=2b10262f7111a9bc36553cd23f916ab8
-//Partner=1000000010&RequestData=%7b%22RateKey%22%3a%22JTAPI4b281a199d297c4ddf695e2dc89704da%22%2c%22TotalPrice%22%3a1156.0%2c%22GuestRemarks%22%3a%22ceshi%22%2c%22PartnerBookingID%22%3a%22637095076042452695%22%2c%22RoomList%22%3a%5b%7b%22RoomID%22%3a1%2c%22PaxList%22%3a%5b%7b%22LastName%22%3a%22jjjjj%22%2c%22FirstName%22%3a%22xxxx%22%2c%22PaxType%22%3a1%7d%2c%7b%22LastName%22%3a%22tab%22%2c%22FirstName%22%3a%22tab%22%2c%22PaxType%22%3a1%7d%5d%7d%5d%7d
-//&Sign=58ce1ba657ae20842b8a0224afb0fd47
-//	sig := "Partner=2019001113&RequestData=%7b%22HotelID%22%3a27889%2c%22CheckInDate%22%3a%222019-12-28%22%2c%22CheckOutDate%22%3a%222019-12-29%22%2c%22AdultCount%22%3a2%2c%22RoomCount%22%3a1%2c%22CountryCode%22%3a%22CN%22%7d"
+
+func init1() {
+	//Partner=2019001113&RequestData=%7b%22HotelID%22%3a27889%2c%22CheckInDate%22%3a%222019-12-28%22%2c%22CheckOutDate%22%3a%222019-12-29%22%2c%22AdultCount%22%3a2%2c%22RoomCount%22%3a1%2c%22CountryCode%22%3a%22CN%22%7d
+	// &Sign=2b10262f7111a9bc36553cd23f916ab8
+	//Partner=1000000010&RequestData=%7b%22RateKey%22%3a%22JTAPI4b281a199d297c4ddf695e2dc89704da%22%2c%22TotalPrice%22%3a1156.0%2c%22GuestRemarks%22%3a%22ceshi%22%2c%22PartnerBookingID%22%3a%22637095076042452695%22%2c%22RoomList%22%3a%5b%7b%22RoomID%22%3a1%2c%22PaxList%22%3a%5b%7b%22LastName%22%3a%22jjjjj%22%2c%22FirstName%22%3a%22xxxx%22%2c%22PaxType%22%3a1%7d%2c%7b%22LastName%22%3a%22tab%22%2c%22FirstName%22%3a%22tab%22%2c%22PaxType%22%3a1%7d%5d%7d%5d%7d
+	//&Sign=58ce1ba657ae20842b8a0224afb0fd47
+	//	sig := "Partner=2019001113&RequestData=%7b%22HotelID%22%3a27889%2c%22CheckInDate%22%3a%222019-12-28%22%2c%22CheckOutDate%22%3a%222019-12-29%22%2c%22AdultCount%22%3a2%2c%22RoomCount%22%3a1%2c%22CountryCode%22%3a%22CN%22%7d"
 	sig := "Partner=2019001113&Sign=c366f56b8c65984e7a1531c445483c31&RequestData=%7b%22HotelID%22%3a%2227889%22%2c%22CheckInDate%22%3a%222019-12-28+00%3a00%3a00%22%2c%22CheckOutDate%22%3a%222019-12-29+00%3a00%3a00%22%2c%22AdultCount%22%3a2%2c%22ChildrenCount%22%3a0%2c%22ChildAgeList%22%3anull%2c%22RoomCount%22%3a1%2c%22CountryCode%22%3a%22CN%22%7d"
 	rd := "Partner=2019001113&RequestData=%7b%22HotelID%22%3a27889%2c%22CheckInDate%22%3a%222019-12-28%22%2c%22CheckOutDate%22%3a%222019-12-29%22%2c%22AdultCount%22%3a2%2c%22RoomCount%22%3a1%2c%22CountryCode%22%3a%22CN%22%7d"
 	signMd5 := md5.New()
@@ -88,36 +75,38 @@ func init1()  {
 	fmt.Println(url.QueryEscape(si))
 }
 
-func marshal(a interface{})  {
+func marshal(a interface{}) {
 	fmt.Println()
 	fmt.Println("---------------------------------")
 	abyte, _ := json.Marshal(a)
 	url.QueryEscape(string(abyte))
 	fmt.Printf("%s", string(abyte))
 }
+
 var (
-	hotelids  = make(map[string]bool)
-	dumIds = make(map[string]int)
+	hotelids = make(map[string]bool)
+	dumIds   = make(map[string]int)
 )
-func main()  {
-//readfile("hotelinTG.xlsx")
-//	getHotelIds("hotelinTG.xlsx")
-//	getHotelIds("sellhotellist.xlsx")
-//
-//	str := ""
-//	for i, _ := range hotelids {
-//		str += "," + i
-//	}
-//	unStr := ""
-//	for id, _ := range dumIds {
-//		unStr += "," + id
-//	}
-//	fmt.Println(unStr)
-//	utils.Tracefile(str, "log.log")
-time.Sleep(time.Hour)
+
+func main12() {
+	//readfile("hotelinTG.xlsx")
+	//	getHotelIds("hotelinTG.xlsx")
+	//	getHotelIds("sellhotellist.xlsx")
+	//
+	//	str := ""
+	//	for i, _ := range hotelids {
+	//		str += "," + i
+	//	}
+	//	unStr := ""
+	//	for id, _ := range dumIds {
+	//		unStr += "," + id
+	//	}
+	//	fmt.Println(unStr)
+	//	utils.Tracefile(str, "log.log")
+	time.Sleep(time.Hour)
 }
 
-func getHotelIds(file string)  {
+func getHotelIds(file string) {
 	// 打开文件
 	xlFile, err := xlsx.OpenFile(file)
 	if err != nil {
@@ -134,10 +123,10 @@ func getHotelIds(file string)  {
 		id := row.Cells[0].String()
 		if _, ok := hotelids[id]; !ok {
 			hotelids[id] = true
-		}else {
+		} else {
 			if _, b := dumIds[id]; !b {
 				dumIds[id] = 1
-			}else {
+			} else {
 				dumIds[id] = dumIds[id] + 1
 			}
 		}
@@ -168,7 +157,7 @@ func readfile(file string) {
 				leftMap[countryname] = cen
 				continue
 			}
-			str := "\""+countryname+"\"" + ":\"" + Country2Code[cen]+ "\","
+			str := "\"" + countryname + "\"" + ":\"" + Country2Code[cen] + "\","
 			utils.Tracefile(str, "log.log")
 			unMap[countryname] = true
 		}
@@ -181,7 +170,6 @@ func readfile(file string) {
 	//	fmt.Println("\""+country +"\""+":"+"\"\"")
 	//}
 	fmt.Println(len(unMap))
-
 
 }
 
@@ -428,29 +416,71 @@ var Country2Code = map[string]string{
 	"zimbabwe":                         "ZW",
 }
 
-func init()  {
-	go func() {
-		for {
-			if res, err := redis_utils.RetrieveStringFromRedis("test_key", rediscli.RedisDBIdx_Common); err == nil {
-				log.Println(res)
-			}else {
-				log.Println("get:", err.Error())
-			}
-		}
-	}()
-	for i:=3; i< 10; i++  {
-		if err := redis_utils.SetKeyNotExistEx("test_key", rediscli.RedisDBIdx_Common, strconv.Itoa(i), time.Minute); err != nil {
-			log.Println("set err:", err.Error())
-		}
+//
+//func init()  {
+//	go func() {
+//		for {
+//			if res, err := redis_utils.RetrieveStringFromRedis("test_key", rediscli.RedisDBIdx_Common); err == nil {
+//				log.Println(res)
+//			}else {
+//				log.Println("get:", err.Error())
+//			}
+//		}
+//	}()
+//	for i:=3; i< 10; i++  {
+//		if err := redis_utils.SetKeyNotExistEx("test_key", rediscli.RedisDBIdx_Common, strconv.Itoa(i), time.Minute); err != nil {
+//			log.Println("set err:", err.Error())
+//		}
+//	}
+//}
+//
+
+func main123() {
+	wp := lib.WorkPool{}
+	ids := []string{"1", "2", "3", "4", "5", "6", "7", "8"}
+	tasks := make([]interface{}, 0, len(ids))
+	for _, key := range ids {
+		tasks = append(tasks, key)
+	}
+	log.Printf("tasks len:%d", len(tasks))
+
+	wp.WorkerCount = 2
+	wp.Tasks = tasks
+
+	wp.DoFunc = func(t interface{}) {
+		log.Printf("num:%s", t.(string))
+	}
+	wp.Process()
+	if _, isClose := <-wp.Done; !isClose {
+
+	}
+}
+func main() {
+	//ctx, cancel := context.WithTimeout(context.Background(), 1*time.Second)
+	//defer cancel()
+	//
+	//go handle(ctx, 1500*time.Millisecond)
+	//
+	//select {
+	//case <-ctx.Done():
+	//	fmt.Println("main", ctx.Err())
+	//}
+	time.Sleep(time.Second)
+}
+
+func handle(ctx context.Context, duration time.Duration) {
+	select {
+	case <-ctx.Done():
+		fmt.Println("handle", ctx.Err())
+
+	case <-time.After(duration):
+		fmt.Println("process request with", duration)
 	}
 }
 
+func init() {
+	t := time.Now().UTC()
+	date := fmt.Sprintf("%s UTC", t.Format("Mon,02 Jan 2006 15:04:05"))
+	fmt.Printf(date)
 
-
-
-
-
-
-
-
-
+}
