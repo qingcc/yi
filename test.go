@@ -10,6 +10,7 @@ import (
 	"github.com/qingcc/yi/utils"
 	"github.com/qingcc/yi/utils/rpcx/trans_server/service"
 	"github.com/tealeg/xlsx"
+	"go.uber.org/zap"
 	"io"
 	"log"
 	"net/url"
@@ -465,6 +466,8 @@ func main() {
 	//case <-ctx.Done():
 	//	fmt.Println("main", ctx.Err())
 	//}
+	s := "123456"
+	fmt.Printf("%s", s[3:])
 	time.Sleep(time.Second)
 }
 
@@ -482,5 +485,9 @@ func init() {
 	t := time.Now().UTC()
 	date := fmt.Sprintf("%s UTC", t.Format("Mon,02 Jan 2006 15:04:05"))
 	fmt.Printf(date)
-
+	zap.AddCaller()
+}
+func init() {
+	str := "QVRfV0VCLi4qMjAyMDAxMjh8MjAyMDAxMjl8V3wxNDh8NDA4MTk5fEJFRC5NUXxJRF9CMkJfN3xGQnxGSVR8MX4yfjB8fE5AMDN+fjI1MGEyZn4tNjg3MTE4MDA5fk5+NzYxOUQ0RjE1NkYyNEJEMTU3OTUxMDM4NjY1NzAwQUFDTjAwMDAwMDEwMDAxMDAwMjA1MjUwYTJmLi4qNzEwMDIwOTcuLipSRUNIRUNLLi4qcHVibGljX2hvdGVsYmVkc19hdmFpbF9yb29tOmFjZmUzN2MzMzljNjRjNmUyNmFkZGM2ZGQ3YTMxNjg4"
+	log.Printf("len:%d", len(str))
 }
