@@ -7,19 +7,22 @@ require (
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/boombuler/barcode v1.0.0
 	github.com/gin-gonic/gin v1.4.0
+	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/go-ini/ini v1.51.0
 	github.com/go-sql-driver/mysql v1.4.1
 
 	github.com/go-xorm/core v0.6.3 // indirect
+	github.com/gocraft/dbr v0.0.0-20190714181702-8114670a83bd // indirect
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/jackc/pgx v3.6.0+incompatible // indirect
-	github.com/lib/pq v1.0.0
+	github.com/lib/pq v1.1.1
 	github.com/polaris1119/logger v0.0.0-20170422061149-0233d014769e
 	github.com/qingcc/goblog v0.0.0-20191115095047-0b255681b3d9
 	github.com/robfig/cron v1.2.0 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24
+	github.com/siddontang/go v0.0.0-20180604090527-bdc77568d726
 	github.com/smallnest/rpcx v0.0.0-20191202025149-2fd1f4f7e90c
 	github.com/tealeg/xlsx v1.0.5
 	github.com/typa01/go-utils v0.0.0-20181126045345-a86b05b01c1e

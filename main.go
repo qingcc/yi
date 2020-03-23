@@ -3,11 +3,12 @@ package main
 import (
 	"bufio"
 	"io"
+	"log"
 	"os"
 )
 
-func main()  {
-	f, err := os.Open("test.txt")
+func ReadLineByLine(filename string) {
+	f, err := os.Open(filename)
 	if err != nil {
 		panic(err)
 	}
@@ -23,5 +24,10 @@ func main()  {
 	}
 
 }
+
 var m map[string]int
 
+func main() {
+	p := os.Getenv("GOPATH")
+	log.Println("p:", p)
+}

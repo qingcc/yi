@@ -3,10 +3,13 @@ package utils
 import (
 	"bufio"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"log"
+	"net"
 	"os"
 	"runtime/debug"
+	"strings"
 	"unsafe"
 )
 
@@ -91,4 +94,59 @@ func ToJson(obj interface{}) string {
 
 func UmmarshalJson(data string) {
 
+}
+
+func String2Bytes(s string) []byte {
+	x := (*[2]uintptr)(unsafe.Pointer(&s))
+	h := [3]uintptr{x[0], x[1], x[1]}
+
+	return *(*[]byte)(unsafe.Pointer(&h))
+}
+
+var ErrNoNodeNameEnvSet = errors.New("no env settings by 'MY_NODE_NAME'")
+
+func GetK8SNodeIP() (ipAddr string, err error) {
+	nodeName := os.Getenv("MY_NODE_NAME")
+	if nodeName == "" {
+		err = ErrNoNodeNameEnvSet
+		return
+	}
+
+	ipAddr = strings.TrimPrefix(nodeName, "cn-shenzhen.")
+	if ip := net.ParseIP(ipAddr); ip == nil {
+		err = fmt.Errorf("invalid ip address parse by node name: %s", nodeName)
+		ipAddr = ""
+	}
+
+	if err != nil {
+		log.Println(err)
+	}
+
+	return
+}
+
+func GetInternalIp() (string, error) {
+	var addrStr string
+	addrs, err := net.InterfaceAddrs()
+	if err != nil {
+		log.Printf("get IP address failed: %v", err)
+	} else {
+
+		for _, addr := range addrs {
+			if ipnet, ok := addr.(*net.IPNet); ok && !ipnet.IP.IsLoopback() {
+				if ipnet.IP.To4() != nil {
+					addrStr = ipnet.IP.String()
+					if strings.HasPrefix(addrStr, "10.") ||
+						strings.HasPrefix(addrStr, "172.") ||
+						strings.HasPrefix(addrStr, "192.") {
+
+						log.Println(addrStr)
+						return addrStr, nil
+					}
+				}
+			}
+		}
+	}
+
+	return "", errors.New("no expected internal ip found")
 }

@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"flag"
+	commobj "github.com/qingcc/yi/commobj/utils"
 	"github.com/qingcc/yi/utils/rpcx/trans_server/service"
 	"github.com/smallnest/rpcx/server"
 )
@@ -22,18 +23,7 @@ func main() {
 
 type TransServer int
 
-type Args struct {
-	From  string `json:"from"`
-	To    string `json:"to"`
-	Query string `json:"query"`
-	Ssl   bool   `json:"ssl"`
-}
-
-type Reply struct {
-	Query string `json:"query"`
-}
-
-func (tr *TransServer) Transfer(ctx context.Context, args Args, reply *Reply) error {
+func (tr *TransServer) Transfer(ctx context.Context, args commobj.Args, reply *commobj.Reply) error {
 	//reply.Query = service.Transfer(args.Query, args.From, args.To, args.Ssl)
 	reply.Query = service.Trans(args.Query, args.From, args.To, args.Ssl)
 	return nil

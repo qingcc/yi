@@ -1,10 +1,11 @@
 package service
 
 import (
-	"encoding/json"
 	"fmt"
 	"github.com/bitly/go-simplejson"
 	"github.com/qingcc/yi/commobj"
+	trans_service "github.com/qingcc/yi/commobj/utils"
+	commobj_trans "github.com/qingcc/yi/commobj/utils/rpcx"
 	"github.com/qingcc/yi/utils"
 	"github.com/qingcc/yi/utils/httputils"
 	"io/ioutil"
@@ -26,65 +27,32 @@ var (
 	Url  = "http://api.fanyi.baidu.com/api/trans/vip/translate"  //http访问翻译
 	Urls = "https://fanyi-api.baidu.com/api/trans/vip/translate" //https访问翻译
 
-	appId      		= "20190621000309439"    //APP ID
-	secryptkey 		= "3gFJdY73x_NYKAMUU0UB" //密钥
-	httpService 	= httputils.ServiceHttpClient{Timeout:30 * time.Second}
-	//header          = map[string]string{"Content-Type": "application/x-www-form-urlencoded", "Accept": "application/json",
-	//	"Accept-encoding": "gzip, deflate"}
-	header          = map[string]string{"Content-Type": "application/x-www-form-urlencoded", "Accept": "application/json"}
+	appId       = "20190621000309439"    //APP ID
+	secryptkey  = "3gFJdY73x_NYKAMUU0UB" //密钥
+	httpService = httputils.ServiceHttpClient{Timeout: 30 * time.Second}
+	header      = map[string]string{"Content-Type": "application/x-www-form-urlencoded", "Accept": "application/json"}
 )
-func (t *TransRequest)getSign() {
-	t.Sign = utils.Strmd5(t.AppId + t.Query + t.Salt + secryptkey)
-	if t.Ssl {
-		t.Url = Urls
-	}else {
-		t.Url = Url
+
+func getSign(req trans_service.Args) (domain string, data []byte) {
+	salt := strconv.Itoa(rand.Intn(10000))
+	u := url.Values{
+		"q":     {req.Query},                                           //		text  必填	请求翻译query	    UTF-8编码
+		"from":  {req.From},                                            //		text  必填	翻译源语言	    语言列表(可设置为auto)
+		"to":    {req.To},                                              //		TEXT  非必填	译文语言	        语言列表(不可设置为auto)
+		"appid": {appId},                                               //        INT   必填	APP ID
+		"salt":  {salt},                                                //		INT	  必填	随机数
+		"sign":  {utils.Strmd5(appId + req.Query + salt + secryptkey)}, //		TEXT  必填	签名	appid+q+salt+密钥 的MD5值
+	}
+	data = []byte(u.Encode())
+	if req.Ssl {
+		domain = Urls
+	} else {
+		domain = Url
 	}
 	return
 }
 
-func (t *TransRequest)newRequest() (tApi TransApi) {
-	tApi = TransApi{
-		Query: []string{t.Query},
-		From:  []string{t.From},
-		To:    []string{t.To},
-		Salt:  []string{t.Salt},
-		Sign:  []string{t.Sign},
-		AppId: []string{t.AppId},
-	}
-	return
-}
-
-
-type TransRequest struct {
-	Query string `json:"q"`         //		text  必填	请求翻译query	    UTF-8编码
-	From string `json:"from"`       //		text  必填	翻译源语言	    语言列表(可设置为auto)
-	To string `json:"to"`           //		TEXT  非必填	译文语言	        语言列表(不可设置为auto)
-	Salt string `json:"salt"`       //		INT	  必填	随机数
-	Sign string `json:"sign"`		//		TEXT  必填	签名	appid+q+salt+密钥 的MD5值
-	AppId string `json:"appid"`     //      INT   必填	APP ID
-
-	Ssl bool `json:"-"`
-	Url string `json:"-"`
-}
-type TransApi struct {
-	Query []string `json:"q"`         //		text  必填	请求翻译query	    UTF-8编码
-	From []string `json:"from"`       //		text  必填	翻译源语言	    语言列表(可设置为auto)
-	To []string `json:"to"`           //		TEXT  非必填	译文语言	        语言列表(不可设置为auto)
-	Salt []string `json:"salt"`       //		INT	  必填	随机数
-	Sign []string `json:"sign"`		//		TEXT  必填	签名	appid+q+salt+密钥 的MD5值
-	AppId []string `json:"appid"`
-}
-
-type TransResponse struct {
-	From string `json:"from"`
-	To string `json:"to"`
-	TransResult struct{
-		Src uint8 `json:"src"`
-		Dst string `json:"dst"`
-	} `json:"trans_result"`
-}
-
+//old
 func Trans(words, from, to string, ssl bool) string { //翻译函数
 	if from == "" {
 		from = "zh"
@@ -102,38 +70,21 @@ func Trans(words, from, to string, ssl bool) string { //翻译函数
 	return dst
 }
 
-
-
-func Transfer(query, from, to string, ssl bool) (res TransResponse) {
-	req := TransRequest{
-		Query: query,
-		From:  from,
-		To:    to,
-		Salt:  strconv.Itoa(rand.Intn(10000)),
-		Ssl:   ssl,
-		AppId:appId,
-	}
-	req.getSign()
-	SendTransData(req, res, true)
+func Transfer(transReq trans_service.Args, reply *commobj_trans.TransResponse) {
+	domain, data := getSign(transReq)
+	SendTransData(domain, data, reply, true)
 	return
 }
 
-
-func SendTransData(req TransRequest, res interface{}, storage bool) (httpMessageResult commobj.HttpMessageResult) {
+func SendTransData(domain string, data []byte, res interface{}, storage bool) (httpMessageResult commobj.HttpMessageResult) {
 	httpMessageResult.Start = time.Now()
 	resultMessageArr := make([]string, 0)
-
-	newReq := req.newRequest()
-	reqData, err := json.Marshal(newReq)
-	if err != nil {
-		resultMessageArr = append(resultMessageArr, "[Marshal Request]fail"+err.Error())
-	}
-	httpMessageResult.Req = string(reqData)
+	httpMessageResult.Req = string(data)
 	resultMessageArr = append(resultMessageArr, "[Marshal Request]Success")
-	code, message, data := httpService.SendJson(req.Url, reqData, header, 1, res)
+	code, message, data := httpService.SendJson(domain, data, header, 1, res)
 	httpMessageResult.ResultCode = code
 	httpMessageResult.SplResultCode = code
-	httpMessageResult.Url = req.Url
+	httpMessageResult.Url = domain
 	httpMessageResult.Res = string(data)
 	if storage {
 		log.Printf("请求对象==>%v\n", httpMessageResult.Req)
@@ -143,16 +94,14 @@ func SendTransData(req TransRequest, res interface{}, storage bool) (httpMessage
 	if code == commobj.SUCCESS {
 		httpMessageResult.Success = true
 		resultMessageArr = append(resultMessageArr, "[SendJson Message]Success")
-	}else {
-		resultMessageArr = append(resultMessageArr, "[SendJson Message]Failed " + message)
+	} else {
+		resultMessageArr = append(resultMessageArr, "[SendJson Message]Failed "+message)
 	}
 	httpMessageResult.ResultMessage = strings.Join(resultMessageArr, ",")
 	httpMessageResult.SplResultMessage = strings.Join(resultMessageArr, ",")
 	httpMessageResult.End = time.Now()
 	return
 }
-
-
 
 func translate(query, from, to string) []byte {
 	salt := strconv.Itoa(rand.Intn(10000))

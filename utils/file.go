@@ -2,6 +2,8 @@ package utils
 
 import (
 	"encoding/csv"
+	"fmt"
+	"github.com/tealeg/xlsx"
 	"log"
 	"os"
 	"runtime"
@@ -97,11 +99,48 @@ func WriteFile(b []byte, filename string) {
 
 //endregion
 
-func Tracefile(str_content string, file string)  {
-	fd,_:=os.OpenFile(file,os.O_RDWR|os.O_CREATE|os.O_APPEND,0644)
+func Tracefile(str_content string, file string) {
+	fd, _ := os.OpenFile(file, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0644)
 
-	fd_content:=strings.Join([]string{str_content,"\n"},"")
-	buf:=[]byte(fd_content)
+	fd_content := strings.Join([]string{str_content, "\n"}, "")
+	buf := []byte(fd_content)
 	fd.Write(buf)
 	fd.Close()
+}
+
+//读取xlsx文件
+func readfile(file string) {
+	// 打开文件
+	xlFile, err := xlsx.OpenFile(file)
+	if err != nil {
+		log.Println("打开文件失败！" + err.Error())
+		return
+	}
+	if len(xlFile.Sheets) == 0 {
+		log.Println("没有找到工作表")
+	}
+
+	unMap := make(map[string]bool)
+	leftMap := make(map[string]string)
+	for k, row := range xlFile.Sheets[0].Rows {
+		if k == 0 {
+			continue
+		}
+		countryname := row.Cells[2].String()
+		//cen := strings.ToLower(row.Cells[3].String())
+		if _, ok := unMap[countryname]; !ok {
+			//if _, b := Country2Code[cen]; !b {
+			//	leftMap[countryname] = cen
+			//	continue
+			//}
+			//str := "\"" + countryname + "\"" + ":\"" + Country2Code[cen] + "\","
+			//utils.Tracefile(str, "log.log")
+			unMap[countryname] = true
+		}
+	}
+	for cn, val := range leftMap {
+		println(cn, " : ", val)
+	}
+	fmt.Println("\n\nimport success")
+
 }

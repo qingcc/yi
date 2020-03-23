@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"flag"
+	commobj "github.com/qingcc/yi/commobj/utils"
 	"github.com/smallnest/rpcx/client"
 	"log"
 	"testing"
@@ -22,20 +23,9 @@ func TestTransServer_Trans(t *testing.T) {
 	xclient := client.NewXClient("TransServer", client.Failtry, client.RandomSelect, d, client.DefaultOption)
 	defer xclient.Close()
 	for {
-		args := Args1{From: *from, To: *to, Query: *query, Ssl: *ssl}
-		reply := &Reply1{}
+		args := commobj.Args{From: *from, To: *to, Query: *query, Ssl: *ssl}
+		reply := &commobj.Reply{}
 		xclient.Call(context.Background(), "Transfer", args, reply)
 		log.Println(reply.Query)
 	}
-}
-
-type Args1 struct {
-	From  string `json:"from"`
-	To    string `json:"to"`
-	Query string `json:"query"`
-	Ssl   bool   `json:"ssl"`
-}
-
-type Reply1 struct {
-	Query string `json:"query"`
 }
