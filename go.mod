@@ -14,6 +14,7 @@ require (
 	github.com/go-xorm/core v0.6.3 // indirect
 	github.com/gocraft/dbr v0.0.0-20190714181702-8114670a83bd // indirect
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
+	github.com/golang/mock v1.2.0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/jackc/pgx v3.6.0+incompatible // indirect
 	github.com/lib/pq v1.1.1

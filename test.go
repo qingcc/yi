@@ -66,3 +66,14 @@ func getEnv() {
 		return
 	}
 }
+
+func init() {
+	orderInfoLists := []int{1, 2, 3, 4, 5, 55, 6, 7, 8, 9, 0}
+	for _, v := range orderInfoLists {
+		go accordingToBookDateUpdateOrder(v)
+	}
+}
+
+func accordingToBookDateUpdateOrder(i int) {
+	log.Println("i:", i)
+}

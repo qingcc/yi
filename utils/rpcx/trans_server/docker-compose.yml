@@ -1,0 +1,15 @@
+version: 3
+services:
+  trans:
+    build:
+      context: .
+      image: trans:tag
+
+  nginx:
+    image: nginx
+    container_name: nginx
+    restart: always
+
+network:
+  my-net:
+    driver: bridge
