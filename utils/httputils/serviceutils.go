@@ -18,7 +18,6 @@ import (
 	"time"
 )
 
-
 type ServiceHttpClient struct {
 	ServiceClient *http.Client
 	Timeout       time.Duration
@@ -190,7 +189,8 @@ func (c *ServiceHttpClient) reqData(method string, ctx *HttpRequestContext) (dat
 	} else {
 		req.Header = make(http.Header)
 		for key, val := range ctx.Headers {
-			req.Header.Set(key, val)
+			//req.Header.Set(key, val) //set方法会把key按照驼峰法命名，可能回修改key的值
+			req.Header[key] = []string{val}
 		}
 
 		if ctx.DataType == commobj.DATA_TYPE_JSON {
