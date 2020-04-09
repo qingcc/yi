@@ -10,6 +10,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
 )
@@ -91,19 +92,21 @@ func GenRsaKey(bits int) error {
 
 var privateKey, publicKey []byte
 
-//func init() {
-//	var err error
-//	publicKey, err = ioutil.ReadFile("public.pem")
-//	if err != nil {
-//		os.Exit(-1)
-//	}
-//	privateKey, err = ioutil.ReadFile("private.pem")
-//	if err != nil {
-//		os.Exit(-1)
-//	}
-//	fmt.Printf("%s\n", publicKey)
-//	fmt.Printf("%s\n", privateKey)
-//}
+func LoadKeyFile(privateKeyFile, publicKeyFile string) {
+	if len(privateKey) == 0 || len(publicKey) == 0 {
+		var err error
+		publicKey, err = ioutil.ReadFile(publicKeyFile)
+		if err != nil {
+			panic("load public key error.")
+		}
+		privateKey, err = ioutil.ReadFile(privateKeyFile)
+		if err != nil {
+			panic("load private key error.")
+		}
+		fmt.Printf("%s\n", publicKey)
+		fmt.Printf("%s\n", privateKey)
+	}
+}
 
 //私钥签名
 func RsaSign(data []byte) ([]byte, error) {
