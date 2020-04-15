@@ -20,6 +20,7 @@ require (
 	github.com/lib/pq v1.1.1
 	github.com/pkg/profile v1.4.0
 	github.com/polaris1119/logger v0.0.0-20170422061149-0233d014769e
+	github.com/prometheus/client_golang v1.1.0
 	github.com/qingcc/goblog v0.0.0-20191115095047-0b255681b3d9
 	github.com/robfig/cron v1.2.0 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec

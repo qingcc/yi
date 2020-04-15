@@ -7,9 +7,11 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 	"fmt"
+	"github.com/qingcc/yi/router"
 	"io"
 	"log"
 	"os"
+	"time"
 )
 
 func ReadLineByLine(filename string) {
@@ -36,6 +38,8 @@ func main() {
 	p := os.Getenv("GOPATH")
 	log.Println("p:", p)
 	getsha256("")
+	go router.InitMetrics(":8082")
+	time.Sleep(time.Hour)
 }
 
 func getsha256(key string) string {
