@@ -18,6 +18,7 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/jackc/pgx v3.6.0+incompatible // indirect
 	github.com/lib/pq v1.1.1
+	github.com/pkg/profile v1.4.0
 	github.com/polaris1119/logger v0.0.0-20170422061149-0233d014769e
 	github.com/qingcc/goblog v0.0.0-20191115095047-0b255681b3d9
 	github.com/robfig/cron v1.2.0 // indirect

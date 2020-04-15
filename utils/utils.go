@@ -5,8 +5,10 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/pkg/profile"
 	"log"
 	"net"
+	"net/http"
 	"os"
 	"runtime/debug"
 	"strings"
@@ -149,4 +151,22 @@ func GetInternalIp() (string, error) {
 	}
 
 	return "", errors.New("no expected internal ip found")
+}
+
+//region Remark: pprof监测 Author:qing
+func Pprof(addr string) {
+	if addr == "" {
+		addr = ":6061"
+	}
+	go func() {
+		log.Println(http.ListenAndServe(addr, nil))
+	}()
+}
+
+//endregion
+
+func Pprof2File(f func()) {
+	stopper := profile.Start(profile.CPUProfile, profile.ProfilePath(".")) // 开始性能分析, 返回一个停止接口
+	defer stopper.Stop()                                                   // 在被测试程序结束时停止性能分析
+	f()
 }

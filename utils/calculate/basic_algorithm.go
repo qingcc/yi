@@ -22,7 +22,7 @@ func bubbleSort(arr []int) {
 * 选择排序
  */
 
-func selectSort(arr []int) {
+func SelectSort(arr []int) {
 	for i := 0; i < len(arr)-1; i++ {
 		min := i
 		for j := i + 1; j < len(arr); j++ {
@@ -39,7 +39,7 @@ func selectSort(arr []int) {
 * 插入排序
  */
 
-func insertSort(arr []int) {
+func InsertSort(arr []int) {
 	for i := 1; i < len(arr); i++ {
 		selected := arr[i] //插入排序是第i个元素和前面i-1个有序数组的比较，交换，比较的一方一直都有元素i
 		for j := i - 1; j >= 0 && arr[j] > selected; j-- {
@@ -53,7 +53,7 @@ func insertSort(arr []int) {
 * 希尔排序
  */
 
-func shellSort(arr []int) {
+func ShellSort(arr []int) {
 	length := len(arr)
 	// 确定h
 	h := 1
@@ -81,7 +81,7 @@ func shellSort(arr []int) {
 * 快速排序
  */
 
-func quickSort(data []int) {
+func QuickSort(data []int) {
 	partition(data, 0, len(data)-1)
 }
 
@@ -115,7 +115,7 @@ func partition(data []int, low, high int) {
 * 归并排序
  */
 
-func mergeSort(arr []int) {
+func MergeSort(arr []int) {
 	Merge_sort(arr, 0, len(arr)-1)
 }
 
@@ -156,7 +156,7 @@ func Merge_core(arr []int, start int, middle int, end int) {
 * 堆排序
  */
 
-func heapSort(arr []int) {
+func HeapSort(arr []int) {
 	n := len(arr)
 	for i := n - 1; i > 0; i-- {
 		noleaf := (i+1)/2 - 1

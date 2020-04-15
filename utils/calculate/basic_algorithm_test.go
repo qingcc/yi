@@ -15,23 +15,23 @@ func Test_bubble(t *testing.T) {
 
 func Test_Select(t *testing.T) {
 	data := []int{1, 48, 3, 34, 32, 10, 23, 43, 32}
-	selectSort(data)
+	SelectSort(data)
 	fmt.Println(data)
 }
 func Test_insert(t *testing.T) {
 	data := []int{1, 48, 3, 34, 32, 10, 23, 43, 32}
-	insertSort(data)
+	InsertSort(data)
 	fmt.Println(data)
 }
 
 func Test_shell(t *testing.T) {
 	data := []int{1, 48, 3, 34, 32, 10, 23, 43, 32}
-	shellSort(data)
+	ShellSort(data)
 	fmt.Println(data)
 }
 func Test_quick(t *testing.T) {
 	data := []int{1, 48, 3, 34, 32, 10, 23, 43, 32}
-	quickSort(data)
+	QuickSort(data)
 	fmt.Println(data)
 }
 
@@ -43,7 +43,7 @@ func Test_merge(t *testing.T) {
 
 func Test_heap(t *testing.T) {
 	data := []int{1, 48, 3, 34, 32, 10, 23, 43, 32}
-	heapSort(data)
+	HeapSort(data)
 	fmt.Println(data)
 }
 func Test_radix(t *testing.T) {
@@ -62,7 +62,7 @@ func Test_presure(t *testing.T) {
 		input[i] = r.Intn(max)
 	}
 	start := time.Now().UnixNano()
-	shellSort(input[:])
+	ShellSort(input[:])
 	end := time.Now().UnixNano()
 	fmt.Println("shell ", len(input), "sort cost: ", end-start, "nano second")
 
@@ -70,7 +70,7 @@ func Test_presure(t *testing.T) {
 		input[i] = r.Intn(max)
 	}
 	start = time.Now().UnixNano()
-	quickSort(input[:])
+	QuickSort(input[:])
 	end = time.Now().UnixNano()
 	fmt.Println("quick ", len(input), "sort cost: ", end-start, "nano second")
 
@@ -78,7 +78,7 @@ func Test_presure(t *testing.T) {
 		input[i] = r.Intn(max)
 	}
 	start = time.Now().UnixNano()
-	mergeSort(input[:])
+	MergeSort(input[:])
 	end = time.Now().UnixNano()
 	fmt.Println("merge ", len(input), "sort cost: ", end-start, "nano second")
 
@@ -86,7 +86,7 @@ func Test_presure(t *testing.T) {
 		input[i] = r.Intn(max)
 	}
 	start = time.Now().UnixNano()
-	heapSort(input[:])
+	HeapSort(input[:])
 	end = time.Now().UnixNano()
 	fmt.Println("heap  ", len(input), "sort cost: ", end-start, "nano second")
 
