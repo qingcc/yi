@@ -19,7 +19,7 @@ func Bytes2String(b []byte) string {
 	return *(*string)(unsafe.Pointer(&b))
 }
 
-func RecoverPanic(isPrintStack bool) {
+func RecoverFromPanic(isPrintStack bool) {
 	if r := recover(); r != nil {
 		log.Println(r)
 		if isPrintStack {
@@ -65,30 +65,9 @@ func Stdin2() {
 
 //endregion
 
-//func Json2Struct(data string) (stru string) {
-//	//Map := make(map[string]interface{})
-//	structMap := make(map[string]interface{})
-//	if err := json.Unmarshal([]byte(data), &structMap); err != nil {
-//		log.Panic("unmarshal failed")
-//	}
-//	for key, val := range structMap {
-//
-//	}
-//	return
-//}
-//
-//func trans(key string, val interface{}, structMap map[string]interface{}) {
-//
-//}
-//
-//func to() {
-//
-//}
-
 func ToJson(obj interface{}) string {
 	bytes, err := json.Marshal(obj)
 	if err != nil {
-
 		log.Printf("to json failed (%s), obj %s", err, obj)
 	}
 	return string(bytes)
