@@ -27,6 +27,7 @@ func getHotelIds(file string) {
 }
 
 func main() {
+	time.Sleep(time.Hour)
 	ctx, cancel := context.WithTimeout(context.Background(), 1*time.Second)
 	defer cancel()
 
