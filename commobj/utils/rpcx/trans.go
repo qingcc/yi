@@ -24,8 +24,8 @@ type TransAPIRequest struct {
 type TransResponse struct {
 	From        string `json:"from"`
 	To          string `json:"to"`
-	TransResult struct {
-		Src uint8  `json:"src"`
+	TransResult []struct {
+		Src string `json:"src"`
 		Dst string `json:"dst"`
 	} `json:"trans_result"`
 }

@@ -12,10 +12,10 @@ func TestTransfer(t *testing.T) {
 	req := trans_service.Args{
 		From:  "zh",
 		To:    "en",
-		Query: "文档",
+		Query: "请求",
 		Ssl:   false,
 	}
 	res := &commobj_trans.TransResponse{}
 	Transfer(req, res)
-	log.Println("res:", utils.ToJson(res), "dst:", res.TransResult.Dst)
+	log.Println("res:", utils.ToJson(res), "dst:", res.TransResult[0].Dst)
 }

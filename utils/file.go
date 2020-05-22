@@ -6,6 +6,7 @@ import (
 	"github.com/tealeg/xlsx"
 	"log"
 	"os"
+	"path/filepath"
 	"runtime"
 	"strconv"
 	"strings"
@@ -55,6 +56,20 @@ func ScanDir(dir string) []string {
 		return []string{}
 	}
 	return names
+}
+
+// 列举一个目录（包括子目录）下的xlsx文件
+func ListExcelFile(dir string) (result []string) {
+	err := filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
+		if strings.HasSuffix(path, ".xlsx") {
+			result = append(result, path)
+		}
+		return nil
+	})
+	if err != nil {
+		log.Println(err)
+	}
+	return result
 }
 
 //endregion

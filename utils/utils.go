@@ -2,10 +2,12 @@ package utils
 
 import (
 	"bufio"
+	"crypto/md5"
 	"encoding/json"
 	"errors"
 	"fmt"
 	"github.com/pkg/profile"
+	"io"
 	"log"
 	"net"
 	"net/http"
@@ -263,4 +265,10 @@ func Pprof2File(f func()) {
 	stopper := profile.Start(profile.CPUProfile, profile.ProfilePath(".")) // 开始性能分析, 返回一个停止接口
 	defer stopper.Stop()                                                   // 在被测试程序结束时停止性能分析
 	f()
+}
+
+func Strmd5(str string) string {
+	hash := md5.New()
+	io.WriteString(hash, str) //RatePlanCode房型下唯一
+	return fmt.Sprintf("%x", hash.Sum(nil))
 }
