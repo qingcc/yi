@@ -74,46 +74,6 @@ func ListExcelFile(dir string) (result []string) {
 
 //endregion
 
-//region Remark: 写入文件 Author:Qing
-func Write2File(fileName string, data [][]string) {
-	f, err := os.Create(fileName) //创建文件 test.csv
-	if err != nil {
-		panic(err)
-	}
-	defer f.Close()
-
-	f.WriteString("\xEF\xBB\xBF") // 写入UTF-8 BOM
-
-	w := csv.NewWriter(f) //创建一个新的写入文件流
-	//data := [][]string{
-	//	{"1", "中国", "23"},
-	//	{"2", "美国", "23"},
-	//	{"3", "bb", "23"},
-	//	{"4", "bb", "23"},
-	//	{"5", "bb", "23"},
-	//}
-	w.WriteAll(data) //写入数据
-	w.Flush()
-}
-
-//endregion
-
-//region Remark: writefile Author:Qing
-func WriteFile(b []byte, filename string) {
-	f, err := os.OpenFile(filename, os.O_WRONLY|os.O_TRUNC|os.O_APPEND, 0644)
-	if err != nil {
-		log.Printf("write to file %s failed, failed err: %v", filename, err)
-	}
-	defer f.Close()
-
-	if _, err := f.WriteString(string(b)); err != nil {
-		log.Printf("write to file %s failed, failed err: %v", filename, err)
-	}
-	return
-}
-
-//endregion
-
 func Tracefile(str_content string, file string) {
 	fd, _ := os.OpenFile(file, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0644)
 
@@ -158,4 +118,21 @@ func readfile(file string) {
 	}
 	fmt.Println("\n\nimport success")
 
+}
+
+//以追加的方式写入文件，当写入文件的数据太多时，可以使用分批追加写入
+func AppendCsv(filename string, isFirst bool, colsColumns []string, data [][]string) {
+	f, err := os.OpenFile(filename, os.O_RDWR|os.O_TRUNC|os.O_CREATE|os.O_APPEND, os.ModePerm) //os.O_TRUNC执行之前是否需要清空原有数据
+	if err != nil {
+		panic(err)
+	}
+	defer f.Close()
+
+	f.WriteString("\xEF\xBB\xBF")
+	w := csv.NewWriter(f)
+	if isFirst {
+		w.Write(colsColumns)
+	}
+	w.WriteAll(data)
+	w.Flush()
 }

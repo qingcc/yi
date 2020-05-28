@@ -15,6 +15,7 @@ import (
 	"reflect"
 	"runtime/debug"
 	"strings"
+	"unicode"
 	"unsafe"
 )
 
@@ -271,4 +272,16 @@ func Strmd5(str string) string {
 	hash := md5.New()
 	io.WriteString(hash, str) //RatePlanCode房型下唯一
 	return fmt.Sprintf("%x", hash.Sum(nil))
+}
+
+func HasChinese(str string) bool {
+	if str == "" {
+		return true
+	}
+	for _, v := range str {
+		if unicode.Is(unicode.Han, v) {
+			return true
+		}
+	}
+	return false
 }
