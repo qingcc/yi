@@ -24,10 +24,13 @@ require (
 	github.com/qingcc/goblog v0.0.0-20191115095047-0b255681b3d9
 	github.com/robfig/cron v1.2.0 // indirect
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec
+	github.com/sgoby/opencc v0.0.0-20181105060730-5b3b1de2620a
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24
 	github.com/siddontang/go v0.0.0-20180604090527-bdc77568d726
+	github.com/sirupsen/logrus v1.2.0
 	github.com/smallnest/rpcx v0.0.0-20191202025149-2fd1f4f7e90c
 	github.com/tealeg/xlsx v1.0.5
+	github.com/tidwall/gjson v1.6.0
 	github.com/typa01/go-utils v0.0.0-20181126045345-a86b05b01c1e
 	go.uber.org/atomic v1.5.1 // indirect
 	go.uber.org/multierr v1.4.0 // indirect

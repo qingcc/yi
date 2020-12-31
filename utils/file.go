@@ -122,7 +122,7 @@ func readfile(file string) {
 
 //以追加的方式写入文件，当写入文件的数据太多时，可以使用分批追加写入
 func AppendCsv(filename string, isFirst bool, colsColumns []string, data [][]string) {
-	f, err := os.OpenFile(filename, os.O_RDWR|os.O_TRUNC|os.O_CREATE|os.O_APPEND, os.ModePerm) //os.O_TRUNC执行之前是否需要清空原有数据
+	f, err := os.OpenFile(filename, os.O_RDWR|os.O_CREATE|os.O_APPEND, os.ModePerm) //os.O_TRUNC执行之前是否需要清空原有数据
 	if err != nil {
 		panic(err)
 	}

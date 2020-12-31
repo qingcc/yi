@@ -9,6 +9,7 @@ import (
 	"github.com/pkg/profile"
 	"io"
 	"log"
+	"math"
 	"net"
 	"net/http"
 	"os"
@@ -18,6 +19,16 @@ import (
 	"unicode"
 	"unsafe"
 )
+
+func RoundNum(f float64, n int) float64 {
+	pow10_n := math.Pow10(n)
+	return math.Trunc((f+0.5/pow10_n)*pow10_n) / pow10_n
+}
+
+func Decimal(value float64) float64 {
+	// 只去浮点数的小数点后两位
+	return math.Trunc(value*1e2+0.5) * 1e-2
+}
 
 func Bytes2String(b []byte) string {
 	return *(*string)(unsafe.Pointer(&b))

@@ -1,0 +1,4963 @@
+法属南部领地	French Southern Territories	Europe	TF
+夏威夷	Hawaii	North America	HW
+阿拉斯加	Alaska	North America	AK
+新西兰属土岛屿	New Zealand Islands Territories	Oceania	XL
+加罗林群岛	Caroline Islands	Asia	XK
+巴利阿里群岛	Balearic Islands	Europe	XJ
+马德拉群岛	Madeira	Africa	XI
+亚速尔群岛	Azores	Europe	XH
+科西嘉岛	Corsica	Europe	XF
+阿森松	Ascension	Africa	XD
+特里斯坦-达库尼亚群岛	Tristan Da Cunha	Africa	XB
+诺福克岛	Norfolk Island	Oceania	NF
+科科斯基林群岛	Cocos Keeling Islands	Oceania	CC
+圣诞岛	Christmas Island	Oceania	CX
+塞尔维亚	Serbia	Europe	RS
+美国外围岛屿	United States Minor Outlying Islands	North America	UM
+扎伊尔共和国	The Republic of Zaire	Africa	ZR
+托克劳	Tokelau	Oceania	TK
+皮特凯恩群岛	Pitcairn Islands	Oceania	PN
+南乔治亚岛和南桑威奇群岛	South Georgia and The South Sandwich Islands	South America	GS
+黑山共和国	Montenegro	Europe	ME
+科索沃	Kosovo	Europe	YK
+布韦岛	Bouvet Island	Antarctica	BV
+博奈尔岛	Bonaire	North America	BQ
+圣尤斯特歇斯岛	Saint Eustatius	North America	XE
+圣巴托洛缪岛	Saint-Barthélemy	South America	BL
+库拉索	Curacao	North America	CW
+荷属圣马丁	Sint Maarten	North America	XM
+尼维斯岛	Nevis	North America	XN
+加那利群岛	Canary Islands	Africa	IC
+北马里亚纳群岛	Northern Mariana Islands	Oceania	MP
+叙利亚	The Syrian Arab Republic	Asia	SY
+英国	United Kingdom	Europe	GB
+法属圣马丁	Saint-Martin	North America	MF
+巴勒斯坦	Palestine	Asia	PS
+东帝汶	East Timor	Asia	TL
+圣多美和普林西比	Sao Tome and Principe	Africa	ST
+南苏丹	South Sudan	Africa	SS
+苏丹	Sudan	Africa	SD
+朝鲜	North Korea	Asia	KP
+缅甸	Republic of the Union of Myanmar	Asia	MM
+伊朗	Islamic Republic of Iran	Asia	IR
+古巴	The Republic of Cuba	North America	CU
+法罗群岛	Faroe Islands	Europe	FO
+圣文森特和格陵纳丁斯	Saint Vincent and the Grenadines	North America	VC
+刚果民主共和国	Democratic Republic of the Congo	Africa	CD
+孟加拉	Bangladesh	Asia	BD
+阿塞拜疆	Azerbaijan Republic	Asia	AZ
+亚美尼亚	Armenia	Asia	AM
+阿富汗	Afghanistan	Asia	AF
+萨摩亚（西萨摩亚）	Western Samoa	Oceania	WS
+瓦利斯群岛和富图纳群岛	Wallis and Futuna	Oceania	WF
+瓦努阿鲁	Vanuatu	Oceania	VU
+图瓦卢	Tuvalu	Oceania	TV
+汤加	Tonga	Oceania	TO
+所罗门群岛	Solomon Islands	Oceania	SB
+巴布亚新几内亚	Papua New Guinea	Oceania	PG
+帕劳	Palau	Oceania	PW
+纽爱	Niue	Oceania	NU
+新西兰	New Zealand	Oceania	NZ
+新卡里多尼亚	New Caledonia	Oceania	NC
+瑙鲁	Nauru	Oceania	NR
+米克罗尼西亚	Micronesia	Oceania	FM
+马绍尔群岛	Marshall Islands	Oceania	MH
+科特迪瓦	Ivory Coast	Africa	CI
+土库曼斯坦	Turkmenistan	Asia	TM
+乌兹别克斯坦	Uzbekistan	Asia	UZ
+巴林	Bahrain	Asia	BH
+韩国	South Korea	Asia	KR
+斯里兰卡	Sri Lanka	Asia	LK
+塔吉克斯坦	Tajikistan	Asia	TJ
+沙特阿拉伯	Saudi Arabia	Asia	SA
+新加坡	Singapore	Asia	SG
+中国台湾省	Taiwan	Asia	TW
+泰国	Thailand	Asia	TH
+越南	Vietnam	Asia	VN
+安圭拉岛	Anguilla	North America	AI
+安提瓜和巴布达	Antigua and Barbuda	North America	AG
+阿鲁巴	Aruba	North America	AW
+西班牙	Spain	Europe	ES
+卡塔尔	Qatar	Asia	QA
+巴哈马	Bahamas	North America	BS
+巴巴多斯	Barbados	North America	BB
+伯里兹	Belize	North America	BZ
+英属维尔京群岛	British Virgin Islands	North America	VG
+开曼群岛	Cayman Islands	North America	KY
+斯洛文尼亚	Slovenia	Europe	SI
+哥斯达黎加	Costa Rica	North America	CR
+多米尼加共和国	Dominican Republic	North America	DO
+多米尼克	Dominica	North America	DM
+斯洛伐克	Slovakia	Europe	SK
+萨尔瓦多	El Salvador	North America	SV
+格林纳达	Grenada	North America	GD
+法属德洛普群岛	Guadeloupe	North America	GP
+危地马拉	Guatemala	North America	GT
+海地	Haiti	North America	HT
+洪都拉斯	Honduras	North America	HN
+圣马力诺	San Marino	Europe	SM
+牙买加	Jamaica	North America	JM
+法属马提尼克群岛	Martinique	North America	MQ
+菲律宾	Philippines	Asia	PH
+蒙塞拉特岛	Montserrat	North America	MS
+俄罗斯	Russian Federation	Europe	RU
+荷属安德列斯	Netherlands Antilles	North America	AN
+巴基斯坦	Pakistan	Asia	PK
+尼加拉瓜	Nicaragua	North America	NI
+罗马尼亚	Romania	Europe	RO
+阿曼	Oman	Asia	OM
+巴拿马	Panama	North America	PA
+波多黎各	Puerto Rico	North America	PR
+葡萄牙	Portugal	Europe	PT
+尼泊尔	Nepal	Asia	NP
+圣基茨和尼维斯	Saint Kitts-Nevis	North America	KN
+圣卢西亚	Saint Lucia	North America	LC
+波兰	Poland	Europe	PL
+蒙古	Mongolia	Asia	MN
+特立尼达和多巴哥	Trinidad and Tobago	North America	TT
+挪威	Norway	Europe	NO
+特克斯和凯科斯群岛	Turks and Caicos Islands	North America	TC
+马尔代夫	Maldives	Asia	MV
+美属维尔京群岛	Virgin Islands U.S.	North America	VI
+百慕大	Bermuda	North America	BM
+马来西亚	Malaysia	Asia	MY
+加拿大	Canada	North America	CA
+中国澳门特区	Macau	Asia	MO
+格陵兰岛	Greenland	North America	GL
+荷兰	Netherlands	Europe	NL
+黎巴嫩	Lebanon	Asia	LB
+墨西哥	Mexico	North America	MX
+老挝	Laos	Asia	LA
+圣皮埃尔和密克隆岛	Saint Pierre and Miquelon	North America	PM
+吉尔吉斯斯坦	Kyrgyzstan	Asia	KG
+美国	United States	North America	US
+摩纳哥	Monaco	Europe	MC
+科威特	Kuwait	Asia	KW
+摩尔多瓦	Moldova	Europe	MD
+阿根廷	Argentina	South America	AR
+玻利维亚	Bolivia	South America	BO
+哈萨克斯坦	Kazakhstan	Asia	KZ
+巴西	Brazil	South America	BR
+马耳他	Malta	Europe	MT
+约旦	Jordan	Asia	JO
+智利	Chile	South America	CL
+马其顿	Macedonia	Europe	MK
+日本	Japan	Asia	JP
+厄瓜多尔	Ecuador	South America	EC
+以色列	Israel	Asia	IL
+福克兰群岛	Falkland Islands	South America	FK
+卢森堡	Luxembourg	Europe	LU
+法属圭亚那	French Guiana	South America	GF
+伊拉克	Iraq	Asia	IQ
+圭亚那	Guyana	South America	GY
+立陶宛	Lithuania	Europe	LT
+印度尼西亚	Indonesia	Asia	ID
+巴拉圭	Paraguay	South America	PY
+秘鲁	Peru	South America	PE
+印度	India	Asia	IN
+苏里南	Suriname	South America	SR
+乌拉圭	Uruguay	South America	UY
+中国香港特区	Hong Kong	Asia	HK
+格鲁吉亚	Georgia	Asia	GE
+中国	China	Asia	CN
+也门	Yemen	Asia	YE
+柬埔寨	Cambodia	Asia	KH
+文莱布鲁萨兰	Brunei Darussalam	Asia	BN
+列支顿士登	Liechtenstein	Europe	LI
+拉脱维亚	Latvia	Europe	LV
+根西岛	Guernsey	Europe	GG
+希腊	Greece	Europe	GR
+直布罗陀	Gibraltar	Europe	GI
+芬兰	Finland	Europe	FI
+爱沙尼亚	Estonia	Europe	EE
+丹麦	Denmark	Europe	DK
+泽西岛	Jersey	Europe	JE
+捷克	Czech Republic	Europe	CZ
+塞普路斯	Cyprus	Africa	CY
+克罗地亚	Croatia	Europe	HR
+意大利	Italy	Europe	IT
+保加利亚	Bulgaria	Europe	BG
+波黑	Bosnia and Herzegovina	Europe	BA
+爱尔兰	Ireland	Europe	IE
+比利时	Belgium	Europe	BE
+白俄罗斯	Belarus	Europe	BY
+冰岛	Iceland	Europe	IS
+不丹	Bhutan	Asia	BT
+基里巴斯	Kiribati	Oceania	KI
+奥地利	Austria	Europe	AT
+安道尔	Andorra	Europe	AD
+关岛	Guam	Oceania	GU
+阿尔巴尼亚	Albania	Europe	AL
+法属玻里尼西亚	French Polynesia	Oceania	PF
+津巴布韦	Zimbabwe	Africa	ZW
+斐济	Fiji	Oceania	FJ
+赞比亚	Zambia	Africa	ZM
+匈牙利	Hungary	Europe	HU
+西撒哈拉	Western Sahara	Africa	EH
+乌干达	Uganda	Africa	UG
+突尼斯	Tunisia	Africa	TN
+库克群岛	Cook Islands	Oceania	CK
+多哥	Togo	Africa	TG
+澳大利亚	Australia	Oceania	AU
+坦桑尼亚	Tanzania	Africa	TZ
+斯威士兰	Swaziland	Africa	SZ
+东萨摩亚	American Samoa	Oceania	AS
+南非	South Africa	Africa	ZA
+梵蒂冈	Vatican City State	Europe	VA
+索马里	Somalia	Africa	SO
+塞拉利昂	Sierra Leone	Europe	SL
+塞舌尔	Seychelles	Africa	SC
+塞内加尔	Senegal	Africa	SN
+圣赫勒拿	Saint Helena	Africa	SH
+卢旺达	Rwanda	Africa	RW
+乌克兰	Ukraine	Europe	UA
+留尼旺岛	Reunion	Africa	RE
+瑞士	Switzerland	Europe	CH
+瑞典	Sweden	Europe	SE
+尼日利亚	Nigeria	Africa	NG
+斯瓦尔巴群岛和扬马延岛	Svalbard and Jan Mayen	Europe	SJ
+尼日尔	Niger	Africa	NE
+纳米比亚	Namibia	Africa	NA
+莫桑比克	Mozambique	Africa	MZ
+摩洛哥	Morocco	Africa	MA
+马约特岛	Mayotte	Africa	YT
+毛里求斯	Mauritius	Africa	MU
+毛里塔尼亚	Mauritania	Africa	MR
+马里	Mali	Africa	ML
+马拉维	Malawi	Africa	MW
+马达加斯加	Madagascar	Africa	MG
+利比亚	Libya	Africa	LY
+利比里亚	Liberia	Africa	LR
+莱索托	Lesotho	Africa	LS
+肯尼亚	Kenya	Africa	KE
+几内亚比绍	Guinea-Bissau	Africa	GW
+几内亚	Guinea	Africa	GN
+加纳	Ghana	Africa	GH
+冈比亚	Gambia	Africa	GM
+加蓬	Gabon Republic	Africa	GA
+埃塞俄比亚	Ethiopia	Africa	ET
+厄立特里亚	Eritrea	Africa	ER
+赤道几内亚	Equatorial Guinea	Africa	GQ
+埃及	Egypt	Africa	EG
+吉布提	Djibouti	Africa	DJ
+阿联酋	United Arab Emirates	Asia	AE
+土耳其	Turkey	Asia	TR
+刚果	The Republic of Congo	Africa	CG
+科摩罗	Comoros	Africa	KM
+乍得	Chad	Africa	TD
+委内瑞拉	Venezuela	South America	VE
+中非	Central African Republic	Africa	CF
+哥伦比亚	Colombia	South America	CO
+佛得角	Cape Verde Islands	Africa	CV
+喀麦隆	Cameroon	Africa	CM
+布隆迪	Burundi	Africa	BI
+布基纳法索	Burkina Faso	Africa	BF
+博茨瓦纳	Botswana	Africa	BW
+贝宁	Benin	Africa	BJ
+安哥拉	Angola	Africa	AO
+阿尔及利亚	Algeria	Africa	DZ
+法国	France	Europe	FR
+德国	Germany	Europe	DE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6095029,青森(及其周边地区),Aomori (and vicinity),10385
+11999,龙目岛,Lombok,6569
+179899,罗马 (及周边地区),Rome (and vicinity),4959
+178236,曼谷 (及其周边地区),Bangkok (and vicinity),4559
+6055123,斯里兰卡(全部),Sri Lanka (all),3617
+6337862,攀牙 (及邻近地区),Phang Nga (and vicinity),3425
+180008,吉隆坡 (及其周边地区),Kuala Lumpur (and vicinity),3269
+890,清迈 (及其周边地区),Chiang Mai (and vicinity),3204
+178308,首尔 (及其周边地区),Seoul (and vicinity),3184
+179900,东京 (及其周边地区),Tokyo (and vicinity),3183
+178262,胡志明市 (及其周边地区),Ho Chi Minh City (and vicinity),3088
+6131486,京都 (及其周边地区),Kyoto (and vicinity),2976
+179897,大阪 (及其周边地区),Osaka (and vicinity),2971
+178279,伦敦 (及周边地区),London (and vicinity),2935
+179898,巴黎 (及附近地区),Paris (and vicinity),2933
+3657,苏梅岛 (及周边岛屿),Koh Samui (and surrounding islands),2866
+6049928,果阿(州),Goa (state),2860
+602651,巴厘岛,Bali,2605
+9514,芭堤雅 (及其周边地区),Pattaya (and vicinity),2517
+180000,德里(及其周边地区),Delhi (and vicinity),2285
+178294,奥兰多 (及周边地区),Orlando (and vicinity),2254
+6049718,济州岛,Jeju Island,2209
+180030,台北 (及其周边地区),Taipei (and vicinity),2149
+1428,河内 (及其周边地区),Hanoi (and vicinity),2129
+6217672,"",Alpes du Nord,2106
+602317,马略卡岛,Mallorca Island,2105
+178263,香港 (全区),Hong Kong (all),2098
+6049558,华欣 (及其周边地区),Hua Hin (and vicinity),2095
+178267,伊斯坦布尔 (及附近地区),Istanbul (and vicinity),2093
+6023825,阿利坎特(省),Alicante (province),1854
+6178472,花莲县,Hualien County,1842
+6050558,甲米 - 董里(府),Krabi - Trang (provinces),1833
+6051661,拉西锡(地区),Lasithi (region),1714
+179992,巴塞罗那 (及附近地区),Barcelona (and vicinity),1621
+6052366,日内瓦湖,Lake Geneva (area),1600
+178310,圣彼得斯堡 - 克利尔沃特(及周边地区),St. Petersburg - Clearwater (and vicinity),1590
+6046820,开普敦(及周边地区),Cape Town (and vicinity),1576
+6052978,巴勒莫(省),Palermo (province),1574
+178282,马尼拉 (及其周边地区),Manila (and vicinity),1565
+6050887,特鲁利-巴里(省),Trulli - Bari (province),1557
+6046393,普吉 (及邻近地区),Phuket (and vicinity),1555
+603258,马拉加(省),Malaga (province),1514
+178269,雅加达 (及其周边地区),Jakarta (and vicinity),1473
+6049988,福拉尔贝格州,Vorarlberg,1455
+179981,威尼斯 (及周边地区),Venice (and vicinity),1446
+6053307,班加罗尔(及其周边地区),Bengaluru (and vicinity),1404
+6046791,安塔利亚(区),Antalya (region),1354
+180012,米兰 (及附近地区),Milan (and vicinity),1351
+6158672,屏东县,Pingtung County,1350
+6221243,巴塞罗纳海岸,Costa Barcelona,1338
+6178471,宜兰县,Yilan County,1321
+974,岘港 (及邻近地区),Da Nang (and vicinity),1307
+6049721,釜山 (及其周边地区),Busan (and vicinity),1279
+6050062,孟买(及其周边地区),Mumbai (and vicinity),1237
+6084756,马拉喀什(及其周边地区),Marrakech (and vicinity),1209
+178281,马德里 (及附近地区),Madrid (and vicinity),1184
+178283,墨尔本 (及其周边地区),Melbourne (and vicinity),1163
+6052530,弗提欧提达(地区),Fthiotida (region),1097
+2975,暹粒,Siem Reap,1097
+179893,佛罗伦萨(省),Florence (province),1081
+6142145,新山 (及周边地区),Johor Bahru (and vicinity),1060
+6127900,伊豆半岛,Izu Peninsula,1038
+178278,里斯本 (及附近地区),Lisbon (and vicinity),1033
+182215,阿尔加维,Algarve,1020
+6178473,台东县,Taitung County,1020
+180014,布拉格 (及附近地区),Prague (and vicinity),1013
+2766,槟城,Penang,1002
+6050109,斯普利特-中达尔马提亚,Split - Middle Dalmatia,1002
+6127975,长野 (及周边地区),Nagano (and vicinity),996
+179892,柏林 (及附近地区),Berlin (and vicinity),994
+6048566,阿布鲁佐,Abruzzo,993
+178312,悉尼 (及其周边地区),Sydney (and vicinity),986
+1079,迪拜(及其周边地区),Dubai Emirate,980
+6025909,翡翠海岸-奥而比亚-东撒丁岛,Costa Smeralda - Olbia - Eastern Sardinia,969
+6046889,里米尼(省),Rimini (province),963
+178280,洛杉矶 (及周边地区),Los Angeles (and vicinity),959
+178232,亚特兰大(及周边地区),Atlanta (and vicinity),947
+6047147,佳达湖(区),Lake Garda (area),944
+6052917,斋浦尔(及其周边地区),Jaipur (and vicinity),926
+6054439,芽庄 (及周边地区),Nha Trang (and vicinity),901
+602,亚庇 (及其周边地区),Kota Kinabalu (and vicinity),889
+1718,日惹 (及其周边地区),Yogyakarta (and vicinity),866
+10667,Alto Adige - South Tyrol(上阿迪杰-南蒂罗尔)(地区),Alto Adige - South Tyrol (area),861
+6049715,仁川 (及其周边地区),Incheon (and vicinity),861
+179994,布达佩斯 (及周边地区),Budapest (and vicinity),861
+6047850,锡耶纳(省),Siena (province),853
+181449,钦奈(及其周边地区),Chennai (and vicinity),850
+6049857,宿雾岛,Cebu Island,841
+178304,圣迭戈(县),San Diego (county),837
+6034774,那不勒斯(及附近地区),Naples (and vicinity),837
+178301,里约热内卢(及周边地区),Rio de Janeiro (and vicinity),835
+180027,新加坡(全部),Singapore (all),833
+6177060,台南 (及邻近地区),Tainan (and vicinity),821
+6055928,维克托维尔(及周边地区),Victorville (and vicinity),820
+1221,佛罗伦斯(及周边地区),Florence (and vicinity),814
+1735,圣托里尼岛,Santorini Island,798
+6051992,格劳宾登,Graubuenden,792
+6126235,德拉敦 (及其周边地区),Dehradun (and vicinity),789
+3363,高松,Takamatsu,779
+6046406,黄金海岸,Costa Daurada,762
+180102,尼斯 (及周边地区),Nice (and vicinity),761
+6046902,佩鲁贾(省),Perugia (province),753
+10805,冲绳岛,Okinawa (and vicinity),742
+2989,罗得斯岛,Rhodes Island,737
+6047134,大加那利岛,Gran Canaria,734
+178316,维也纳 (及附近地区),Vienna (and vicinity),733
+178253,达拉斯(及周边地区),Dallas (and vicinity),732
+6051471,约翰尼斯堡（及周围地区）,Johannesburg (and vicinity),722
+6212470,万隆 (及邻近地区),Bandung (and vicinity),722
+6051084,马尔代夫(全区),Maldives (all),718
+6047237,伊斯特拉 (县),Istria (county),717
+2176,刘易斯顿(及周边地区),Lewiston (and vicinity),717
+6135820,马纳里 (及其周边地区),Manali (and vicinity),708
+180066,加德满都谷地,Kathmandu Valley,702
+6056313,奈阿克(及周边地区),Nyack (and vicinity),702
+6047194,特内里费,Tenerife,699
+178229,阿姆斯特丹 (及附近区域),Amsterdam (and vicinity),698
+6053693,石川 (县),Ishikawa (prefecture),697
+6191801,金边 (及周边地区),Phnom Penh (and vicinity),696
+6126252,斯利那加 (及其周边地区),Srinagar (and vicinity),688
+6177563,台中 (及邻近地区),Taichung (and vicinity),679
+178289,莫斯科 (及周边地区),Moscow (and vicinity),677
+6023332,巴伦西亚(省),Valencia (province),674
+6052970,拉古萨(省),Ragusa (province),673
+178254,丹佛 (及周边地区),Denver (and vicinity),665
+178233,奥克兰 (及其周边地区),Auckland (and vicinity),663
+6051990,瓦莱州,Valais,660
+601955,巴拉望(省),Palawan (province),655
+1030,大叻,Da Lat,653
+6069845,爱丁堡 (及周边地区),Edinburgh (and vicinity),651
+178305,旧金山 (及周边地区),San Francisco (and vicinity),636
+178242,布宜诺斯艾利斯(及周边地区),Buenos Aires (and vicinity),634
+178318,华盛顿(及周边地区),Washington (and vicinity),627
+2062,兰卡威,Langkawi,627
+180069,阳光海岸,Sunshine Coast,616
+6145114,桐艾(府),Trat (province),615
+179896,慕尼黑 (及周边地区),Munich (and vicinity),614
+6053337,高知(及其周边地区),Cochin (and vicinity),609
+803,清莱府(省),Chiang Rai (province),608
+178298,凤凰城(及周边地区),Phoenix (and vicinity),602
+178317,华沙 (及附近地区),Warsaw (and vicinity),593
+6046196,德文(郡),Devon (county),590
+6049045,卡利亚里-维拉西米乌斯-南撒丁岛,Cagliari - Villasimius - Southern Sardinia,586
+6034264,会安 (及其周边地区),Hoi An (and vicinity),584
+178244,加尔各答(及周边地区),Kolkata (and vicinity),584
+178314,多伦多 (及周边地区),Toronto (and vicinity),579
+6050204,Bourgas -南黑海海岸,Bourgas - South Black Sea Coast,577
+6054834,库沙达瑟(区),Kusadasi (area),577
+6051473,姆普马兰加-林波波河(省),Mpumalanga - Limpopo (provinces),576
+6052923,乌代布尔(及其周边地区),Udaipur (and vicinity),573
+6051470,夸祖鲁纳塔尔(省),Kwazulu-Natal (province),572
+178285,墨西哥城(及周边地区),Mexico City (and vicinity),571
+6177334,南投县,Nantou County,571
+6035306,克拉科夫(及附近地区),Krakow (and vicinity),566
+6051718,科孚岛,Corfu Island,564
+602282,戛纳(及周边),Cannes (and vicinity),560
+179894,法兰克福 (及周边地区),Frankfurt (and vicinity),555
+6126204,Idukki 区,Idukki District,550
+6046220,兰开夏郡,Lancashire (county),550
+6177725,高雄 (及邻近地区),Kaohsiung (and vicinity),547
+6047847,鲁卡(省),Lucca (province),545
+602901,里维埃拉玛雅,Riviera Maya,543
+6126816,浦那 (及其周边地区),Pune (and vicinity),542
+6051619,弗兰科尼亚,Franconia,541
+6126248,西姆拉 (及其周边地区),Shimla (and vicinity),532
+1440,合艾(及其周边地区),Hat Yai (and vicinity),532
+3294,苏腊巴亚,Surabaya,527
+6053329,海得拉巴(及其周边地区),Hyderabad (and vicinity),527
+6054843,马尔马里斯 (及邻近地区),Marmaris (and vicinity),524
+178231,雅典 (及附近地区),Athens (and vicinity),517
+6053554,库斯科-马丘比丘(及周边地区),Cusco - Machu Picchu (and vicinity),509
+6046198,"",Dorset (county),508
+178238,波哥达(及周边地区),Bogota (and vicinity),508
+6024117,下龙湾,Halong Bay,505
+6046978,卡迪士(省),Cadiz (province),504
+6129105,水原 (及其周边地区),Suwon (and vicinity),503
+6050111,杜布罗夫尼克-南达尔马提亚,Dubrovnik - Southern Dalmatia,503
+6131368,马六甲 (州),Malacca (state),501
+2513,呵叻府,Nakhon Ratchasima,499
+6052234,卡拉玛达（与周边地区）,Kalamata (and vicinity),498
+3381,第比利斯,Tbilisi,497
+2115,拉各斯 (及邻近地区),Lagos (and vicinity),495
+6180797,里昂(及邻近地区),Lyon (and vicinity),491
+6053897,长崎 (县),Nagasaki (prefecture),491
+178293,纽约(及周边地区),New York (and vicinity),489
+602653,伊维萨岛,Ibiza Island,489
+601750,劳德代尔堡(及周边地区),Fort Lauderdale (and vicinity),489
+178241,布鲁塞尔 (及附近地区),Brussels (and vicinity),488
+667,博蒙特(及周边地区),Beaumont (and vicinity),480
+178288,蒙特利尔(及周边地区),Montreal (and vicinity),478
+6054145,札幌 (及周边地区),Sapporo (and vicinity),478
+601685,默特尔比奇(及周边地区),Myrtle Beach (and vicinity),475
+6050107,克瓦内尔(区),Kvarner (area),475
+6129220,志摩半岛,Shima Peninsula,474
+178251,哥伦布(及周边地区),Columbus (and vicinity),473
+6055559,杜罗河谷(区),Douro Valley (area),472
+6049962,巴拿马(全部),Panama (all),469
+6055038,热那亚(及附近地区),Genoa (and vicinity),465
+6128402,大分 (及周边),Oita (and vicinity),464
+6130751,大吉岭(地区),Darjeeling (district),464
+602719,萨拉索塔(及周边地区),Sarasota (and vicinity),463
+6048046,达尼丁(及其周边地区),Dunedin (and vicinity),462
+3658,蔚山,Ulsan,460
+6046582,维罗纳(及周边地区),Verona (and vicinity),459
+6052276,中马其顿,Central Macedonia,458
+6046789,波罗的海海岸,Baltic Sea Coast,454
+6126826,阿哈迈达巴德 (及其周边地区),Ahmedabad (and vicinity),453
+6126722,湄宏颂 (省),Mae Hong Son (province),452
+6048186,格拉纳达(省),Granada (province),452
+178243,开罗(及其周边地区),Cairo (and vicinity),448
+178265,休斯敦(及周边地区),Houston (and vicinity),445
+6054836,博德鲁姆(区),Bodrum (area),444
+6058242,蒙梯尼菇谷海岸,Montenegro Coast,443
+6056235,罗勇(及其周边地区),Rayong (province),442
+282,兰沙洛特,Lanzarote,442
+179993,布里斯班 (及其周边地区),Brisbane (and vicinity),440
+54987,湿地国家公园(及邻近地区),Everglades National Park (and vicinity),438
+6333660,加平,Gapyeong,437
+178248,芝加哥 (及周边地区),Chicago (and vicinity),436
+6023322,波尔多(及邻近地区),Bordeaux (and vicinity),436
+6126238,豪德瓦尼 (及其周边地区),Haldwani (and vicinity),436
+6049429,马耳他,Malta (all),435
+6051505,帕福斯(及周边地区),Paphos (and vicinity),431
+6054998,都灵(及附近地区),Turin (and vicinity),430
+178234,奥斯汀 (及周边地区),Austin (and vicinity),430
+6054829,伊兹密尔(区),Izmir (area),429
+178303,圣安东尼奥(及周边地区),San Antonio (and vicinity),428
+180029,圣彼得斯堡(及附近地区),St. Petersburg (and vicinity),425
+180025,塞维利亚(省),Seville (province),423
+6054050,北里斯本-莱利亚（区）,Northern Lisbon - Leiria (area),423
+180023,圣保罗（及周边地区）,Sao Paulo (and vicinity),422
+6184368,阿克兰(省),Aklan (province),422
+2867,富国岛,Phu Quoc Island,418
+179995,坎昆(及周边地区),Cancun (and vicinity),416
+178291,纳什维尔(及周边地区),Nashville (and vicinity),416
+6050278,诺曼底(省),Calvados (department),416
+6084686,索契(及附近地区),Sochi (and vicinity),414
+6084632,顺天,Suncheon (and vicinity),413
+6050108,扎达尔-北达尔马提亚,Zadar-Northern Dalmatia,413
+6051150,苏格兰高地,Scottish Highlands,412
+6048658,卡斯特利翁(省),Castellon (province),411
+2125,琅勃拉邦,Luang Prabang,411
+6136916,Alappuzha 区,Alappuzha District,411
+6050872,切图马尔 (及邻近地区),Chetumal (and vicinity),405
+2986,仰光,Yangon,403
+6048856,毛里求斯岛,Mauritius Island,403
+6048227,枥木 (县),Tochigi (prefecture),403
+179996,基督城 (及其周边地区),Christchurch (and vicinity),403
+178286,迈阿密 (及周边地区),Miami (and vicinity),401
+6049663,堪培拉(及其周边地区),Canberra (and vicinity),399
+178277,莱马(及周边地区),Lima (and vicinity),398
+179895,马赛(及邻近地区),Marseille (and vicinity),398
+6053345,Thiruvananthapuram 区,Thiruvananthapuram District,398
+6142141,古晋(及邻近地区),Kuching (and vicinity),397
+6046193,"",Cornwall (county),397
+6051891,金矿区,Goldfields,396
+6051720,扎金索斯岛,Zakynthos Island,396
+6051504,拉纳卡(及周边地区),Larnaca (and vicinity),394
+6052458,瓜纳华托(全州),Guanajuato (all),393
+6057121,格但斯克-东滨海(省),Gdansk - East Pomerania (province),392
+6047910,穆尔西亚(区),Murcia (region),391
+6046194,坎布里亚(郡),Cumbria (county),390
+6055248,希洪-阿斯图里亚斯海岸 (区),Gijon - Asturias Coast (area),389
+6050701,东比利牛斯(省),East Pyrenees (department),389
+6023506,科斯塔布拉瓦,Costa Brava,386
+2201,梅诺卡岛,Menorca,385
+6035254,波隆纳(省),Bologna (province),383
+6055110,拉科鲁尼亚(省),La Coruna (province),383
+6047855,利沃诺(省),Livorno (province),380
+6046818,比萨(省),Pisa (province),379
+602988,弗雷斯诺(及周边地区),Fresno (and vicinity),379
+179999,凯恩斯和北部海滩,Cairns and Northern Beaches,377
+500201,布济乌斯 (及邻近地区),Buzios (and vicinity),377
+6138623,"",Bohol,377
+6051468,西开普省,Western Cape (province),376
+6051534,本德(及周边地区),Bend (and vicinity),375
+6051956,米科诺斯岛,Mykonos Island,374
+180001,杜塞尔多夫 (及附近地区),Duesseldorf (and vicinity),374
+6129217,中之条(和周边地区),Nakanojo (and vicinity),372
+6049986,比利牛斯-大西洋省,Pyrenees Atlantiques,371
+178290,内罗毕(及其周边地区),Nairobi (and vicinity),371
+180064,黄金海岸,Gold Coast,371
+180054,萨米特县(滑雪区),Summit County (ski areas),369
+6053152,圣灵群岛,Whitsunday Islands,365
+178276,拉斯维加斯 (及周边地区),Las Vegas (and vicinity),364
+6047038,蒙彼利埃(及邻近地区),Montpellier (and vicinity),363
+6139723,束草 (及周边地区),Sokcho (and vicinity),363
+6055111,蓬特韦德拉(省),Pontevedra (province),362
+6059422,索伦托海岸(区),Sorrento Coast (area),362
+6050916,"",Salento Peninsula (area),362
+602120,东开普(省),Eastern Cape (province),361
+1818,新泻,Niigata,361
+6024900,科莫湖(区),Lake Como (area),361
+178292,新奥尔良(及周边地区),New Orleans (and vicinity),359
+6131690,斋沙默尔(及周边地区),Jaisalmer (and vicinity),359
+6047854,格罗塞托(省),Grosseto (province),358
+6126348,古尔格 (区),Coorg (district),357
+6051439,卡坦扎罗(省),Catanzaro (province),357
+180041,塔霍湖 (及周边地区),Lake Tahoe (and vicinity),356
+6048260,横滨 (及其周边地区),Yokohama (and vicinity),355
+601691,加特林堡-皮金弗奇(及周边地区),Gatlinburg - Pigeon Forge (and vicinity),354
+6023769,硅谷,San Jose - Silicon Valley,354
+602729,迈尔斯堡(及周边地区),Fort Myers (and vicinity),353
+6126825,阿格拉 (及其周边地区),Agra (and vicinity),351
+6023342,伯明翰 (及邻近地区),Birmingham (and vicinity),350
+4532,费特希耶 (及邻近地区),Fethiye (and vicinity),349
+6050205,罗多彼山脉(区),Rhodopes (region),348
+6123697,北碧府(省),Kanchanaburi (province),344
+602958,哈里斯堡-赫希(及周边地区),Harrisburg - Hershey (and vicinity),344
+180013,珀斯 (及其周边地区),Perth (and vicinity),344
+6127908,名古屋 (及附近地区),Nagoya (and vicinity),343
+6055244,桑坦德-坎塔布里亚海岸(区),Santander - Cantabrian Coast (area),341
+6050602,汉诺威(及附近地区),Hannover (and vicinity),339
+6023572,安道尔 (all),Andorra (all),337
+178247,夏洛特 (及周边地区),Charlotte (and vicinity),336
+6197589,西哈努克城(及周边地区),Sihanoukville (and vicinity),335
+178320,苏黎世 (及附近地区),Zurich (and vicinity),335
+6046226,北约克(郡),North Yorkshire (county),334
+6141206,东多洛米蒂(地区),Eastern Dolomites (area),334
+444,阿姆利则,Amritsar,333
+6084628,全州,Jeonju,333
+6047262,阿雷佐(省),Arezzo (province),332
+6052902,北太平洋海岸-瓜纳卡斯特,Guanacaste - North Pacific Coast,330
+1091,坎帕拉,Kampala,328
+6128315,箱根 (及周边地区),Hakone (and vicinity),327
+6135780,昌迪加尔 (及其周边地区),Chandigarh (and vicinity),327
+6053579,乌拉圭(全部),Uruguay (all),326
+179998,科隆 (及周边地区),Cologne (and vicinity),326
+2344,玛琅,Malang,326
+6050635,沃克吕兹(省),Vaucluse (department),325
+178311,斯德哥尔摩 (及周边地区),Stockholm (and vicinity),324
+6052963,卡塔尼亚-埃特纳(省),Catania - Etna (province),323
+6126226,阿杰梅尔 (及其周边地区),Ajmer (and vicinity),323
+6129102,平昌 (郡),Pyeongchang (county),322
+178235,巴尔的摩 (及周边地区),Baltimore (and vicinity),320
+178255,底特律(及周边地区),Detroit (and vicinity),320
+6050792,雷恩-伊勒维莱讷(省),Ille-et-Vilaine (department),318
+1680,吉达,Jeddah,318
+6046649,巴斯蒂亚-北可西嘉岛,Northern Corsica,317
+6046204,赫特福德(郡),Hertfordshire (county),316
+6056625,埃森(及周边),Essen (and vicinity),316
+1944,关丹（及周边地区）,Kuantan (and vicinity),316
+178300,罗利-达勒姆(及周边地区),Raleigh (and vicinity),315
+3051,利雅得,Riyadh,315
+602674,布法罗(及周边地区),Buffalo (and vicinity),314
+6048223,千叶(县),Chiba (prefecture),312
+6053360,佛洛莉亚诺波里斯(及周边地区),Florianopolis (and vicinity),311
+6049595,奇伦托(地区),Cilento (area),309
+6138973,焦特布尔(及周边地区),Jodhpur (and vicinity),308
+6048822,西约克(郡),West Yorkshire (county),306
+6046200,东部苏克塞斯(郡),East Sussex (county),305
+6053149,萨尔瓦多(及周边地区),Salvador (and vicinity),303
+6053055,滨海夏朗德(省),Charente-Maritime (department),303
+6053895,熊本(县),Kumamoto (prefecture),303
+1751,江陵,Gangneung,302
+178266,印第安纳波利斯 (及周边地区),Indianapolis (and vicinity),301
+6024016,"米德兰(及周边地区), 得克萨斯",Midland (and vicinity),301
+6053414,Northern Hesse(区),Northern Hesse (region),301
+6128225,广岛 (及附近地区),Hiroshima (and vicinity),301
+178239,波士顿 (及周边地区),Boston (and vicinity),299
+6051991,提契诺,Ticino,299
+180010,曼彻斯特 (及周边地区),Manchester (and vicinity),297
+180031,特拉维夫(及其周边地区),Tel Aviv (and vicinity),297
+181420,波特兰(及周边地区),Portland (and vicinity),297
+6333,贝尔格莱德,Belgrade,297
+6046853,塔科马港 (及周边地区),Tacoma (and vicinity),297
+6052967,西勒鸠斯(省),Syracuse (province),296
+6049946,锡金,Sikkim,296
+4186,桑给巴尔,Zanzibar,296
+602972,俄克拉荷马城(及周边地区),Oklahoma City (and vicinity),295
+6046219,"",Kent (county),295
+6051329,波罗的海海岸,Baltic Sea Coast,295
+6052000,科斯岛,Kos Island,295
+6046854,马乔雷湖(区),Lake Maggiore (area),294
+6051330,阿德莱德(及其周边地区),Adelaide (and vicinity),293
+11326,马德拉岛,Madeira Island,291
+6129050,甲米地(省),Cavite (province),290
+602981,伯明翰(及周边地区),Birmingham (and vicinity),290
+6129774,考萨尼,Kausani,289
+1618,怡保,Ipoh,289
+719,布加勒斯特(及周边),Bucharest (and vicinity),287
+6053704,马那瓜(及周边地区),Managua (and vicinity),286
+6142832,福塔雷萨(及邻近地区),Fortaleza (and vicinity),285
+6050697,莱茵河-内卡河 (区),Rhine - Neckar (area),284
+6053342,Kozhikode 区,Kozhikode District,284
+178306,圣地亚哥(及周边地区),Santiago (and vicinity),280
+178297,费城 (及周边地区),Philadelphia (and vicinity),279
+1295,瓜达拉哈拉(及周边地区),Guadalajara (and vicinity),278
+1512,赫尔格达(及其周边地区),Hurghada (and vicinity),276
+178256,都伯林(及附近地区),Dublin (and vicinity),274
+6128238,山口 (及附近地区),Yamaguchi (and vicinity),274
+6055319,北黑森林(地区),Northern Black Forest (area),273
+6084340,阿尔高 (地区),Allgaeu (area),273
+2251,曼德勒,Mandalay,273
+1265,福冈 (及邻近地区),Fukuoka (and vicinity),273
+602997,杰克逊维尔(及周边地区),Jacksonville (and vicinity),272
+6128413,新雪谷 (及周边地区),Niseko (and vicinity),272
+3659,乌隆,Udon Thani,271
+178315,温哥华 (及周边地区),Vancouver (and vicinity),269
+6050203,瓦尔纳-北部黑海海岸,Varna - North Black Sea Coast,269
+6057184,下西里西亚(省),Dolnoslaskie (province),268
+180073,茂宜岛,Maui Island,268
+6023336,伍斯特(及周边地区),Worcester (and vicinity),267
+178307,西雅图 (及周边地区),Seattle (and vicinity),265
+6084349,上巴伐利亚阿尔卑斯山和湖泊(区),Upper Bavarian Alps and Lakes (area),264
+6051795,弗利(省),Forli (province),264
+6052102,西富兰德(区),West Flanders (province),263
+6046852,Margaret River 葡萄酒产区,Margaret River Wine Region,263
+603085,圣何塞(及周边地区),San Jose (and vicinity),263
+6052483,塔斯马尼亚岛西海岸,West Coast Tasmania,263
+601761,里士满(及周边地区),Richmond (and vicinity),260
+6023598,斐济 (全部),Fiji (all),259
+375,安曼 (及邻近地区),Amman (and vicinity),258
+6053272,贝洛奥里藏特(及周边地区),Belo Horizonte (and vicinity),257
+6055130,乌迪内(省),Udine (province),257
+6177327,嘉义 (及邻近地区),Chiayi (and vicinity),256
+570,布罗肯希尔,Broken Hill,256
+2811,博卡拉,Pokhara,256
+6084753,非斯 (及邻近地区),Fes (and vicinity),255
+6054888,卡帕多细亚,Cappadocia,255
+603084,凯利(郡),Kerry (county),254
+6054401,藩切(及其周边地区),Phan Thiet (and vicinity),254
+6047258,斯图加特(及附近地区),Stuttgart (and vicinity),253
+602278,棕榈滩-西棕榈滩(及周边地区),Palm Beach - West Palm Beach (and vicinity),253
+915,科珀斯克里斯蒂(及周边地区),Corpus Christi (and vicinity),253
+180053,斯廷博特普林斯(滑雪场),Steamboat Springs (ski area),253
+2091,勒克瑙,Lucknow,252
+275,阿布贾,Abuja,252
+6048515,比利牛斯(卡塔龙尼亚),Pyrenees (Catalonia),251
+6054139,宫城 (县),Miyagi (prefecture),250
+280,阿克拉 (及邻近地区),Accra (and vicinity),249
+6085038,纳亚里特南海岸,South Coast Nayarit,249
+1263,富埃特文图拉岛,Fuerteventura,249
+178299,波特兰(及周边地区),Portland (and vicinity),247
+601906,蓬塔卡纳(及周边地区),Punta Cana (and vicinity),247
+3433,地拉那,Tirana,247
+6025654,加莱海峡(省),Pas-de-Calais (department),247
+178249,辛辛那提(及周边地区),Cincinnati (and vicinity),246
+6049378,图林根,Thuringia,245
+3475,图卢兹(及附近地区),Toulouse (and vicinity),245
+6047336,凯法利尼亚岛,Kefalonia Island,245
+602905,大格拉斯哥,Greater Glasgow,244
+180676,棕榈泉 (及周边地区),Palm Springs (and vicinity),244
+602104,望加锡,Makassar,244
+180017,魁北克(及周边地区),Quebec (and vicinity),243
+8878,麦梭,Mysore,243
+6053699,松本(及其周边地区),Matsumoto (and vicinity),243
+6138628,Puducherry(及周边地区),Pondicherry (and vicinity),243
+6144662,素可泰(及邻近地区),Sukhothai (province),242
+6234125,乌堤 (及邻近地区),Ooty (and vicinity),242
+601717,匹兹堡(及周边地区),Pittsburgh (and vicinity),241
+6046252,柏克(郡),Berkshire (county),241
+6140108,甲府(及周边地区),Kofu (and vicinity),240
+6055039,五渔村-拉斯佩齐亚(省),Cinque Terre - La Spezia (province),239
+6053356,Saxon Castle and Heathland(区),Saxon Castle and Heathland (region),238
+6051794,拉韦纳(省),Ravenna (province),237
+179997,查尔斯顿(及周边地区),Charleston (and vicinity),237
+6144613,巴库(及邻近地区),Baku (and vicinity),237
+180061,考德角,Cape Cod,237
+6217179,"",Strasbourg (and vicinity),235
+6144253,南卡希亚斯(及邻近地区),Caxias do Sul (and vicinity),235
+3742,万象,Vientiane,234
+6130647,Broome(及附近地区),Broome (and vicinity),234
+3262,三宝垄,Semarang,234
+6054688,雷克雅未克 (及邻近地区),Reykjavik (and vicinity),234
+6053672,基多(及周边地区),Quito (and vicinity),233
+6049639,帕多瓦(省),Padova (province),233
+6049216,塞舌尔(全部),Seychelles (all),232
+180049,萨克拉门托(及周边地区),Sacramento (and vicinity),232
+6055032,特伦蒂洛(地区),Trentino (area),231
+180074,夏威夷(大岛),Hawaii (The Big Island),230
+6052811,帕罗斯岛,Paros Island,230
+320,阿森斯(及周边地区),Athens (and vicinity),229
+6046551,干尼亚 (地区),Chania (region),229
+846,哥印拜陀,Coimbatore,229
+3235,索非亚(及周边),Sofia (and vicinity),229
+6084526,泰恩河畔纽卡斯尔(及周边),Newcastle-upon-Tyne (and vicinity),229
+180004,汉堡(及附近地区),Hamburg (and vicinity),229
+1884,鹿儿岛,Kagoshima,228
+6052815,Naxos(纳索斯),Naxos Island,228
+178284,孟菲斯(及周边地区),Memphis (and vicinity),227
+6023260,布拉索夫,Brasov,226
+6143884,马林迪 - 肯尼亚中部海岸,Malindi - Central Kenya Coast,226
+6126369,"",Kiev (and vicinity),225
+6023392,沃尔顿堡滩-德斯廷(及周边地区),Fort Walton Beach - Destin (and vicinity),225
+6057120,什切青-西滨海(省),Szczecin - West Pomerania (province),225
+178258,沃思堡(及周边地区),Fort Worth (and vicinity),224
+6034796,德累斯顿(及附近地区),Dresden (and vicinity),224
+6053838,阿布扎比酋长国,Abu Dhabi Emirate,223
+6023995,代托纳比奇(及周边地区),Daytona Beach (and vicinity),223
+178250,克利夫兰(及周边地区),Cleveland (and vicinity),223
+178273,堪萨斯城(及周边地区),Kansas City (and vicinity),222
+6050065,迪戎-科多尔(省),Cote d'Or (department),222
+6053146,波尔图塞古罗(及周边地区),Porto Seguro (and vicinity),221
+6048192,高山市 (岐阜县),Takayama,221
+6144605,贝鲁特(及邻近地区),Beirut (and vicinity),221
+602974,代顿(及周边地区),Dayton (and vicinity),220
+180106,蒙特哥贝(及周边地区),Montego Bay (and vicinity),220
+6085464,巴里洛切(及周边地区),Bariloche (and vicinity),220
+603224,奥兰治县,Orange County,219
+6054276,北威尔士,North Wales,219
+6135762,波特兰 (及其周边地区),Portland (and vicinity),219
+6054205,科多多瓦(及周边地区),Cordoba (and vicinity),219
+6129070,天使城(及邻近地区),Angeles City (and vicinity),218
+6023765,佛罗里达群岛,Florida Keys,218
+6053277,巴淡岛,Batam Island,216
+6046822,圣刘易斯奥比斯波(及周边地区),San Luis Obispo (and vicinity),216
+6048230,莱克兰-温特黑文(及周边地区),Lakeland - Winter Haven (and vicinity),215
+477,秋田,Akita,215
+973,达卡,Dhaka,214
+6054896,安卡拉(及附近地区),Ankara (and vicinity),214
+501,布巴内斯瓦尔,Bhubaneshwar,213
+6051012,卡罗维发利(及周边地区),Karlovy Vary (region),213
+6126198,瓦拉纳西区,Wayanad District,212
+603082,高尔韦(郡),Galway (county),212
+6084360,圣塞瓦斯蒂安(及周边),San Sebastian (and vicinity),211
+926,卡塔赫纳(及周边地区),Cartagena (and vicinity),209
+6052056,巴伐利亚下游,Lower Bavaria,207
+602647,密尔沃基(及周边地区),Milwaukee (and vicinity),207
+6049436,贝加莫(及附近地区),Bergamo (and vicinity),207
+603077,波尔图(及附近地区),Porto (and vicinity),207
+6139812,鹤冈(及周边地区),Tsuruoka (and vicinity),206
+6224598,杨平,Yangpyeong,206
+6048561,巴西利卡塔,Basilicata,206
+603237,新罕布什尔州,Hampshire (county),206
+489,碧瑶,Baguio,205
+6046202,格洛斯特(郡),Gloucestershire (county),205
+6055205,安科纳(省),Ancona (province),205
+6048602,阿尔梅里雅(省),Almeria (province),205
+6054175,阿伯丁(及周边),Aberdeen (and vicinity),204
+6055061,亚拉贡比利牛斯-威斯卡(省),Aragon Pyrenees - Huesca (province),204
+602904,诺福克-弗吉尼亚比奇(及周边地区),Norfolk - Virginia Beach (and vicinity),203
+6084497,萨默塞特(区),Somerset (area),203
+180032,洛斯卡沃斯(及周边地区),Los Cabos (and vicinity),203
+1833,孔敬,Khon Kaen,203
+601764,锡拉丘兹(及周边地区),Syracuse (and vicinity),202
+180672,约塞米蒂国家公园（及周边地区）,Yosemite National Park (and vicinity),202
+6058734,布兰森(及周边地区),Branson (and vicinity),202
+1800,"",Kalgoorlie - Boulder,202
+6058416,巴林(全部),Bahrain (all),201
+180339,坎普斯-杜若尔当（及其周边地区）,Campos do Jordao (and vicinity),200
+883,康斯坦察 (及邻近地区),Constanta (and vicinity),200
+6035376,土伦-耶赫(及周边),Toulon - Hyeres (and vicinity),200
+6084755,卡萨布兰卡(地区),Casablanca (region),200
+603083,黄柏(郡),Cork (county),200
+2246,麦德林(及周边地区),Medellin (and vicinity),199
+6139562,昌原(及周边地区),Changwon (and vicinity),198
+6050706,嘉德(省),Gard (department),198
+6056778,里加 (及周边地区),Riga (and vicinity),198
+1077,达沃(及其周边地区),Davao (and vicinity),197
+180002,埃德蒙顿(及周边地区),Edmonton (and vicinity),197
+6046223,"",Norfolk (county),196
+6919,大贝尔湖(及周边地区),Big Bear Lake (and vicinity),196
+180021,波多黎各岛,Puerto Rico Island,196
+603078,墨西哥湾海岸(及周边地区),Gulf Shores (and vicinity),195
+6052932,哈科(及周边地区),Jaco (and vicinity),195
+6046285,布里,Puri,195
+6144806,"",Trabzon (and vicinity),195
+6053902,危地马拉城（及周边地区）,Guatemala City (and vicinity),195
+6052981,特拉帕尼(省),Trapani (province),195
+3495,丹吉尔 (及邻近地区),Tangier (and vicinity),195
+6139377,富山 (及周边地区),Toyama (and vicinity),194
+180005,哈特福德(及周边地区),Hartford (and vicinity),194
+6047846,皮斯托亚(省),Pistoia (province),193
+6053479,于条顿堡森林,Teutoburg Forest,191
+6055731,策尔湖-平茨高(区),Zell am See - Pinzgau (district),191
+4155,萨格勒布县,Zagreb County,191
+6141620,顺化 (及邻近地区),Hue (and vicinity),190
+602285,帕克城(及周边地区),Park City (and vicinity),190
+180020,萨尔茨堡 (及周边地区),Salzburg (and vicinity),190
+6128241,冈山县,Okayama (prefecture),190
+178245,卡尔加里(及周边地区),Calgary (and vicinity),189
+6050700,康斯坦茨湖(区),Lake Constance (area),189
+6053175,累西腓(及周边地区),Recife (and vicinity),189
+180060,阿玛菲海岸线,Amalfi Coast,189
+178271,耶路撒冷(及其周边地区),Jerusalem (and vicinity),188
+6047790,中海岸,Central Coast,188
+6057178,塔特拉山(区),Tatra Mountains (area),188
+6023515,"尼加拉瀑布（及其周边地区）, 加拿大","Niagara Falls (and vicinity), Canada",187
+6049675,萨费尔海岸,Sapphire Coast,187
+602663,阿尔伯克基(及周边地区),Albuquerque (and vicinity),187
+3724,瓦拉纳西,Varanasi,187
+6023536,梅里达(及周边地区),Merida (and vicinity),186
+6138970,维沙卡帕特南(及周边地区),Visakhapatnam (and vicinity),186
+6053237,坎皮纳斯(及周边地区),Campinas (and vicinity),185
+6139567,奈良 (及周边地区),Nara (and vicinity),185
+6051849,拉提纳(省),Latina (province),184
+180024,圣多明各(及周边地区),Santo Domingo (and vicinity),184
+6128416,神户 (及周边地区),Kobe (and vicinity),183
+6024124,岛屿湾,Bay of Islands,183
+6052980,阿哥里根托(省),Agrigento (province),183
+6130939,博帕尔(及周边地区),Bhopal (and vicinity),183
+6140880,会津若松市,Aizuwakamatsu,183
+6050273,滨海塞纳(省),Seine-Maritime (department),182
+1048,多哈 (及邻近地区),Doha (and vicinity),182
+6054274,南威尔士,South Wales,182
+178043,麦加,Mecca,181
+178252,哥本哈根 (及周边地区),Copenhagen (and vicinity),181
+6130641,瓜拉丁加奴-登嘉楼(州),Kuala Terengganu - Terengganu (state),180
+6127089,圣保罗北岸（及其周边地区）,Sao Paulo North Shore (and vicinity),180
+602841,小石城(及周边地区),Little Rock (and vicinity),180
+6052974,墨西拿(省),Messina (province),179
+3536,的里雅斯特(省),Trieste (province),179
+951,库里蒂巴(及邻近地区),Curitiba (and vicinity),179
+6050779,瓦讷-莫尔比昂(省),Morbihan (department),178
+6055513,波塔莱格雷 (区),Portalegre (district),177
+2263,棉兰,Medan,177
+3221,圣玛尔塔(及邻近地区),Santa Marta (and vicinity),177
+6023331,彭萨科拉(及周边地区),Pensacola (and vicinity),176
+2236,梅肯(及周边地区),Macon (and vicinity),176
+6128771,罗讷瓦拉 (及其周边地区),Lonavala (and vicinity),175
+6053263,哈茨 (地区),Harz (region),175
+1564,印多尔,Indore,175
+6050256,卢尔德-达尔伯(及附近地区),Lourdes - Tarbes (and vicinity),173
+602327,塔尔萨(及周边地区),Tulsa (and vicinity),173
+6035267,格林维尔-斯帕坦堡(及周边地区),Greenville - Spartanburg (and vicinity),173
+603023,大丘 (及邻近地区),Daegu (and vicinity),172
+602986,图森(及周边地区),Tucson (and vicinity),171
+6046235,威尔特(郡),Wiltshire (county),171
+6048125,罗托鲁瓦 (及其周边地区),Rotorua (and vicinity),171
+305,阿加迪尔,Agadir,170
+6051040,卢瓦尔-谢尔(省),Loir-et-Cher (department),170
+180003,日内瓦(及附近地区),Geneva (and vicinity),170
+180077,欧胡岛,Oahu Island,170
+178295,奥斯陆 (及附近地区),Oslo (and vicinity),168
+6023330,巴拿马城(及周边地区),Panama City (and vicinity),168
+6052620,阿拉戈阿斯(州),Alagoas (state),168
+6035307,里尔,Lille (and vicinity),168
+6050774,坎佩尔-南菲尼斯泰尔 (省),Quimper - Southern Finistere (department),166
+6053537,洛特(省),Lot (department),166
+8724,澳门(全部),Macau (all),166
+602973,阿克伦(及周边地区),Akron (and vicinity),165
+6057018,弗吉尼亚北部,Northern Virginia,165
+6054272,加的夫(及附近地区),Cardiff (and vicinity),165
+6052065,斯基亚索斯岛,Skiathos Island,165
+6057547,斯洛伐克东部,Eastern Slovakia,164
+6046189,贝德福德(郡),Bedfordshire (county),164
+6069922,格兰德岛湾,Ilha Grande Bay,164
+1178,耶烈万,Yerevan,164
+6142864,纳塔尔(及邻近地区),Natal (and vicinity),163
+6053284,阿赫-莱茵河中游(区),Ahr - Middle Rhine (region),163
+6050703,纳博讷(及周边),Narbonne (and vicinity),163
+6058240,布莱德湖 - 尤利安山,Lake Bled - Julian Alps,163
+6049613,大雪山,Snowy Mountains,163
+6056964,纽波特纽斯(及周边地区),Newport News (and vicinity),162
+6046955,韦尔瓦(省),Huelva (province),162
+6051154,珀斯和金罗斯,Perth and Kinross,160
+6046241,利物浦 (及周边地区),Liverpool (and vicinity),159
+6179462,安特卫普(及邻近地区),Antwerp (and vicinity),159
+178261,赫尔辛基 (及附近地区),Helsinki (and vicinity),159
+2583,楠府,Nan,158
+180036,纽黑文 (及周边地区),New Haven (and vicinity),158
+6023340,南本德(及周边地区),South Bend (and vicinity),158
+1913,克拉斯诺达尔,Krasnodar,157
+863,卡利 (及邻近地区),Cali (and vicinity),157
+6035157,比利牛斯-Ski,Pyrenees - Ski,157
+6059686,塔拉霍马(及周边地区),Tullahoma (and vicinity),157
+267,阿必尚,Abidjan,156
+6052087,卢塞恩湖,Lake Lucerne,156
+6034269,猎人谷,Hunter Valley,156
+9151,大洋城 (及邻近地区),Ocean City (and vicinity),155
+6050633,上普罗旺斯阿尔卑斯(省),Alpes-de-Haute-Provence (department),155
+6051010,南波希米亚(区),South Bohemia (region),155
+9875,萨拉热窝,Sarajevo,155
+11943,达曼‎,Dammam,154
+289,亚的斯亚贝巴 (及邻近地区),Addis Ababa (and vicinity),153
+6128244,函馆 (及周边地区),Hakodate (and vicinity),153
+180038,阿斯彭(滑雪场),Aspen (ski area),153
+602991,科罗拉多斯普林斯(及周边地区),Colorado Springs (and vicinity),153
+6177567,苗栗县,Miaoli County,153
+6054300,哈马马特(及其周边地区),Hammamet (and vicinity),152
+6053153,Mackay(及其周边地区),Mackay (and vicinity),152
+6059869,莫里斯敦(及周边地区),Morristown (and vicinity),151
+6055439,基洛纳-奥克纳根山谷,Okanagan Valley,151
+6051052,南特 (及邻近地区),Nantes (and vicinity),151
+6234830,布里兰 (省),Buri Ram (province),150
+602657,湖巴拉顿,Lake Balaton,150
+6050967,上莱茵(省),Haut-Rhin (department),150
+602908,伯利兹(全部),Belize (all),149
+6129177,富士河口湖,Fujikawaguchiko,149
+2158,卢迪亚纳,Ludhiana,149
+6059580,鲍灵格林(及周边地区),Bowling Green (and vicinity),149
+827,查塔努加(及周边地区),Chattanooga (and vicinity),149
+6048821,南约克(郡),South Yorkshire (county),149
+6051740,施普雷瓦尔德,Spreewald,148
+6052596,萨兰达,Sarande,148
+1341,加尔维斯顿(及周边地区),Galveston (and vicinity),148
+602179,大西洋城 (及周边地区),Atlantic City (and vicinity),148
+6055036,"",Savona - Riviera delle Palme,148
+6059339,北滨海 (省),Cotes d'Armor (department),148
+2670,奥马哈(及周边地区),Omaha (and vicinity),147
+6126712,马哈巴雷瓦拉 (及其周边地区),Mahabaleshwar (and vicinity),147
+601690,得梅因(及周边地区),Des Moines (and vicinity),147
+178309,圣路易斯(及周边地区),St. Louis (and vicinity),146
+6049432,伦巴第阿尔卑斯,Lombardy Alps,146
+7529,古尔本,Goulburn,145
+6057166,波兹南-大波兰(省),Poznan - Wielkopolska (province),145
+180997,伊瓜苏 (及邻近地区),Foz do Iguacu (and vicinity),145
+3696,韦拉克鲁斯(及周边地区),Veracruz (and vicinity),144
+2448,蒙特雷(及周边地区),Monterrey (and vicinity),144
+6046199,达翰姆(郡),Durham (county),144
+603260,奥尔巴尼(及周边地区),Albany (and vicinity),144
+6055063,萨瓦格萨(省),Zaragoza (province),143
+6347509,素叻他尼（及邻近地区）,Surat Thani (and vicinity),143
+6035000,布拉迪斯拉发(及附近地区),Bratislava (and vicinity),143
+6049238,叶卡捷琳堡 (及邻近地区),Yekaterinburg (and vicinity),143
+6054200,门多萨葡萄酒产区,Mendoza Wine Region,142
+6047982,尼尔森 - Tasman(地区),Nelson - Tasman (region),142
+6052373,伯恩阿尔卑斯山(区),Bernese Alps (area),142
+6052078,萨摩斯岛,Samos Island,142
+9180,奥格登(及周边地区),Ogden (and vicinity),142
+2931,克雷塔罗 (及邻近地区),Queretaro (and vicinity),141
+6051536,俄勒冈中部海岸,Central Oregon Coast,141
+6048738,"",Valle d'Aosta,141
+6046195,德贝(郡),Derbyshire (county),141
+6046234,西萨塞克斯(郡),West Sussex (county),141
+6056786,维尔纽斯(及周边),Vilnius (and vicinity),141
+6050841,淡路岛,Awaji Island,140
+603004,巴吞鲁日,Baton Rouge (and vicinity),140
+6050646,圣马克西姆 - 圣特罗佩(及周边),Sainte-Maxime - Saint-Tropez (and vicinity),140
+6140738,大峡谷 (及周边地区),Grand Canyon (and vicinity),140
+6160459,沙迦(及周边地区),Sharjah (and vicinity),140
+1635,石垣岛,Ishigaki Island,140
+500660,梭罗(及邻近地区),Solo (and vicinity),139
+180057,维尔-比弗河(滑雪场),Vail - Beaver Creek (ski area),139
+3191,斯科普里,Skopje,139
+180390,巴巴多斯(全部),Barbados (all),139
+6046971,海牙 (及附近地区),The Hague (and vicinity),138
+6053287,莱茵黑森-巴列丁奈特(区),Rhinehesse - Palatinate (region),138
+2846,阿雷格里港(及邻近地区),Porto Alegre (and vicinity),138
+6051719,莱夫卡达岛,Lefkada Island,138
+6046810,科多巴(省),Cordoba (province),137
+6051946,大城府,Ayutthaya,137
+6046228,牛津(郡),Oxfordshire (county),137
+6048790,普拉塔港(及周边地区),Puerto Plata (and vicinity),137
+6034476,安特里姆(郡),Antrim (county),137
+2238,马斯喀特(及其周边地区),Muscat (and vicinity),136
+6058099,萨姆特(及周边地区),Sumter (and vicinity),136
+410,阿雷基帕,Arequipa,136
+6052005,锡米岛,Symi Island,136
+2738,普埃布拉(及周边地区),Puebla (and vicinity),136
+6050970,摩泽尔(省),Moselle (department),135
+6059953,曼凯托(及周边地区),Mankato (and vicinity),135
+6055140,卡塞雷斯(省),Caceres (province),135
+602721,"尼加拉瀑布（及其周边地区）, 美国","Niagara Falls (and vicinity), USA",135
+1993,喀山 (及邻近地区),Kazan (and vicinity),134
+6050594,下萨克森州北海海岸,Lower Saxony North Sea Coast,134
+6055204,佩萨罗和乌尔比诺(省),Pesaro and Urbino (province),133
+6034963,奥古斯塔(及周边地区),Augusta (and vicinity),133
+978,达累斯萨拉姆,Dar es Salaam,133
+6053052,多姆山(省),Puy-de-Dome (department),133
+6052485,霍巴特(及其周边地区),Hobart (and vicinity),132
+6123243,Latrobe 山谷,Latrobe Valley,132
+726,巴统,Batumi,131
+6126213,丹塞,Dan Sai,131
+6053365,伊塔加(及周边地区),Itajai (and vicinity),131
+6057302,提比利亚 - 加利利(地区),Tiberias - Galilee (area),130
+603003,列克星敦(及周边地区),Lexington (and vicinity),130
+180593,茂物,Bogor,130
+603002,路易斯维尔(及周边地区),Louisville (and vicinity),130
+6053193,塞纳-马恩(省),Seine-et-Marne (department),130
+6051204,因斯布鲁克(与周边地区),Innsbruck (and vicinity),130
+6055321,南黑森林(地区),Southern Black Forest (area),129
+6057186,西里西亚(省),Slaskie (province),129
+6144602,科威特城(及邻近地区),Kuwait City (and vicinity),129
+6046227,诺丁汉(郡),Nottinghamshire (county),129
+6046233,沃里克(郡),Warwickshire (county),129
+601684,希尔顿黑德(及周边地区),Hilton Head (and vicinity),129
+2252,马德普拉塔 (及邻近地区),Mar del Plata (and vicinity),128
+6051128,卡姆登(及周边地区),Camden (and vicinity),128
+6047257,拉斐特(及周边),Lafayette (and vicinity),128
+180071,惠斯勒滑雪场,Whistler Ski Area,128
+601682,克莱儿,Clare (county),128
+6141674,春川,Chuncheon,127
+55040,"",Surrey (county),127
+602078,莱斯博斯岛,Lesvos Island,127
+1670,杰克逊(及周边地区),Jackson (and vicinity),127
+6084496,巴斯(及周边),Bath (and vicinity),126
+6059846,威斯康星德尔斯(及周边地区),Wisconsin Dells (and vicinity),126
+6046222,"",Lincolnshire (county),126
+178287,明尼阿波里斯 - 圣保罗(及周边地区),Minneapolis - St. Paul (and vicinity),126
+6049047,阿尔盖罗-北撒丁岛,Alghero - Northern Sardinia,126
+6050592,布里曼(及附近地区),Bremen (and vicinity),125
+6052072,伊德拉岛,Hydra Island,125
+1361,下诺夫哥罗德 (及邻近地区),Nizhny Novgorod (and vicinity),124
+6052922,阿雷纳尔火山地区,Arenal Volcano Region,124
+6024028,圣安德列斯,San Andres,124
+6056755,塔林 (及周边地区),Tallinn (and vicinity),123
+2936,普拉亚,Praia,123
+6059421,萨莱诺(及附近地区),Salerno (and vicinity),123
+2348,莫雷利亚(及邻近地区),Morelia (and vicinity),123
+6059463,萨瓦纳(及周边地区),Savannah (and vicinity),122
+1803,基加利,Kigali,122
+602291,班夫国家公园,Banff National Park,122
+10323,京都,Kyoto,122
+1018,杰尔巴,Djerba,122
+601746,威尔明顿(及邻近地区),Wilmington (and vicinity),121
+6056258,罗瓦涅米(区),Rovaniemi (region),121
+6025582,曼彻斯特(及周边地区),Manchester (and vicinity),120
+6051141,法亚尔岛,Faial Island,120
+6131595,道格拉斯港(及其周边地区),Port Douglas (and vicinity),120
+6051131,白山山脉,White Mountains (area),120
+6053286,摩泽尔-纳赫(区),Moselle - Nahe (region),120
+6051096,兰斯-马恩(省),Reims - Marne (department),120
+602704,麦迪逊(及周边地区),Madison (and vicinity),119
+6055566,奇帕那,Cipanas,119
+6054212,春蓬(府),Chumphon (province),118
+2835,潘普洛纳(及附近地区),Pamplona (and vicinity),118
+6055187,厄瓜多尔(省),Cuenca (province),118
+6052057,上帕拉汀,Upper Palatinate,118
+6058350,威奇托(及周边地区),Wichita (and vicinity),117
+1661,奥兰加巴德,Aurangabad,117
+6051962,米洛斯岛,Milos Island,117
+6143139,旭川 (及周边),Asahikawa (and vicinity),117
+6053651,维尼亚•德马尔(及周边地区),Vina del Mar (and vicinity),117
+180075,考艾岛,Kauai Island,117
+6047655,"",Darling Downs,117
+180034,金斯敦(及周边地区),Kingston (and vicinity),116
+182182,圣克里斯多堡德拉斯卡萨斯,San Cristobal de las Casas,116
+6127896,丰桥市(及周边),Toyohashi (and vicinity),116
+6084357,毕尔巴鄂(及周边),Bilbao (and vicinity),116
+2512,那格浦尔,Nagpur,116
+6049985,蒙日马尔桑-兰德斯(省),Landes (department),116
+602985,亨茨维尔(及周边地区),Huntsville (and vicinity),116
+1663,布莱尔港,Port Blair,115
+6047192,马斯特里赫特(及附近地区),Maastricht (and vicinity),115
+6051623,潘诺尼亚(区),Pannonia (area),115
+6048603,哈安(省),Jaen (province),115
+6059492,拉什莫尔山(及周边地区),Mount Rushmore (and vicinity),115
+6059638,杰斐逊维尔-克拉克斯维尔(及周边地区),Jeffersonville - Clarksville (and vicinity),114
+6053622,芒特艾伯,Mount Abu,114
+6046201,"",Essex (county),114
+6126242,哈立德瓦尔 (及其周边地区),Haridwar (and vicinity),114
+6058374,堪萨斯城(及周边地区),Kansas City (and vicinity),114
+6222421,大西洋岸卢瓦尔海岸 (地区),Loire-Atlantique Coast (area),114
+6141031,福井(及邻近地区),Fukui (and vicinity),114
+601713,阿鲁巴,Aruba (all),113
+6052627,联邦区(州),Federal District (state),113
+4138,维多利亚 (及周边地区),Victoria (and vicinity),113
+524,瓦多达拉,Vadodara,113
+6048820,约克夏东瑞丁(郡),East Riding of Yorkshire (county),113
+602658,波科诺斯(地区),Poconos (area),113
+6126776,康拉河谷,Kangra Valley,113
+3033,赖布尔,Raipur,113
+179991,阿卡普尔科(及周边地区),Acapulco (and vicinity),112
+602998,博伊西(及周边地区),Boise (and vicinity),112
+6068,汉尼拔,Hannibal (and vicinity),111
+6034190,萨瓦纳(及周边地区),Savannah (and vicinity),111
+6055705,中卡林西亚,Central Carinthia,111
+6059984,亚历山大(及周边地区),Alexandria (and vicinity),110
+6046192,柴(郡),Cheshire (county),110
+603261,萨默塞特(及周边地区),Somerset (and vicinity),110
+6058529,切罗基(及周边地区),Cherokee (and vicinity),109
+2368,宫古岛,Miyako Island,109
+10058,蒂鲁帕蒂,Tirupati,109
+603259,比洛克西(及附近),Biloxi (and vicinity),109
+6055190,托莱多(省),Toledo (province),108
+602979,锡达拉皮兹-爱荷华市(及周边地区),Cedar Rapids - Iowa City (and vicinity),108
+6047880,太空海岸,Space Coast,108
+486,卡拉马祖(及周边地区),Kalamazoo (and vicinity),108
+6046191,剑桥(郡),Cambridgeshire (county),108
+3142,圣乔治(及周边地区),St. George (and vicinity),108
+6054709,阿讷西湖(地区),Lake Annecy (area),108
+2729,瓦尔扎扎特,Ouarzazate,107
+2489,松山,Matsuyama,107
+6052912,伦塔波尔堡国家公园,Ranthambore National Park,107
+603262,帕斯潘尼(及周边地区),Parsippany (and vicinity),107
+6127327,惠灵顿 (及其周边地区),Wellington (and vicinity),107
+6034866,阿什维尔(及周边地区),Asheville (and vicinity),107
+602968,格林斯伯勒(及周边地区),Greensboro (and vicinity),107
+2270,麦卡伦(及周边地区),McAllen (and vicinity),107
+6051043,安德尔-卢瓦尔(省),Indre-et-Loire (department),107
+6143579,夜功(府),Samut Songkhram (province),106
+6126201,Kottayam 区,Kottayam District,106
+6051469,自由州(省),Free State (province),106
+6051037,旺代 (省),Vendee (department),106
+181256,萨索斯岛,Thasos Island,106
+6084689,伊尔库次克-贝加尔湖(区),Irkutsk - Lake Baikal (area),106
+6051440,维博瓦伦蒂亚(省),Vibo Valentia (province),105
+6050648,摩纳哥(及周边),Monaco (and vicinity),105
+6047631,汤斯维尔(及其周边地区),Townsville (and vicinity),105
+1724,若昂佩索阿(及邻近地区),Joao Pessoa (and vicinity),105
+2627,良乌,Nyaung-U,105
+6053243,明多洛,Mindoro,105
+603000,韦恩堡(及周边地区),Fort Wayne (and vicinity),104
+178296,渥太华(及周边地区),Ottawa (and vicinity),104
+6047983,马尔伯勒,Marlborough,104
+6142306,万鸦老(及邻近地区),Manado (and vicinity),104
+6051790,帕尔马(省),Parma (province),104
+6155242,南部区,South Iceland,104
+6055201,萨拉曼卡(省),Salamanca (province),104
+6058766,赛克斯顿(及周边地区),Sikeston (and vicinity),104
+602277,圣巴巴拉 (及周边地区),Santa Barbara (and vicinity),104
+6047788,纽卡斯尔(及其周边地区),Newcastle (and vicinity),104
+6057124,库亚维波米拉尼亚(省),Kujawy Pomerania (province),104
+3290,苏拉特,Surat,104
+6125838,华富里,Lop Buri,104
+371,阿马里洛(及周边地区),Amarillo (and vicinity),103
+6046225,诺森伯兰(郡),Northumberland (county),103
+601760,纽瓦克(及周边地区),Newark (and vicinity),103
+2175,利沃夫,Lviv,103
+2085,卢布尔雅那(及周边),Ljubljana (and vicinity),103
+6046890,Mayo (郡),Mayo (county),102
+602392,索维拉,Essaouira,102
+6046232,"",Suffolk (county),102
+6135276,格雷茅斯 (及周边地区),Greymouth (and vicinity),102
+6058231,马里博尔 - 施蒂里亚(区),Maribor - Styria (region),102
+6184830,伊列乌斯-伊塔卡雷(及邻近地区),Ilheus-Itacare (and vicinity),101
+6058519,不伦瑞克群岛,Brunswick Islands,101
+6052066,斯科派洛斯岛,Skopelos Island,101
+6025910,突尼斯(及其周边地区),Tunis (and vicinity),101
+1366,哥德堡(及周边),Gothenburg (and vicinity),101
+2127,南邦府,Lampang,100
+3199,萨尔塔(及邻近地区),Salta (and vicinity),100
+2427,明斯科,Minsk,100
+180046,纳帕谷,Napa Valley,100
+2631,"",Oaxaca,100
+603008,库拉索(岛),Curacao (all),100
+6035270,鹿特丹 (及附近地区),Rotterdam (and vicinity),100
+6055196,布尔戈斯(省),Burgos (province),100
+6053734,圣萨尔瓦多(及周边地区),San Salvador (and vicinity),100
+21262,602984,莫比尔(及周边地区),Mobile (and vicinity),99
+27826,6050288,芒什(省),Manche (department),99
+26115,6048120,Coromandel半岛,Coromandel Peninsula,99
+7810,8321,坎普尔,Kanpur,99
+30966,6056251,科亚尼(区),Kajaani (region),99
+39426,6134123,布尔萨(及附近地区),Bursa (and vicinity),99
+32147,6059698,印第安纳西北部,Northwest Indiana,99
+24892,6046693,费耶特维尔(及周边地区),Fayetteville (and vicinity),99
+28121,6050886,加尔加诺-福贾(省),Gargano - Foggia (province),99
+29105,6052447,莫雷洛斯(全州),Morelos (all),98
+30507,6055207,马策拉塔(省),Macerata (province),98
+22563,6023660,维罗海滩(及周边地区),Vero Beach (and vicinity),98
+11260,55528,罗伯,Robe,98
+23053,6025617,本顿维尔-费耶特维尔(及周边地区),Bentonville - Fayetteville (and vicinity),98
+1291,1414,瓜亚基尔 (及邻近地区),Guayaquil (and vicinity),98
+31634,6058253,布雷顿角岛,Cape Breton Island,98
+25728,6047665,伯克郡,The Berkshires,98
+39786,6135632,杜马格特(及周边地区),Dumaguete (and vicinity),98
+15646,180011,马萨特兰(及周边地区),Mazatlan (and vicinity),98
+28064,6050770,巴塞尔(及附近地区),Basel (and vicinity),98
+36316,6126331,"",Iguazu (and vicinity),97
+1179,1280,高哈蒂,Guwahati,97
+24475,6046218,威特(郡),Isle of Wight (county),97
+39768,6135588,大洋路,Great Ocean Road,97
+23392,6034134,苏塞-莫纳斯提尔(及周边地区),Sousse - Monastir (and vicinity),97
+27429,6049737,阿雅克修-南可西嘉岛,Southern Corsica,96
+36253,6126229,碧卡内 (及其周边地区),Bikaner (and vicinity),96
+15704,180092,加勒比海岸,Caribbean Coast,96
+21034,602705,梅蒂纳,Medina,96
+22678,6023812,卡拉法铁(及邻近地区),El Calafate (and vicinity),96
+27237,6049434,布雷西亚(及附近地区),Brescia (and vicinity),95
+28199,6051034,索米尔-曼恩卢瓦尔(省),Saumur - Maine-et-Loire (department),95
+2971,3274,沙姆沙伊赫(及其周边地区),Sharm el Sheikh (and vicinity),95
+4100,4498,"",Ayvalik,95
+40511,6139480,宫津,Miyazu,95
+25897,6047864,圣奥古斯丁(及周边地区),St. Augustine (and vicinity),95
+1042,1129,埃尔帕索(及周边地区),El Paso (and vicinity),94
+28050,6050702,卡尔卡松(及周边),Carcassonne (and vicinity),94
+21283,603005,大急流域(及周边地区),Grand Rapids (and vicinity),94
+28577,6051622,斯华比亚(巴伐利亚),Swabia (Bavaria),94
+22616,6023716,不伦瑞克(及周边地区),Brunswick (and vicinity),94
+30941,6056210,图尔库(区),Turku (region),94
+3193,3518,台北,Taipei,94
+20173,601584,静冈,Shizuoka,94
+3127,3449,丰冈,Toyooka,94
+649,688,布里斯托尔(及周边),Bristol (and vicinity),94
+41868,6141677,东海,Donghae,94
+40254,6138875,Tweed Heads(及周边地区),Tweed Heads (and vicinity),93
+29902,6053938,拉巴斯(及周边地区),La Paz (and vicinity),93
+29427,6053051,维埃纳(省),Vienne (department),93
+19759,500522,佐贺,Saga,93
+14980,179215,大津,Otsu,93
+627,665,巴厘巴板,Balikpapan,93
+30946,6056215,考艾国家公园,Khao Yai National Park,92
+14168,178230,安克雷奇(及周边地区),Anchorage (and vicinity),92
+30460,6055113,卢戈(省),Lugo (province),92
+24970,6046772,萨马纳(及周边地区),Samana (and vicinity),92
+29673,6053553,的的喀喀湖-普诺(及周边地区),Lake Titicaca - Puno (and vicinity),92
+30581,6055356,奇科(及周边地区),Chico (and vicinity),92
+30397,6054991,朗格地区,Langhe Region,92
+2952,3251,塞班岛,Saipan,92
+2306,2543,内格里尔 (及邻近地区),Negril (and vicinity),92
+2537,2796,波卡特洛(及周边地区),Pocatello (and vicinity),92
+28665,6051788,费拉拉(省),Ferrara (province),92
+31932,6059109,新布朗费尔斯(及周边地区),New Braunfels (and vicinity),92
+38768,6131746,碧差汶 (府),Phetchabun (province),92
+28186,6051019,南摩拉维亚州（地区）,South Moravian (region),92
+1080,1170,埃拉特(及其周边地区),Eilat (and vicinity),91
+38488,6131317,达尔文 (及其周边地区),Darwin (and vicinity),91
+351,354,阿拉木图,Almaty,91
+28067,6050773,福山,Fukuyama,91
+20699,602298,圣马丁(荷属),Sint Maarten (Dutch),91
+21248,602966,罗切斯特(及周边地区),Rochester (and vicinity),91
+39781,6135605,黑曾(及周边地区),Hazen (and vicinity),91
+39980,6136907,田边(及周边),Tanabe (and vicinity),91
+54035,6223644,阿尔勒(及邻近地区),Arles (and vicinity),91
+27334,6049601,维苏威火山-波纳佩(区),Mount Vesuvius - Pompei (area),90
+28136,6050927,德龙(省),Drome (department),90
+52635,6207792,新卡尔达斯(及周边地区),Caldas Novas (and vicinity),90
+6865,7352,科林斯维尔(及周边地区),Collinsville (and vicinity),90
+25154,6046982,伊斯其兰岛和普罗奇达岛,Ischia and Procida Islands,90
+22947,6024121,瓜德罗普,Guadeloupe (islands),90
+2497,2754,巴东,Padang,90
+31122,6056627,波恩(及周边),Bonn (and vicinity),89
+30422,6055034,里维埃拉dei Fiori,Sanremo - Riviera dei Fiori,89
+705,757,博兹曼(及周边地区),Bozeman (and vicinity),89
+769,826,卡加延德奥罗,Cagayan de Oro,89
+42572,6143221,圣保罗南岸（及其周边地区）,Sao Paulo South Shore (and vicinity),89
+2142,2357,马尔默(及周边),Malmo (and vicinity),89
+33218,6084754,拉巴特 (及邻近地区),Rabat (and vicinity),89
+28467,6051472,西北(省),North-West (province),89
+23347,6034083,巴斯克海岸,Basque Coast,89
+28878,6052111,东富兰德(区),East Flanders (province),88
+3622,3979,坎卢普斯(及周边地区),Kamloops (and vicinity),88
+2468,2721,新西伯利亚,Novosibirsk,88
+25990,6047978,霍克斯湾,Hawke's Bay,88
+524,546,贝克斯菲尔德(及周边地区),Bakersfield (and vicinity),88
+21402,603148,康蒂地区,Chianti Region,88
+26116,6048121,汉密尔顿(及其周边地区),Hamilton (and vicinity),88
+21246,602964,林肯(及周边地区),Lincoln (and vicinity),88
+21270,602992,柯林斯堡(及周边地区),Fort Collins (and vicinity),88
+2004,2206,马瑙斯(及邻近地区),Manaus (and vicinity),88
+31348,6057337,佛蒙特中部-凯灵顿(及周边地区),Central Vermont- Killington (and vicinity),88
+24486,6046229,希罗普(郡),Shropshire (county),87
+38288,6131013,拉伯克(及周边地区),Lubbock (and vicinity),87
+30858,6056010,圣劳伦斯航道(及周边地区),St. Lawrence Seaway (and vicinity),87
+3606,3963,哈密尔顿(及周边地区),Hamilton (and vicinity),87
+31344,6057322,奥甘奎特-威尔斯(及周边地区),Ogunquit - Wells (and vicinity),87
+24148,6035154,南部阿尔卑斯山脉,Alpes du Sud,87
+9027,9586,金马仑高原,Cameron Highlands,87
+2748,3020,罗阿诺克城(及周边地区),Roanoke (and vicinity),86
+20593,602174,托莱多(及周边地区),Toledo (and vicinity),86
+20890,602528,阿斯塔纳,Astana,86
+45284,6157006,轻井泽(及周边地区),Karuizawa (and vicinity),86
+35804,6125321,苗场山,Mount Naeba,86
+15661,180028,圣菲(及周边地区),Santa Fe (and vicinity),86
+1285,1407,瓜廖尔,Gwalior,86
+23950,6034855,桑达斯基(及周边地区),Sandusky (and vicinity),86
+15688,180062,卡普里岛,Capri Island,86
+28745,6051926,华都尔科(及周边地区),Huatulco (and vicinity),86
+21256,602976,阿伦敦(及周边地区),Allentown (and vicinity),86
+14231,178302,盐湖城 (及周边地区),Salt Lake City (and vicinity),86
+13997,178011,阿鲁莎,Arusha,86
+20330,601844,基希讷乌,Chisinau,85
+30494,6055194,利昂(省),Leon (province),85
+15679,180052,索诺马山谷,Sonoma Valley,85
+9477,10067,托卢卡 (及邻近地区),Toluca (and vicinity),85
+19479,500224,圣佩德罗德阿塔卡马（及周边地区）,San Pedro de Atacama (and vicinity),85
+26193,6048214,塔拉哈西(及周边地区),Tallahassee (and vicinity),85
+28841,6052060,伊丘卡(及其周边地区),Echuca (and vicinity),84
+20258,601763,伯灵顿(及周边地区),Burlington (and vicinity),84
+27863,6050331,南海,Namhae,84
+28047,6050699,斯瓦比亚(巴登-乌特姆博格),Swabia (Baden-Wuerttemberg),84
+39595,6134459,维克多港(及附近地区),Victor Harbor (and vicinity),84
+20355,601874,Donegal (郡),Donegal (county),84
+53102,6212659,恩波里亚 (及邻近地区),Emporia (and vicinity),84
+31556,6057994,海伦(及周边地区),Helen (and vicinity),84
+24094,6035091,马萨阿拉姆,Marsa Alam,84
+2768,3041,罗切斯特(及周边地区),Rochester (and vicinity),84
+28440,6051436,科森察(省),Cosenza (province),83
+21031,602702,梅德福（及邻近地区）,Medford (and vicinity),83
+3406,3748,符拉迪沃斯托克,Vladivostok,83
+801,861,科利奇站(及周边地区),College Station (and vicinity),83
+28248,6051146,邓弗里斯和盖洛韦,Dumfries and Galloway,83
+3118,3439,蒂华纳(及邻近地区),Tijuana (and vicinity),83
+28669,6051792,摩德纳(省),Modena (province),83
+28204,6051039,卢瓦雷(省),Loiret (department),83
+32083,6059512,苏福尔斯(及周边地区),Sioux Falls (and vicinity),83
+1294,1417,戈亚尼亚 (及邻近地区),Goiania (and vicinity),83
+17504,182156,富良野,Furano,83
+15650,180015,普罗维登斯(及周边地区),Providence (and vicinity),82
+2671,2937,拉杰科德,Rajkot,82
+55125,6233566,统营,Tongyeong,82
+2383,2629,杰克逊维尔(及周边地区),Jacksonville (and vicinity),82
+1608,1765,哥打巴鲁,Kota Bharu,82
+1841,2029,莱克查尔斯(及周边地区),Lake Charles (and vicinity),82
+28257,6051157,斯特灵和福尔柯克,Stirling and Falkirk,82
+476,494,巴兰基亚 (及邻近地区),Barranquilla (and vicinity),81
+30489,6055189,雷阿尔(省),Ciudad Real (province),81
+21175,602872,什里夫波特(及周边地区),Shreveport (and vicinity),81
+30227,6054683,北冰岛,Northern Iceland,81
+24404,6035460,南太平洋海岸,South Pacific Coast,81
+28246,6051144,阿盖尔和保泰松,Argyll and Bute,81
+29432,6053058,索默(省),Somme (department),80
+26762,6048819,"",Rutland (county),80
+37118,6129083,大田 (及其周边地区),Daejeon (and vicinity),80
+28703,6051846,维泰博(省),Viterbo (province),80
+29563,6053352,奥雷山脉(区),Ore Mountains (region),80
+21241,602954,伊斯塔帕-芝华塔尼欧(及周边地区),Ixtapa - Zihuatanejo (and vicinity),80
+28066,6050772,布雷斯特-北菲尼斯泰尔 (省),Brest - Northern Finistere (department),80
+31527,6057875,欧文桑德(及周边地区),Owen Sound (and vicinity),80
+30714,6055590,格拉茨(区),Graz (region),79
+30492,6055192,洛格罗尼奥-拉里奥哈米底 (区),Logrono - La Rioja Media (area),79
+30853,6055969,乔治湖(及周边地区),Lake George (and vicinity),79
+800,860,克卢日纳波卡,Cluj-Napoca,79
+25737,6047675,马萨诸塞东南部,Southeast Massachusetts,79
+21268,602990,莫德斯托(及周边地区),Modesto (and vicinity),79
+47044,6177570,新竹 (及邻近地区),Hsinchu (and vicinity),79
+1789,1970,光州,Gwangju,79
+1513,1654,班加罗尔,Mangalore,79
+35734,6125147,南蒂包 (及邻近地区),Tibau do Sul (and vicinity),78
+20379,601900,圣卢西亚(全部),St. Lucia (all),78
+1777,1958,群山,Gunsan,78
+402,409,亚喀巴,Aqaba,78
+31623,6058235,亚德里亚海岸 - 喀斯特,Adriatic Coast - Karst,78
+499,520,马辰,Banjarmasin,78
+21274,602996,坦帕(及周边地区),Tampa (and vicinity),78
+37192,6129268,卡农,Khanom,78
+27464,6049783,邦咯岛(及其周边地区),Pangkor Island (and vicinity),78
+31472,6057744,加里宁格勒 (联邦主体),Kaliningrad (federal subject),77
+11119,55374,特朗布朗山(及周边地区),Mont-Tremblant (and vicinity),77
+3016,3322,斯万克庞德,Swakopmund,77
+24488,6046231,斯塔福德(郡),Staffordshire (county),77
+23267,6025893,雪兰多国家公园(及周边地区),Shenandoah National Park (and vicinity),77
+29124,6052480,塔斯马尼亚岛东北部,Northeast Tasmania,77
+9665,10268,维杰亚瓦达,Vijayawada,77
+1615,1772,高知,Kochi,76
+39510,6134308,长荣(及附近地区),Evergreen (and vicinity),76
+1918,2114,伦敦,London,76
+30502,6055202,阿维拉(省),Avila (province),76
+30774,6055736,艾恩德霍芬-东布拉本特,Eindhoven - East Brabant,76
+2673,2940,里贝朗普雷图 (及邻近地区),Ribeirao Preto (and vicinity),76
+31335,6057301,海法(区),Haifa (district),76
+28151,6050969,默尔特-摩泽尔(省),Meurthe-et-Moselle (department),76
+37097,6129047,八打雁(省),Batangas (province),76
+11267,55539,"",Jersey,76
+32013,6059376,法戈(及周边地区),Fargo (and vicinity),75
+27905,6050418,太子港 (及邻近地区),Port-au-Prince (and vicinity),75
+3753,4117,萨斯卡通,Saskatoon,75
+3226,3553,鸟取,Tottori,75
+39299,6133255,塞勒姆(及周边地区),Salem (and vicinity),75
+30146,6054450,归仁(及其周边地区),Quy Nhon (and vicinity),74
+15682,180056,特柳赖德（及周边地区）,Telluride (and vicinity),74
+29528,6053285,埃费尔(区),Eifel (region),74
+3318,3654,乌苏怀亚,Ushuaia,74
+39695,6135271,汤加里罗国家公园（及周边地区）,Tongariro National Park (and vicinity),74
+42576,6143226,维多利亚(及邻近地区),Vitoria (and vicinity),74
+20403,601931,克莱佩达,Klaipeda,74
+32009,6059368,曼斯菲尔德(及周边地区),Mansfield (and vicinity),74
+45896,6160162,佛统(府),Nakhon Pathom (province),73
+22378,6023389,萨吉诺 (及周边地区),Saginaw (and vicinity),73
+20231,601723,卢森堡(全部),Luxembourg (all),73
+950,1024,达喀尔,Dakar,73
+3273,3604,乌汶,Ubon Ratchathani,73
+28010,6050603,吕讷堡灌丛,Luneburg Heath,73
+41412,6141041,温尼伯(及邻近地区),Winnipeg (and vicinity),73
+15675,180045,蒙特雷 (及周边地区),Monterey (and vicinity),73
+24448,6046190,白金汉(郡),Buckinghamshire (county),73
+1832,2019,纳闽巴霍,Labuan Bajo,73
+20693,602292,渥斯特夏(郡),Worcestershire (county),73
+28247,6051145,埃尔郡,Ayrshire,73
+44286,6148772,朝仓,Asakura,73
+30268,6054771,塞多纳(及周边地区),Sedona (and vicinity),73
+21257,602977,诺克斯维尔(及周边地区),Knoxville (and vicinity),72
+2830,3111,山打根,Sandakan,72
+1206,1314,朗维尤(及周边地区),Longview (and vicinity),72
+22537,6023631,福门特拉岛,Formentera Island,72
+31656,6058315,克兰布鲁克(及周边地区),Cranbrook (and vicinity),72
+1962,2161,卢萨卡,Lusaka,72
+25991,6047979,塔拉纳基,Taranaki,72
+31216,6056927,布里斯托尔(及周边地区),Bristol (and vicinity),72
+31506,6057821,金斯敦(及周边地区),Kingston (and vicinity),71
+40685,6139809,那智胜浦,Nachikatsuura,71
+28445,6051441,卡拉布里亚雷吉(省),Reggio di Calabria (province),71
+22717,6023853,圣路易斯,Sao Luis,71
+424,432,亚松森（及周边地区）,Asuncion (and vicinity),71
+30499,6055199,巴里阿多里德(省),Valladolid (province),71
+31133,6056652,卑尔根-霍达兰(省),Bergen - Hordaland (county),71
+38290,6131018,乌兰巴托(及周边地区),Ulaanbaatar (and vicinity),71
+3219,3546,蒂米什瓦拉,Timisoara,71
+41267,6140801,亚美尼亚(及周边地区),Armenia (and vicinity),71
+29647,6053484,藻厄兰,Sauerland,71
+25310,6047159,拉帕尔马,La Palma,71
+22342,6023345,三城市(及周边地区),Tri-Cities (and vicinity),71
+31150,6056714,芒特劳雷尔(及周边地区),Mount Laurel (and vicinity),71
+31427,6057572,葛底斯堡(及周边地区),Gettysburg (and vicinity),71
+28197,6051032,勒芒-萨尔特(省),Le Mans - Sarthe (department),70
+21251,602969,温斯顿-塞勒姆(及周边地区),Winston - Salem (and vicinity),70
+27369,6049645,威尼斯海滨,Venetian Riviera,70
+32015,6059380,俾斯麦(及周边地区),Bismarck (and vicinity),70
+55856,6242010,帕夭府,Phayao,70
+30476,6055139,巴达霍斯(省),Badajoz (province),69
+21244,602959,斯波坎(及周边地区),Spokane (and vicinity),69
+29422,6053037,杜(省),Doubs (department),69
+26203,6048226,埼玉(及周边),Saitama (and vicinity),69
+31770,6058686,图珀洛(及周边地区),Tupelo (and vicinity),69
+3393,3735,巴拉德罗,Varadero,69
+28647,6051762,博尔德(及周边地区),Boulder (and vicinity),69
+31561,6058020,卡特斯维尔(及周边地区),Cartersville (and vicinity),69
+1154,1254,比什凯克,Bishkek,69
+28731,6051895,Mornington 半岛,Mornington Peninsula,69
+2404,2651,奥赫里德,Ohrid,69
+758,815,科夫斯港(及其周边地区),Coffs Harbour (and vicinity),68
+42354,6142862,杰里科科拉(及邻近地区),Jericoacoara (and vicinity),68
+30842,6055931,圣贝纳迪诺城(及周边地区),San Bernardino (and vicinity),68
+355,359,阿尔及尔,Algiers,68
+2559,2818,巨港,Palembang,68
+30550,6055298,埃法特岛,Efate,68
+37145,6129176,北见,Kitami,68
+25988,6047976,陶波湖(地区),Lake Taupo (region),68
+29748,6053664,蒙特港(及周边地区),Puerto Montt (and vicinity),68
+31371,6057414,朴次茅斯(及周边地区),Portsmouth (and vicinity),68
+30088,6054325,伦敦德里(郡),Londonderry (county),68
+20276,601784,拿骚（及周边地区）,Nassau (and vicinity),68
+26174,6048189,盖恩斯维尔(及周边地区),Gainesville (and vicinity),67
+436,447,阿普尔顿-温纳贝戈湖(及周边地区),Appleton - Lake Winnebago (and vicinity),67
+2675,2942,拉罗汤加岛,Rarotonga,67
+485,503,马德望,Battambang,67
+40916,6140150,亚历山大(及周边地区),Alexandria (and vicinity),67
+38282,6131007,阿寒国立公园,Akan National Park,67
+3057,3368,塔什干,Tashkent,67
+39422,6134118,恰纳卡莱(及附近地区),Canakkale (and vicinity),67
+27658,6050063,约讷(省),Yonne (department),66
+21185,602887,长岛,Long Island,66
+30509,6055209,阿斯科利皮契诺(省),Ascoli Piceno (province),65
+33065,6084536,费尔南多迪诺罗尼亚,Fernando de Noronha,65
+46789,6176216,摩押(及周边地区),Moab (and vicinity),65
+36250,6126217,卡修拉荷 (及其周边地区),Khajuraho (and vicinity),65
+31721,6058444,温泉城(及周边地区),Hot Springs (and vicinity),65
+31679,6058365,托皮卡(及周边地区),Topeka (and vicinity),65
+21020,602688,里诺 (及周边地区),Reno (and vicinity),65
+27367,6049643,威岑扎(省),Vicenza (province),65
+6238,6709,"",Corowa,65
+30472,6055129,波丹诺内(省),Pordenone (province),65
+21178,602875,尤金(及周边地区),Eugene (and vicinity),64
+35858,6125464,松江,Matsue,64
+21341,603081,佩里戈尔-多尔多涅(省),Perigord - Dordogne (department),64
+31881,6058924,科图拉（及周边地区）,Cotulla (and vicinity),64
+36258,6126245,贾兰达 (及其周边地区),Jalandhar (and vicinity),64
+31069,6056517,阿勒格尼高原（及邻近地区）,Allegheny Plateau (and vicinity),64
+2005,2207,美索,Mae Sot,64
+644,682,伯灵顿(及周边地区),Burlington (and vicinity),64
+31909,6058982,布朗斯维尔(及周边地区),Brownsville (and vicinity),63
+29733,6053635,加拉加斯(及周边地区),Caracas (and vicinity),63
+31422,6057566,威廉斯波特(及周边地区),Williamsport (and vicinity),63
+30307,6054845,代尼兹利 (省),Denizli (province),63
+7420,7926,纳希克,Nashik,63
+2756,3028,顿河畔罗斯托夫,Rostov-on-Don,63
+22386,6023404,泽西城(及周边地区),Jersey City (and vicinity),63
+2520,2778,槟港,Pangkalpinang,63
+46275,6168683,塔西克马拉亚,Tasikmalaya,63
+28245,6051143,安格斯和邓迪,Angus and Dundee,63
+54142,6224131,井里汶西区,West Cirebon,63
+30500,6055200,塞哥维亚(省),Segovia (province),63
+29815,6053758,北海岸,Northern Coast,63
+16268,180720,安提瓜和巴布达(全部),Antigua and Barbuda (all),63
+20257,601762,奥克兰(及周边地区),Oakland (and vicinity),62
+1105,1199,白鱼(及周边地区),Whitefish (and vicinity),62
+31241,6057012,夏洛茨维尔(及周边地区),Charlottesville (and vicinity),62
+31429,6057574,兰开斯特(及周边地区),Lancaster (and vicinity),62
+8680,9215,莫斯塔尔,Mostar,62
+31167,6056760,五月海角-怀尔德伍德(及周边地区),Cape May - Wildwood (and vicinity),62
+31942,6059139,麦基诺海峡,Straits of Mackinac,62
+811,871,"",Ciudad del Carmen,62
+9961,10579,基奇纳(及周边地区),Kitchener (and vicinity),62
+31586,6058122,爱德华王子岛,Prince Edward Island,61
+22615,6023715,尚佩恩(及周边地区),Champaign (and vicinity),61
+67042,6329756,宾坦岛,Bintan Island,61
+10013,10634,黎巴嫩,Lebanon,61
+44806,6153920,海湾群岛（及周边地区）,Bay Islands (and vicinity),61
+30445,6055074,特尔尼(省),Terni (province),61
+28255,6051155,苏格兰边区,Scottish Borders,61
+29239,6052652,塞尔希培(州),Sergipe (state),61
+23290,6034018,宾厄姆顿(及周边地区),Binghamton (and vicinity),61
+20275,601783,特克斯和凯科斯(全岛),Turks and Caicos (all),61
+30433,6055062,德卢耶(省),Teruel (province),61
+29436,6053073,上维埃纳(省),Haute-Vienne (department),60
+3176,3500,安塔那那利佛,Antananarivo,60
+20148,601499,克拉斯诺亚尔斯克,Krasnoyarsk,60
+28902,6052151,列日(区),Liege (province),60
+2553,2812,北干巴鲁,Pekanbaru,59
+43036,6143940,纳库鲁(及邻近地区),Nakuru (and vicinity),59
+1450,1585,基林(及周边地区),Killeen (and vicinity),59
+24230,6035269,伯尔尼(区),Bern (region),59
+5839,6296,威廉斯堡,Williamsburg,58
+291,286,韦科(及周边地区),Waco (and vicinity),58
+9412,9998,马提尼克岛(全岛),Martinique (all),58
+28813,6052006,喀帕苏斯岛,Karpathos Island,58
+27661,6050066,索恩-卢瓦尔(省),Saone-et-Loire (department),58
+28207,6051042,安德尔(省),Indre (department),58
+3692,4053,里贾纳,Regina,58
+839,901,哥伦比亚(及附近地区),Columbia (and vicinity),58
+21048,602724,那不勒斯 (及周边地区),Naples (and vicinity),58
+3762,4127,伦敦(及周边地区),London (and vicinity),58
+40864,6140069,一关,Ichinoseki,58
+29737,6053644,巴伦西亚(及周边地区),Valencia (and vicinity),58
+41741,6141508,伊斯兰堡(及邻近地区),Islamabad (and vicinity),58
+27897,6050403,塔尔纳(省),Tarn (department),58
+1453,1588,伊洛伊洛,Iloilo,57
+24993,6046799,韦克斯福德(郡),Wexford (county),57
+25731,6047669,斯普林菲尔德(及周边地区),Springfield (and vicinity),57
+37018,6128764,达尔豪西 (及其周边地区),Dalhousie (and vicinity),57
+31130,6056649,斯塔万格(及附近地区),Stavanger (and vicinity),57
+3430,3772,温得和克,Windhoek,57
+706,758,贝济耶(及邻近地区),Beziers (and vicinity),57
+54281,6225823,三好市,Miyoshi,57
+17103,181687,袋鼠岛,Kangaroo Island,57
+28775,6051960,伊奥斯岛,Ios Island,57
+23802,6034646,阿格纳-洛特加龙(省),Lot-et-Garonne (department),57
+31975,6059241,安阿伯(及周边地区),Ann Arbor (and vicinity),57
+30228,6054684,东部区,East Iceland,57
+24478,6046221,莱斯特(郡),Leicestershire (county),57
+1385,1514,哈尔科夫市,Kharkiv,57
+33747,6085407,波因特普莱森特-汤姆斯河(及周边地区),Point Pleasant - Toms River (and vicinity),56
+43486,6144568,伏尔加格勒 (及邻近地区),Volgograd (and vicinity),56
+1183,1284,哈博罗内,Gaborone,56
+2882,3168,新加坡,Singapore,56
+2504,2761,彼尔姆,Perm,56
+53774,6220913,艾克斯莱班(及邻近地区),Aix-les-Bains (and vicinity),56
+15666,180033,"",Cozumel,56
+24224,6035260,普斯陶 - 南匈牙利,Puszta - Southern Hungary,56
+16980,181550,圣托马斯和圣约翰,St. Thomas and St. John,56
+1382,1511,哈拉雷,Harare,56
+42566,6143196,Morro de Sao Paulo(莫罗圣保罗及邻近地区),Morro de Sao Paulo (and vicinity),56
+28367,6051331,石勒苏益格-荷尔斯泰因北海海岸,Schleswig-Holstein North Sea Coast,56
+62911,6299379,坤西育府,Nakhon Nayok,56
+31273,6057090,布里奇波特(及周边地区),Bridgeport (and vicinity),56
+1584,1734,锡罗斯,Syros Island,56
+2190,2412,马赛马拉,Masai Mara,56
+30569,6055320,中央黑森林(地区),Central Black Forest (area),55
+32165,6059760,拉斐特(及周边),Lafayette (and vicinity),55
+292,287,尤里卡(及周边地区),Eureka (and vicinity),55
+30692,6055554,Traunviertel(区),Traunviertel (area),55
+955,1029,德卢斯(及周边地区),Duluth (and vicinity),55
+31351,6057349,本宁顿(及周边地区),Bennington (and vicinity),55
+1087,1179,埃文斯维尔(及周边地区),Evansville (and vicinity),55
+40105,6138350,Udupi(及周边地区),Udupi (and vicinity),55
+31738,6058523,布恩（及周边地区）,Boone (and vicinity),55
+21261,602983,蒙哥马利(及周边地区),Montgomery (and vicinity),55
+1649,1813,哈巴罗夫斯克,Khabarovsk,55
+1981,2181,卢克索,Luxor,55
+40558,6139537,马鹿(及周边地区),Red Deer (and vicinity),55
+29294,6052790,留尼旺岛,Reunion (all),55
+32175,6059776,布卢明顿(及周边地区),Bloomington (and vicinity),54
+29434,6053061,瓦兹(省),Oise (department),54
+29752,6053670,圣塔克鲁兹岛,Santa Cruz Island,54
+530,552,布卡拉曼加 (及邻近地区),Bucaramanga (and vicinity),54
+28710,6051854,罗马海岸,Roman Coast,54
+28509,6051535,俄勒冈北部海岸,North Oregon Coast,54
+27898,6050404,阿韦龙(省),Aveyron (department),54
+1308,1432,哈瓦那(及周边地区),Havana (and vicinity),54
+27366,6049642,特雷维索(省),Treviso (province),54
+1971,2170,利文斯敦,Livingstone,54
+27236,6049433,曼多瓦(省),Mantova (province),54
+31236,6056981,米斯 (郡),Meath (county),54
+3128,3450,秋明,Tyumen,54
+31294,6057145,鲁布林(省),Lublin (province),54
+28961,6052232,阿古利达(区),Argolida (region),54
+21465,603225,安大略(及周边地区),Ontario (and vicinity),54
+38545,6131390,班珠-冈比亚(全部地区),Banjul - Gambia (all),53
+24460,6046203,赫里福德(郡),Herefordshire (county),53
+29651,6053488,贝尔吉施山区,Bergisches Land,53
+31763,6058670,哈蒂斯堡(及周边地区),Hattiesburg (and vicinity),53
+761,818,库亚巴(及周边地区),Cuiaba (and vicinity),53
+21242,602956,圣约翰(及周边地区),Saint John (and vicinity),53
+28733,6051897,菲利普岛,Phillip Island,53
+6960,7447,桑托斯将军城,General Santos,53
+15674,180043,门多西诺海岸,Mendocino Coast,53
+2506,2763,佩雷拉(及邻近地区),Pereira (and vicinity),53
+36918,6128410,盛冈(及周边),Morioka (and vicinity),53
+28182,6051015,赫拉德茨 克拉洛韦 (区),Hradec Kralove (region),53
+43037,6143942,纳纽基(及邻近地区),Nanyuki (and vicinity),53
+28005,6050597,奥斯纳布吕克地区,Osnabrucker Land,53
+7245,7742,霍舍姆,Horsham,53
+33078,6084555,菲诺港 - 迪古里奥海湾,Portofino - Golfo Tigullio,53
+30541,6055281,萨摩亚(全部),Samoa (all),52
+3249,3577,特拉弗斯城(及周边地区),Traverse City (and vicinity),52
+29430,6053054,德塞夫勒(省),Deux-Sevres (department),52
+266,259,奥胡斯(及邻近地区),Aarhus (and vicinity),52
+38183,6130828,白马,Kep,52
+36458,6126623,纳高尔 (及其周边地区),Nagercoil (and vicinity),52
+30271,6054778,基奈半岛,Kenai Peninsula,52
+2331,2574,诺福克岛(全部),Norfolk Island (all),52
+17536,182193,博内尔(岛),Bonaire (all),52
+29602,6053417,兰河谷(区),Lahn River Valley (region),52
+43233,6144237,恩塞纳达(及邻近地区),Ensenada (and vicinity),52
+2775,3048,萨拉托夫,Saratov,52
+1483,1623,伊基克（及周边地区）,Iquique (and vicinity),52
+2481,2734,巴黎,Paris,52
+28773,6051957,西弗诺斯岛,Sifnos Island,52
+42371,6142910,Ingolstadt(因戈尔施塔特及邻近地区),Ingolstadt (and vicinity),51
+20993,602649,特里尼达,Trinidad,51
+3133,3455,班达楠榜,Bandar Lampung,51
+28139,6050930,卢瓦尔(省),Loire (department),51
+3103,3422,图斯特拉古铁雷斯 (及邻近地区),Tuxtla Gutierrez (and vicinity),51
+2813,3091,锡比乌,Sibiu,51
+749,804,车里亚宾斯克,Chelyabinsk,51
+36813,6127691,岐阜(及周边),Gifu (and vicinity),51
+15934,180349,雅罗斯拉夫尔,Yaroslavl,51
+23486,6034238,伊泽尔(省),Isere (department),50
+36914,6128396,四日市(及周边),Yokkaichi (and vicinity),50
+3690,4051,蒙克顿(及周边地区),Moncton (and vicinity),50
+1659,1824,基苏木,Kisumu,50
+2427,2676,鄂木斯克,Omsk,50
+2181,2401,马普托 (及邻近地区),Maputo (and vicinity),50
+24326,6035375,乌得勒支(省),Utrecht (province),50
+28217,6051100,特鲁瓦-奥伯(省),Troyes - Aube (department),50
+31366,6057409,拉科尼亚(及周边地区),Laconia (and vicinity),50
+21258,602978,普罗沃(及周边地区),Provo (and vicinity),50
+3813,4182,曼萨尼约(及周边地区),Manzanillo (and vicinity),50
+28698,6051841,诺维萨德,Novi Sad,50
+21496,603263,普林斯顿(及周边地区),Princeton (and vicinity),49
+15927,180340,普雷图河畔圣若泽(及邻近地区),Sao Jose do Rio Preto (and vicinity),49
+27231,6049428,梅克伦堡多湖平原,Mecklenburger Seenplatte,49
+31698,6058408,奇利瓦克(及周边地区),Chilliwack (and vicinity),49
+30972,6056257,塞玛湖(区),Lake Saimaa (region),49
+45110,6156158,通哈 (及邻近地区),Tunja (and vicinity),49
+31535,6057909,巴里-奥里利亚,Barrie - Orillia (and vicinity),49
+52980,6210982,图库曼 (及邻近地区),Tucuman (and vicinity),49
+24900,6046702,梅尔祖加,Merzouga,49
+360,364,滑铁卢(及周边地区),Waterloo (and vicinity),49
+15684,180058,温特帕克(滑雪场),Winter Park (ski area),49
+293,288,亚达那,Adana,49
+556,583,比灵斯(及周边地区),Billings (and vicinity),49
+22340,6023343,纽堡(及周边地区),Newburgh (and vicinity),48
+31563,6058026,多尔顿(及周边地区),Dalton (and vicinity),48
+26192,6048213,北潘汉德尔,Northern Panhandle,48
+31248,6057034,五行民谣(郡),Limerick (county),48
+29739,6053648,复活节岛,Easter Island,48
+947,1020,查亚普拉,Jayapura,48
+26111,6048115,姬路,Himeji,48
+32263,6059991,圣克劳德(及周边地区),St. Cloud (and vicinity),48
+20691,602286,陶斯(及周边地区),Taos (and vicinity),48
+23623,6034437,峡湾国家公园（及其周边地区）,Fiordland National Park (and vicinity),48
+1768,1948,萨马拉,Samara,48
+31187,6056855,基尔肯尼(郡),Kilkenny (county),48
+989,1066,多特蒙德(及周边),Dortmund (and vicinity),48
+1942,2139,拉塞雷纳(及邻近地区),La Serena (and vicinity),48
+1843,2031,隆德里纳 (及邻近地区),Londrina (and vicinity),47
+39427,6134124,伊兹米特(及附近地区),Izmit (and vicinity),47
+489,509,巴科洛德,Bacolod,47
+20887,602523,斯坦福德(及周边地区),Stamford (and vicinity),47
+30459,6055112,奥伦塞(省),Ourense (province),47
+28326,6051262,北日德兰(县),Nordjylland,47
+1560,1705,乔普林(及周边地区),Joplin (and vicinity),47
+6831,7318,斯托克顿堡（及周边地区）,Fort Stockton (and vicinity),47
+29747,6053661,比亚里卡(及周边地区),Villarrica (and vicinity),47
+38148,6130778,带广 (及周边),Obihiro (and vicinity),47
+3405,3747,比亚维森西奥(及邻近地区),Villavicencio (and vicinity),47
+32167,6059762,欧克莱尔(及周边地区),Eau Claire (and vicinity),47
+27046,6049155,伊奥利亚群岛,Aeolian Islands,47
+36714,6127342,"",Pembroke (and vicinity),47
+30498,6055198,萨莫拉(省),Zamora (province),47
+55154,6233883,斯莱戈 (郡),Sligo (county),46
+28502,6051514,三城市(及周边地区),Tri-Cities (and vicinity),46
+36238,6126186,坦加布尔 (及其周边地区),Thanjavur (and vicinity),46
+22509,6023599,关岛(全部),Guam (all),46
+3211,3537,特鲁希略(及周边地区),Trujillo (and vicinity),46
+2950,3249,斯普林菲尔德(及周边地区),Springfield (and vicinity),46
+32022,6059393,扬斯敦(及周边地区),Youngstown (and vicinity),46
+28855,6052077,奇欧斯岛,Chios Island,46
+31464,6057712,奥本-欧佩莱卡(及周边地区),Auburn - Opelika (and vicinity),46
+15670,180037,纽波特(及周边地区),Newport (and vicinity),46
+2580,2839,坤甸,Pontianak,46
+55820,6241831,素辇府,Surin,46
+1484,1624,伊基托斯 (及周边地区),Iquitos (and vicinity),46
+40754,6139908,布莱特(及周边地区),Bright (and vicinity),46
+2521,2779,格林维尔(及周边地区),Greenville (and vicinity),46
+40940,6140206,艾格尼丝水(及周边地区),Agnes Water (and vicinity),46
+33120,6084611,布朗斯韦尔地质公园,Braunschweiger Land,45
+1221,1331,大章克申(及周边地区),Grand Junction (and vicinity),45
+874,939,"",Chihuahua,45
+17547,182209,奥隆阿波,Olongapo,45
+31185,6056851,沃特福德(郡),Waterford (county),45
+20735,602341,巴乌鲁(及其周边地区),Bauru (and vicinity),45
+15668,180035,米苏拉(及周边地区),Missoula (and vicinity),45
+841,903,圣马丁洛斯安第斯(及附近地区),San Martin de los Andes (and vicinity),45
+29125,6052481,塔斯马尼亚岛西北部,Northwest Tasmania,45
+29573,6053373,南圣弗兰西斯科(及周边地区),Sao Francisco do Sul (and vicinity),45
+39255,6132442,塞拉莱(及附近地区),Salalah (and vicinity),45
+37552,6130002,曼科拉（及周边地区）,Mancora (and vicinity),45
+28801,6051994,佩特莫斯,Patmos Island,45
+11841,57378,圣约翰堡(及邻近地区),Fort St. John (and vicinity),45
+1254,1374,格林湾(及周边地区),Green Bay (and vicinity),45
+17230,181832,圣约翰(及周边地区),St. John's (and vicinity),44
+21284,603006,兰辛(及周边地区),Lansing (and vicinity),44
+31396,6057493,贝塞斯达(及周边地区),Bethesda (and vicinity),44
+31638,6058263,卢嫩堡(及周边地区),Lunenburg (and vicinity),44
+42553,6143170,蒂诺斯岛,Tinos Island,44
+39827,6135699,萨莉小科特,Saly Petite Cote,44
+31923,6059090,布朗伍德(及周边地区),Brownwood (and vicinity),44
+28203,6051038,厄尔-卢瓦尔(省),Eure-et-Loir (department),44
+951,1025,杜阿拉,Douala,44
+416,424,阿斯特拉罕,Astrakhan,44
+2305,2542,"",Rundu,44
+20221,601710,苏城(及周边地区),Sioux City (and vicinity),44
+27815,6050277,奥恩(县),Orne (department),44
+29484,6053198,伊夫林(省),Yvelines (department),44
+1200,1307,杰拉尔顿（及周边地区）,Geraldton (and vicinity),44
+37574,6130056,黄石国家公园(及周边地区),Yellowstone National Park (and vicinity),44
+29832,6053845,哈伊马角(及其周边地区),Ras Al Khaimah (and vicinity),43
+3074,3390,塔斯卡卢萨(及周边地区),Tuscaloosa (and vicinity),43
+28469,6051474,北开普(省),Northern Cape (province),43
+2710,2980,罗克福德(及周边地区),Rockford (and vicinity),43
+7856,8367,科尼亚,Konya,43
+30156,6054472,奥林匹亚 (及周边地区),Olympia (and vicinity),43
+3284,3615,乌法,Ufa,43
+15677,180048,珀加托里-杜兰戈(及周边地区),Durango - Purgatory (and vicinity),43
+31168,6056762,格伦伍德斯普林斯(及周边地区),Glenwood Springs (and vicinity),43
+26504,6048540,鲁滨逊维尔-丘尼卡(及周边地区),Robinsonville - Tunica (and vicinity),43
+10352,11580,圣巴泰勒米(全部),St. Barthelemy (all),43
+3555,3908,纳奈莫(及周边地区),Nanaimo (and vicinity),43
+27659,6050064,尼耶吾尔(省),Nievre (department),43
+10448,11780,伊柳塞拉和哈伯岛,Eleuthera and Harbour Island,43
+2443,2694,奥兰,Oran,43
+40310,6138986,陶朗加(及周边地区),Tauranga (and vicinity),43
+28229,6051123,文莱(全部),Brunei (all),43
+20708,602308,多巴哥,Tobago,43
+38572,6131430,"",Medjugorje,43
+3264,3594,泰勒(及周边地区),Tyler (and vicinity),43
+29730,6053628,苏里南(全部),Suriname (all),43
+29166,6052561,萨卡特卡斯(全州),Zacatecas (all),43
+30825,6055911,东哥特兰(郡),Ostergotland (county),43
+1821,2005,拉巴斯（及周边地区）,La Paz (and vicinity),43
+77384,6347927,比亚埃尔莫萨（及周边地区）,Villahermosa (and vicinity),42
+1012,1090,厄尔巴岛,Elba Island,42
+28602,6051667,弗农山(及周边地区),Mount Vernon (and vicinity),42
+21457,603214,怀特普莱恩斯,White Plains (and vicinity),42
+1505,1646,因弗卡吉尔,Invercargill,42
+441,452,奥古斯塔,Augusta (and vicinity),42
+1813,1997,罗安达,Luanda,42
+47629,6183589,内比都,Naypyidaw,42
+1820,2004,拉瓦格,Laoag,42
+31911,6058987,拉斯顿(及周边地区),Ruston (and vicinity),42
+282,277,奥尔巴尼(及周边地区),Albany (and vicinity),42
+38681,6131603,艾尔利海滩(及周边地区),Airlie Beach (and vicinity),42
+1073,1163,埃斯卡诺巴(及周边地区),Escanaba (and vicinity),42
+31658,6058317,温德米尔湖(及周边地区),Lake Windermere (and vicinity),42
+1940,2137,拉斯克鲁塞斯(及周边地区),Las Cruces (and vicinity),42
+31813,6058783,罗拉(及周边地区),Rolla (and vicinity),42
+41356,6140970,伊尼德(及周边地区),Enid (and vicinity),42
+28636,6051739,东北湖区,Northeast Lake District,42
+13832,177831,大天空市(及周边地区),Big Sky (and vicinity),41
+2927,3220,圣莫尼卡,Santa Monica,41
+30497,6055197,索里亚(省),Soria (province),41
+32604,6063022,奇琴伊察-瓦拉多利德(及周边地区),Chichen Itza - Valladolid (and vicinity),41
+31569,6058045,罗克希尔(及周边地区),Rock Hill (and vicinity),41
+28249,6051148,"",Fife (county),41
+30278,6054804,色雷斯(区),Thrace (area),41
+50045,6198337,莫拉限,Mukdahan,41
+27111,6049270,萨尔州,Saarland,41
+41886,6141705,丹阳(郡),Danyang (county),41
+31799,6058750,埃尔克城(及周边地区),Elk City (and vicinity),41
+3277,3608,乌贝兰迪亚(及邻近地区),Uberlandia (and vicinity),41
+29288,6052761,Dalarna - Gavlebourg (region),Dalarna (county),41
+28879,6052112,弗拉芒-布拉班特 (省),Flemish Brabant (province),41
+32112,6059607,帕迪尤卡(及周边地区),Paducah (and vicinity),41
+29122,6052478,塔斯马尼亚岛东海岸,East Coast Tasmania,41
+54030,6223611,圣雷米(及邻近地区),St.-Remy-de-Provence (and vicinity),41
+2500,2757,彭德尔顿(及周边地区),Pendleton (and vicinity),41
+25642,6047575,费沙海岸,Fraser Coast,41
+22997,6025053,拉戈梅拉岛,La Gomera,41
+944,1017,占碑,Jambi,41
+20165,601573,萨玛尔汉,Samarkand,41
+36825,6127834,锡基霍尔岛,Siquijor Island,40
+790,849,"",Ciudad Juarez,40
+28610,6051682,亚基马谷,Yakima Valley,40
+31787,6058722,马斯科吉(及周边地区),Muskogee (and vicinity),40
+2083,2293,曼哈顿(及周边地区),Manhattan (and vicinity),40
+28150,6050968,孚日(省),Vosges (department),40
+10423,11715,马恩岛,Isle of Man,40
+1773,1953,考那斯,Kaunas,40
+39571,6134429,磐城,Iwaki,40
+23003,6025061,纳塔莱斯港,Puerto Natales,40
+1645,1808,高雄,Kaohsiung,40
+31720,6058443,拉塞尔维尔(及周边地区),Russellville (and vicinity),40
+24291,6035338,蓝山,Blue Mountains,40
+31140,6056659,奥勒松-默勒-鲁姆斯达尔(省),Alesund - More og Romsdal (county),40
+42552,6143169,安德罗斯岛,Andros Island,40
+1138,1238,弗林特(及周边地区),Flint (and vicinity),40
+36261,6126255,查谟 (及其周边地区),Jammu (and vicinity),40
+28342,6051285,Fyn(县),Fyn (county),39
+31002,6056347,里奇菲尔德(及周边地区),Richfield (and vicinity),39
+1425,1556,"",Iasi,39
+36973,6128611,"",Helsingborg (and vicinity),39
+29654,6053491,下莱茵(区),Lower Rhine (region),39
+31277,6057101,查尔斯顿(及周边地区),Charleston (and vicinity),39
+30830,6055919,卡尔马(郡),Kalmar (county),39
+30697,6055560,绿色海岸-米尼奥(区),Costa Verde - Minho (area),39
+29608,6053423,金齐希河-富尔达(区),Kinzig - Fulda (region),39
+27362,6049637,贝卢诺(省),Belluno (province),39
+21272,602994,米斯蒂克 - 新伦敦(及周边地区),Mystic - New London (and vicinity),39
+3388,3730,沃罗涅日,Voronezh,39
+29831,6053844,富查伊拉 - 东部海岸,Al-Fujairah - Eastern Coast,39
+38333,6131093,Yuma(及周边地区),Yuma (and vicinity),39
+35021,6123675,帕延岛,Ko Phayam,39
+3761,4126,特莱斯,Terrace,39
+28974,6052248,大南区,Great Southern,39
+29904,6053940,圣克鲁斯,Santa Cruz,39
+371,377,安汶,Ambon,39
+29285,6052758,Varmland (郡),Varmland (county),39
+31856,6058889,登顿(及周边地区),Denton (and vicinity),39
+29425,6053049,康塔尔(省),Cantal (department),39
+50429,6199632,琴平,Kotohira,39
+30971,6056256,拉赫蒂(区),Lahti (region),39
+37066,6128983,黎牙实比(及邻近地区),Legazpi (and vicinity),39
+32772,6069840,维绿沃,Veluwe,39
+28062,6050768,圣加仑(区),St. Gallen (area),39
+2963,3264,三马林达,Samarinda,39
+11005,55249,Barossa 谷,Barossa Valley,39
+2754,3026,罗萨里奥,Rosario,38
+5974,6437,"",Bathinda,38
+30399,6054993,阿尔卑斯山中麓,Central Piedmont Alps,38
+53095,6212601,道奇城 (及邻近地区),Dodge City (and vicinity),38
+30994,6056317,波基普西(及周边地区),Poughkeepsie (and vicinity),38
+41882,6141700,旌善 (郡),Jeongseon (county),38
+31858,6058891,格兰伯里(及周边地区),Granbury (and vicinity),38
+21267,602989,斯托克顿(及周边地区),Stockton (and vicinity),38
+53705,6220284,"",Gavleborg (county),38
+4127,4525,梅新,Mersin,38
+31426,6057571,斯泰特科利奇(及周边地区),State College (and vicinity),38
+26208,6048231,利斯堡(及周边地区),Leesburg (and vicinity),38
+1713,1887,那空拍侬,Nakhon Phanom,38
+31872,6058912,谢尔曼(及周边地区),Sherman (and vicinity),38
+2524,2782,哈科特港,Port Harcourt,38
+30788,6055801,尤蒂卡(及周边地区),Utica (and vicinity),37
+31293,6057143,Podlachia (省),Podlachia (Province),37
+22614,6023714,布卢明顿(及周边地区),Bloomington (and vicinity),37
+7321,7822,埃芬汉(及周边地区),Effingham (and vicinity),37
+22388,6023406,莫瓦-纳纽埃特(及周边地区),Mahwah - Nanuet (and vicinity),37
+7443,7949,詹谢普尔,Jamshedpur,37
+31423,6057567,约翰斯敦(及周边地区),Johnstown (and vicinity),37
+28454,6051456,切萨皮克湾北部,Northern Chesapeake Bay,37
+1864,2057,洛美,Lome,37
+1986,2187,林奇堡(及周边地区),Lynchburg (and vicinity),37
+2654,2918,"",Puerto Escondido,37
+28144,6050944,托农莱班(及邻近地区),Thonon-les-Bains (and vicinity),37
+31289,6057132,Subcarpathia(省),Subcarpathia (province),37
+31203,6056879,温切斯特(及周边地区),Winchester (and vicinity),37
+2870,3156,谢里登(及周边地区),Sheridan (and vicinity),37
+7124,7617,莫亚马,Moama,37
+30391,6054982,鲁伊多索(及周边地区),Ruidoso (and vicinity),37
+28950,6052221,贾拉普 (及邻近地区),Xalapa (and vicinity),37
+30417,6055029,阿拉瓦(省),Alava (province),37
+28180,6051013,比尔森(区),Plzen (region),37
+30226,6054681,西部区,West Iceland,37
+30869,6056046,康科德(及周边地区),Concord (and vicinity),37
+31084,6056565,南特伦德拉格(省),Sor-Trondelag (county),37
+29513,6053262,马格德堡(区),Magdeburg (region),37
+32051,6059437,科尔宾(及周边地区),Corbin (and vicinity),37
+30970,6056255,坦佩雷(区),Tampere (region),37
+2750,3022,罗克汉普顿,Rockhampton,36
+31270,6057082,马丁斯堡(及周边地区),Martinsburg (and vicinity),36
+29424,6053048,阿列(省),Allier (department),36
+30267,6054768,普雷斯科特(及周边地区),Prescott (and vicinity),36
+34170,6094922,鱼河峡谷,Fish River Canyon,36
+6634,7119,埃斯基谢希尔,Eskisehir,36
+15672,180039,甘尼森-克雷斯蒂德比尤特,Gunnison - Crested Butte,36
+31584,6058120,蒂夫顿(及周边地区),Tifton (and vicinity),36
+29132,6052513,索诺拉中部,Central Sonora,36
+28339,6051282,Vejle(县),Vejle (and vicinity),36
+31603,6058174,三河镇(及周边地区),Trois-Rivieres (and vicinity),36
+23346,6034082,安纳波利斯(及周边地区),Annapolis (and vicinity),36
+3301,3635,乌里扬诺夫斯克,Ulyanovsk,36
+40938,6140201,麦加里港(及周边地区),Port Macquarie (and vicinity),36
+28867,6052089,林堡,Limburg (province),36
+32068,6059490,戴德伍德(及周边地区),Deadwood (and vicinity),36
+30872,6056050,普莱森顿 - 利弗莫尔,Pleasanton - Livermore,36
+1297,1420,加济安泰普,Gaziantep,36
+25290,6047136,圣拉斐尔(及周边),Saint-Raphael (and vicinity),36
+35730,6125143,莫西,Moshi,36
+24481,6046224,北安普敦(郡),Northamptonshire (county),36
+29901,6053937,科查班巴(及周边地区),Cochabamba (and vicinity),36
+30823,6055902,夏延(及周边地区),Cheyenne (and vicinity),36
+31578,6058108,奥兰治堡(及周边地区),Orangeburg (and vicinity),36
+30547,6055293,帕劳(全部),Palau (all),36
+28185,6051018,摩拉维西莱亚西(区),Moravian Silesian (region),35
+28181,6051014,利贝雷茨(区),Liberec (region),35
+26127,6048138,哈特兰德(地区),Heartland (area),35
+38055,6130654,波尼多,Bonito,35
+1480,1620,埃尔森特罗(及周边地区),El Centro (and vicinity),35
+3347,3688,维多利亚(及周边地区),Victoria (and vicinity),35
+29113,6052467,坦皮科(及周边地区),Tampico (and vicinity),35
+29073,6052372,弗里堡(区),Fribourg (canton),35
+31558,6058003,夏洛瓦（及其周边地区）,Charlevoix (and vicinity),35
+21255,602975,塞勒姆 (及周边地区),Salem (and vicinity),35
+21277,602999,皮奥里亚(及周边地区),Peoria (and vicinity),35
+29565,6053354,上卢萨蒂亚(区),Upper Lusatia (region),35
+32174,6059773,哥伦布(及周边地区),Columbus (and vicinity),35
+1153,1253,弗洛雷斯(及周边地区),Flores (and vicinity),35
+31468,6057726,佛罗伦斯(及周边地区),Florence (and vicinity),35
+30719,6055595,科英布拉 (区),Coimbra (district),35
+36990,6128668,塞伦盖蒂国家公园,Serengeti National Park,35
+30564,6055315,天安,Cheonan,35
+27458,6049777,清州,Cheongju,35
+31906,6058977,曼雅拉湖国家公园,Lake Manyara National Park,35
+1905,2101,克拉马斯湖(及周边地区),Klamath Lake (and vicinity),35
+3358,3699,维多利亚瀑布,Victoria Falls,35
+39573,6134431,Conroe(及附近地区),Conroe (and vicinity),35
+31142,6056692,特伦顿(及周边地区),Trenton (and vicinity),35
+23915,6034795,蒂梅丘拉(及周边地区),Temecula (and vicinity),34
+32242,6059970,道奇堡(及周边地区),Fort Dodge (and vicinity),34
+2916,3207,"",San Luis Potosi,34
+3537,3886,雅温德,Yaounde,34
+19965,500751,马德林港(及邻近地区),Puerto Madryn (and vicinity),34
+30968,6056253,库奥皮奥(区),Kuopio (region),34
+18261,183017,红杉和国王峡谷国家公园(及周边地区),Sequoia and Kings Canyon National Parks (and vicinity),34
+29515,6053264,安哈特-维腾贝格(区),Anhalt - Wittenberg (region),34
+32244,6059972,埃姆斯(及周边地区),Ames (and vicinity),34
+31137,6056656,松恩-菲尤拉讷(省),Sogn og Fjordane (county),34
+10100,10751,尤里卡斯普陵,Eureka Springs,34
+32059,6059466,尤宁城(及周边地区),Union City (and vicinity),34
+32568,6062894,昆岛,Con Dao,34
+36898,6128311,嬬恋村(及周边),Tsumagoi (and vicinity),34
+3116,3437,塔伊夫,Taif,34
+537,561,巴港(及周边地区),Bar Harbor (and vicinity),34
+40885,6140102,水户(及周边地区),Mito (and vicinity),34
+1035,1120,埃尔科(及周边地区),Elko (and vicinity),34
+6198,6669,"",Craiova,34
+30486,6055186,瓜达拉哈拉(省),Guadalajara (province),34
+32194,6059811,多尔县,Door County,33
+934,1006,多森(及周边地区),Dothan (and vicinity),33
+3581,3935,弗雷德里克顿(及周边地区),Fredericton (and vicinity),33
+26528,6048565,莫利塞,Molise,33
+30969,6056254,中部芬兰,Central Finland,33
+30995,6056321,金斯敦(及周边地区),Kingston (and vicinity),33
+29410,6053004,班特堡(及其周边地区),Bundaberg (and vicinity),33
+2270,2503,马尼萨莱斯,Manizales,33
+31097,6056584,兰开斯特(及周边地区),Lancaster (and vicinity),33
+29881,6053903,扎戈拉,Zagora,33
+3754,4118,梅迪辛哈特(及邻近地区),Medicine Hat (and vicinity),33
+28779,6051964,Folegandros 岛,Folegandros Island,33
+660,705,班达亚齐,Banda Aceh,33
+3499,3845,威耶拉,Whyalla,33
+768,825,大坎普,Campo Grande,33
+28905,6052154,埃诺(区),Hainaut (province),33
+28511,6051537,俄勒冈南部海岸,South Oregon Coast,33
+3187,3512,特罗姆瑟,Tromso,33
+29645,6053482,明斯特地区,Muensterland,33
+15642,180006,杰克逊·霍尔 (及周边地区),Jackson Hole (and vicinity),33
+31301,6057167,罗兹(省),Lodz (province),33
+29449,6053144,冬海,Dong Hoi,33
+30822,6055899,卡斯珀(及周边地区),Casper (and vicinity),33
+53831,6221565,乌普萨拉(省),Uppsala (county),33
+29706,6053601,伊拉克利翁(地区),Heraklion (region),33
+31684,6058382,列克星敦-索尔兹伯里(及周边地区),Lexington - Salisbury (and vicinity),33
+20093,601117,格林纳达,Grenada (all),33
+2955,3254,威奇托福尔斯(及周边地区),Wichita Falls (and vicinity),33
+31896,6058962,霍马(及周边地区),Houma (and vicinity),33
+21035,602706,瓦迪穆萨,Wadi Musa,33
+1695,1866,科斯特罗马,Kostroma,33
+11168,55426,双溪大年,Sungai Petani,33
+29147,6052533,埃维亚(地区),Evia (region),33
+6409,6885,第聂伯罗彼得罗夫斯克,Dnepropetrovsk,33
+2853,3136,苏尔古特,Surgut,32
+36716,6127346,"",Sudbury (and vicinity),32
+9200,9775,萨拉托加温泉(及周边地区),Saratoga Springs (and vicinity),32
+31545,6057941,博福特(及周边地区),Beaufort (and vicinity),32
+30855,6055989,普莱西德湖村(及周边地区),Lake Placid (and vicinity),32
+53066,6212446,南圣胡安 (及邻近地区),San Juan del Sur (and vicinity),32
+30141,6054442,阿伯丁(及周边地区),Aberdeen (and vicinity),32
+31523,6057866,查塔姆(及周边地区),Chatham (and vicinity),32
+1646,1809,卡拉奇,Karachi,32
+29191,6052602,萨尔蒂约(及周边地区),Saltillo (and vicinity),32
+23054,6025618,红河岸-廷顿瀑布(及周边地区),Red Bank - Tinton Falls (and vicinity),32
+1186,1289,吉列（及其周边地区）,Gillette (and vicinity),32
+3416,3758,旺加努伊,Wanganui,32
+1026,1109,别尔哥罗德,Belgorod,32
+30149,6054460,埃弗里特(及周边地区),Everett (and vicinity),32
+48032,6190293,奥卡拉(及周边地区),Ocala (and vicinity),32
+53816,6221356,恩戈玛,Ngoma,32
+32148,6059699,沃索基(及周边地区),Wausau (and vicinity),32
+40567,6139556,莱斯布里奇(及周边地区),Lethbridge (and vicinity),32
+31883,6058929,哈蒙德(及周边地区),Hammond (and vicinity),32
+31682,6058380,希科里(及周边地区),Hickory (and vicinity),32
+1070,1160,伊利(及周边地区),Erie (and vicinity),32
+4084,4482,萨夫兰博卢,Safranbolu,32
+41889,6141709,灵岩 (郡),Yeongam (county),32
+2044,2248,卡本代尔(及周边地区),Carbondale (and vicinity),32
+31719,6058442,史密斯堡(及周边地区),Fort Smith (and vicinity),32
+2915,3206,萨莱纳(及周边地区),Salina (and vicinity),32
+32065,6059487,卡温顿(及周边地区),Covington (and vicinity),32
+30828,6055914,延雪平(郡),Jonkoping (county),32
+31006,6056358,布莱斯峡谷国家公园 (及附近地区),Bryce Canyon National Park (and vicinity),32
+31413,6057545,斯洛伐克中部,Central Slovakia,31
+77283,6347802,阿瓜斯卡连特斯市中心（及周边地区）,Aguascalientes (and vicinity),31
+31096,6056583,厄斯特福尔-西福尔(省),Ostfold - Vestfold (counties),31
+24770,6046550,罗希姆诺 (区),Rethymnon (region),31
+2184,2404,米尔迪拉,Mildura,31
+33774,6085438,塞图巴尔(区),Setubal (area),31
+376,382,安托法加斯塔,Antofagasta,31
+2573,2832,北帕默斯顿,Palmerston North,31
+7815,8326,西哈努克城,Sihanoukville,31
+23291,6034019,科达伦(及周边地区),Coeur d'Alene (and vicinity),31
+38278,6130991,特克萨卡纳(及周边地区),Texarkana (and vicinity),31
+512,534,贝伦 (及邻近地区),Belem (and vicinity),31
+1008,1086,科尔尼(及周边地区),Kearney (and vicinity),31
+41677,6141415,希尔斯伯勒(及邻近地区),Hillsboro (and vicinity),31
+2642,2904,蓬塔阿雷拉斯,Punta Arenas,30
+35756,6125179,霍斯佩特,Hospet,30
+868,933,库利亚坎（及周边地区）,Culiacan (and vicinity),30
+16115,180544,朱拜勒,Al Jubail,30
+29130,6052504,索诺拉北部,Northern Sonora,30
+735,790,康塞普西翁(及邻近地区),Concepcion (and vicinity),30
+30488,6055188,阿尔瓦萨特(省),Albacete (province),30
+31438,6057627,格林斯堡(及周边地区),Greensburg (and vicinity),30
+29603,6053418,威斯巴登-陶努斯-莱茵高(区),Wiesbaden - Taunus - Rheingau (region),30
+43689,6144865,登别,Noboribetsu,30
+2070,2278,芒特甘比尔,Mount Gambier,30
+20992,602648,贾斯珀国家公园（区）,Jasper National Park (area),30
+29131,6052510,阿利斯斯普林斯 (及其周边地区),Alice Springs (and vicinity),30
+8949,9506,普禾加多,Purwokerto,30
+29936,6054045,圣塔伦 (区),Santarem (district),30
+31892,6058952,三河城(及周边地区),Three Rivers (and vicinity),30
+31550,6057970,沃尔特伯勒-圣乔治(及周边地区),Walterboro - St. George (and vicinity),30
+30917,6056124,伊萨卡岛(及周边地区),Ithaca (and vicinity),30
+425,434,阿斯旺,Aswan,30
+27091,6049235,托雅提,Tolyatti,30
+27392,6049681,伊拉瓦拉(地区),Illawarra (region),30
+6961,7448,季隆- Bellarine 半岛,Geelong - Bellarine Peninsula,30
+30251,6054720,西拉维斯塔城(及周边地区),Sierra Vista (and vicinity),30
+31705,6058419,琼斯伯勒(及周边地区),Jonesboro (and vicinity),29
+41954,6141802,恩卡纳西翁(及邻近地区),Encarnacion (and vicinity),29
+30754,6055704,西卡林西亚,West Carinthia,29
+1568,1715,朱诺（及其周边地区）,Juneau (and vicinity),29
+2581,2840,潘泰莱里亚,Pantelleria,29
+836,898,科托努,Cotonou,29
+32000,6059340,莱马(及周边地区),Lima (and vicinity),29
+1256,1376,格兰德岛(及周边地区),Grand Island (and vicinity),29
+22341,6023344,拉克罗斯(及周边地区),La Crosse (and vicinity),29
+32257,6059985,布雷纳德(及周边地区),Brainerd (and vicinity),29
+53826,6221459,南曼兰(省),Sodermanland (county),29
+31951,6059176,格雷灵(及周边地区),Grayling (and vicinity),29
+24947,6046749,蒙特韦德,Monteverde,29
+32237,6059954,奥瓦通纳(及周边地区),Owatonna (and vicinity),29
+31655,6058314,卡斯尔加(及周边地区),Castlegar (and vicinity),29
+28297,6051209,格罗宁根(省),Groningen (province),28
+41070,6140484,萨默斯维尔(及周边地区),Summersville (and vicinity),28
+30782,6055760,布雷达-西布拉本特,Breda - West Brabant,28
+27326,6049587,卡塞塔(省),Caserta (province),28
+40368,6139263,格伦代夫(及周边地区,Glendive (and vicinity),28
+31859,6058894,格林维尔(及周边地区),Greenville (and vicinity),28
+21279,603001,四联市(及周边地区),Quad Cities (and vicinity),28
+22321,6023313,文图拉-奥克斯纳德,Ventura - Oxnard,28
+55405,6236074,梁山,Yangsan,28
+40886,6140105,筑波(及周边地区),Tsukuba (and vicinity),28
+28705,6051848,费辛隆尼(省),Frosinone (province),28
+7793,8304,卡卢加,Kaluga,28
+916,985,迪比克(及周边地区),Dubuque (and vicinity),28
+28852,6052074,基西拉岛,Kithira Island,28
+80462,6351429,纪念碑谷（及邻近地区）,Monument Valley (and vicinity),28
+31904,6058975,渥太华(及周边地区),Ottawa (and vicinity),28
+2693,2962,雷丁(及周边地区),Redding (and vicinity),28
+28880,6052114,安特卫普(区),Antwerp (province),27
+7402,7905,尼斯,Nis,27
+2510,2768,彼得罗扎沃茨克,Petrozavodsk,27
+31853,6058884,布伦纳姆(及周边地区),Brenham (and vicinity),27
+30495,6055195,帕伦西亚(省),Palencia (province),27
+16520,181016,派尔努,Parnu,27
+31388,6057476,弗雷德里克(及周边地区),Frederick (and vicinity),27
+21065,602744,尹波克 - 死海(地区),Ein Boqek - Dead Sea (area),27
+1439,1572,金曼,Kingman,27
+9989,10607,瑞佛斯托克,Revelstoke,27
+65813,6320734,Zi Phyu Kone (奇普于克内),Zi Phyu Kone,27
+28854,6052076,利姆诺斯岛,Lemnos Island,27
+1618,1776,肯达里,Kendari,27
+3764,4129,怀特霍斯,Whitehorse,27
+13971,177984,塔巴,Taba,27
+31708,6058424,戈尔兹伯勒(及周边地区),Goldsboro (and vicinity),27
+25886,6047852,普拉托(省),Prato (province),27
+15709,180103,塔希提岛,Tahiti,27
+24245,6035284,埃因苏克哈那,Ain Sokhna,27
+2717,2988,莱茵兰德(及周边地区),Rhinelander (and vicinity),27
+40921,6140161,曼哲拉(及周边地区),Mandurah (and vicinity),27
+26467,6048497,莱里达(及附近地区),Lleida (and vicinity),27
+41674,6141410,圣克莱尔维尔（及周边地区）,St. Clairsville (and vicinity),27
+21177,602874,大开曼岛,Grand Cayman,27
+1096,1190,费尔班克斯(及周边地区),Fairbanks (and vicinity),27
+42929,6143791,维纳恩-维特恩(地区),Vanern - Vattern (area),27
+20225,601715,百慕大(全岛),Bermuda (all),26
+30918,6056138,塞内卡湖(及周边地区),Seneca Lake (and vicinity),26
+28340,6051283,Ribe(县),Ribe (county),26
+31879,6058922,韦瑟福德(及周边地区),Weatherford (and vicinity),26
+26175,6048190,湖城(及周边地区),Lake City (and vicinity),26
+31387,6057475,黑格斯敦(及周边地区),Hagerstown (and vicinity),26
+44942,6155224,"",Bruges (and vicinity),26
+938,1010,迪金森,Dickinson,26
+2461,2713,瓦加杜古,Ouagadougou,26
+53829,6221520,西曼兰省(省),Vastmanland (county),26
+23894,6034768,威克洛 (郡),Wicklow (county),26
+31657,6058316,戈尔登(及周边地区),Golden (and vicinity),26
+36325,6126344,"",Jujuy (and vicinity),26
+40311,6138989,莱特岛,Leyte Island,26
+1491,1632,"",Mount Isa,26
+32002,6059345,芬德利(及周边地区),Findlay (and vicinity),26
+39712,6135402,Meridian(及周边地区),Meridian (and vicinity),26
+53724,6220357,阿蒂特兰湖,Lake Atitlan,26
+1075,1165,亚历山大(及周边地区),Alexandria (and vicinity),26
+28055,6050707,洛泽尔(省),Lozere (department),26
+2513,2771,奔萨,Penza,26
+31218,6056934,威斯维尔(及周边地区),Wytheville (and vicinity),26
+20798,602413,吉尔国家公园,Gir National Park,26
+1049,1137,埃梅洛德,Emerald,26
+41007,6140368,利芬沃斯(及周边地区),Leavenworth (and vicinity),26
+2564,2823,帕卢,Palu,26
+51177,6201235,骊州,Yeoju,26
+30605,6055413,洛斯巴诺斯(及周边地区),Los Banos (and vicinity),26
+1204,1312,格兰德福克斯,Grand Forks,26
+22451,6023532,斯克兰顿(及周边地区),Scranton (and vicinity),26
+867,932,昆卡 (及邻近地区),Cuenca (and vicinity),26
+31233,6056973,弗吉尼亚东海岸,Eastern Shore Virginia,25
+3098,3417,特尔古穆列什,Tirgu Mures,25
+76308,6346453,基茨比厄尔（与周边地区）,Kitzbuehel (and vicinity),25
+30125,6054409,摩西湖(及周边地区),Moses Lake (and vicinity),25
+28244,6051142,蓬塔德尔加达港-圣地米格尔岛,Ponta Delgada - Sao Miguel Island,25
+30167,6054498,内赫布里底群岛和斯凯岛,Inner Hebrides and Isle of Skye,25
+2220,2445,曼齐尼,Manzini,25
+28184,6051017,奥洛穆茨(区),Olomouc (region),25
+30196,6054606,科瓦利斯(及周边地区),Corvallis (and vicinity),25
+1367,1495,奥尔金,Holguin,25
+38930,6132046,韦洛尔(行政区),Vellore (district),25
+32402,6060320,班答迦国家公园,Bandhavgarh National Park,25
+33943,6094664,科布莱蒂,Kobuleti,25
+31333,6057298,布斯贝港(及周边地区),Boothbay Harbor (and vicinity),25
+53996,6223280,敦刻尔克(及邻近地区),Dunkerque (and vicinity),25
+16498,180990,索罗加巴(及邻近地区),Sorocaba (and vicinity),25
+31533,6057905,奥沙瓦(及周边地区),Oshawa (and vicinity),25
+31574,6058063,韦克罗斯(及周边地区),Waycross (and vicinity),25
+31916,6059004,杰克逊湖(及周边地区),Lake Jackson (and vicinity),25
+30713,6055589,东施蒂里亚(区),East Styria (area),25
+30576,6055336,尤凯亚(及周边地区),Ukiah (and vicinity),25
+9668,10272,维克斯堡,Vicksburg,25
+9441,10030,特立尼达（及其周边地区）,Trinidad (and vicinity),25
+1446,1581,伊热夫斯克,Izhevsk,25
+40252,6138873,拜伦湾(及周边地区),Byron Bay (and vicinity),25
+41675,6141412,玛丽埃塔(及邻近地区),Marietta (and vicinity),25
+21007,602672,马赫迪耶,Mahdia,25
+30710,6055586,上施蒂里亚(区),Upper Styria (area),25
+41907,6141733,固城 (郡),Goseong (county),25
+31669,6058336,海斯(及周边地区),Hays (and vicinity),25
+39667,6135095,Jhunjhunu (及周边地区),Jhunjhunu (and vicinity),25
+32176,6059777,特雷霍特(及周边地区),Terre Haute (and vicinity),25
+1758,1938,加德满都,Kathmandu,25
+30389,6054977,卡尔斯巴德(及周边地区),Carlsbad (and vicinity),25
+31466,6057719,恩特普赖斯(及周边地区),Enterprise (and vicinity),25
+32189,6059800,克罗斯维尔-哈里曼(及周边地区),Crossville - Harriman (and vicinity),25
+29437,6053077,科雷兹(省),Correze (department),25
+21212,602922,贝灵翰姆(及周边地区),Bellingham (and vicinity),25
+9519,10111,图拉,Tula,25
+31609,6058183,格里芬(及周边地区),Griffin (and vicinity),25
+31850,6058878,纳科多奇斯(及周边地区),Nacogdoches (and vicinity),25
+2849,3132,旧金山,San Francisco,25
+23088,6025653,奥林匹克国家公园 (及周边地区),Olympic National Park (and vicinity),24
+30829,6055918,哥特兰(郡),Gotland (county),24
+730,785,"",Calabar,24
+25989,6047977,东部地区,Eastland,24
+20854,602484,弗里波特(及周边地区),Freeport (and vicinity),24
+34200,6094955,托菲诺(及周边地区),Tofino (and vicinity),24
+3693,4054,桑德贝,Thunder Bay,24
+30712,6055588,阿威罗 (区),Aveiro (district),24
+32168,6059763,马里恩(及周边地区),Marion (and vicinity),24
+915,984,杜博,Dubbo,24
+27126,6049295,特鲁斯卡韦茨,Truskavets,24
+546,572,巴瑟斯特,Bathurst,24
+3255,3584,特温福尔斯(及周边地区),Twin Falls (and vicinity),24
+40560,6139542,弗米利恩(及周边地区),Vermilion (and vicinity),24
+30085,6054322,弗马纳(郡),Fermanagh (county),24
+31925,6059096,福雷德里克斯堡(及周边地区),Fredericksburg (and vicinity),24
+38336,6131100,Holbrook(及周边地区),Holbrook (and vicinity),24
+32171,6059766,曼西(及周边地区),Muncie (and vicinity),24
+36408,6126518,"",Pinamar (and vicinity),24
+28903,6052152,那慕尔(区),Namur (province),24
+677,724,布拉瓦约,Bulawayo,24
+2249,2478,"",Mexicali,24
+31305,6057176,圣十字(省),Swietokrzyskie (province),24
+30652,6055486,圣西米恩(及周边地区),San Simeon (and vicinity),24
+2111,2326,马斯基根(及周边地区),Muskegon (and vicinity),24
+31474,6057746,加兹登(及周边地区),Gadsden (and vicinity),24
+33624,6085249,史蒂芬港(及其周边地区),Port Stephens (and vicinity),24
+31796,6058741,阿德莫尔(及周边地区),Ardmore (and vicinity),24
+9354,9934,圣约瑟夫,St. Joseph (and vicinity),24
+31582,6058118,佩里(及周边地区),Perry (and vicinity),24
+34205,6094961,科柏坎宁,Copper Canyon (and vicinity),24
+28949,6052220,科多多瓦(及周边地区),Cordoba (and vicinity),24
+27812,6050274,厄尔(省),Eure (department),24
+40562,6139547,怀特考特(及周边地区),Whitecourt (and vicinity),24
+16246,180689,御殿场,Gotemba,24
+31949,6059162,佩托斯基(及周边地区),Petoskey (and vicinity),24
+31250,6057036,Tipperary (郡),Tipperary (county),24
+20670,602261,"",Suzdal,24
+35439,6124769,基蒂莱(及周边),Kittila (and vicinity),23
+31414,6057546,赫米蒂奇(及周边地区),Hermitage (and vicinity),23
+2219,2444,蒙特里亚,Monteria,23
+3102,3421,特古西加尔巴,Tegucigalpa,23
+2595,2855,安东尼奥港（及周边地区）,Port Antonio (and vicinity),23
+23080,6025644,切萨皮克东海岸,Eastern Chesapeake Shore,23
+16387,180864,迪特,Dete,23
+8505,9034,大诺夫哥罗德,Veliky Novgorod,23
+1354,1481,海伦娜(及周边地区),Helena (and vicinity),23
+24920,6046722,丹伯里(及周边地区),Danbury (and vicinity),23
+30097,6054335,凯鲁万,Kairouan,23
+39743,6135541,格林维尔(及周边地区),Greenville (and vicinity),23
+31007,6056362,锡达城(及周边地区),Cedar City (and vicinity),23
+36902,6128319,相模原市(及周边),Sagamihara (and vicinity),23
+20561,602135,外滩,Outer Banks,23
+38276,6130987,斯威特沃特(及周边地区),Sweetwater (and vicinity),23
+30513,6055243,新喀里多尼亚(全部),New Caledonia (all),23
+26126,6048137,里奇港(及周边地区),Port Richey (and vicinity),23
+40570,6139560,忠州,Chungju,23
+1709,1882,古邦,Kupang,23
+29429,6053053,沙朗特(省),Charente (department),23
+31927,6059100,章克申(及周边地区),Junction (and vicinity),23
+3354,3695,弗纳尔(及周边地区),Vernal (and vicinity),22
+47527,6181257,贝尔福地区(省),Territory of Belfort (department),22
+3202,3527,"",Torreon,22
+28333,6051273,Ringkobing(县),Ringkobing (county),22
+31583,6058119,托马斯维尔(及周边地区),Thomasville (and vicinity),22
+10648,12040,派恩代尔,Pinedale,22
+37380,6129688,Arnhem(及周边地区),Arnhem (and vicinity),22
+28955,6052226,科林斯(区),Corinth (region),22
+31905,6058976,贝城(及周边地区),Bay City (and vicinity),22
+28213,6051095,色当-阿尔登(省),Sedan - Ardennes (department),22
+3274,3605,哥伦布(及周边地区),Columbus (and vicinity),22
+45608,6158565,澎湖县,Penghu County,22
+39379,6133965,内瓦,Neiva,22
+29287,6052760,Orebro (郡),Orebro (county),22
+27416,6049720,南部高地,Southern Highlands,22
+29372,6052935,盖波斯(及周边地区),Quepos (and vicinity),22
+32031,6059407,奥斯汀堡(及周边地区),Austinburg (and vicinity),22
+2757,3029,罗斯韦尔,Roswell,22
+30128,6054414,头顿(及其周边地区),Vung Tau (and vicinity),22
+63162,6301855,Kabin Buri (甲民武里),Kabin Buri,22
+2191,2413,马斯特顿,Masterton,22
+76423,6346594,圣基茨和尼维斯（全部）,St. Kitts and Nevis (all),22
+40357,6139230,坎卢普斯(及周边地区),Valemount (and vicinity),22
+42889,6143742,希莫加,Shimoga,22
+68507,6337152,萨格奈 (及邻近地区),Saguenay (and vicinity),22
+31390,6057480,死海(地区),Dead Sea (area),22
+30781,6055757,库珀斯顿 – 奥齐戈湖（及周边地区）,Cooperstown - Otsego Lake (and vicinity),22
+34730,6123363,"",Ohakune,22
+43302,6144330,吕勒奥(及邻近地区),Lulea (and vicinity),22
+54144,6224133,银色海岸(地区),Cote d'Argent (area),22
+29893,6053921,阿苏九重国立公园,Aso Kuju National Park,22
+39644,6134753,沃拉沃拉(及附近地区),Walla Walla (and vicinity),22
+30586,6055367,雷德布拉夫(及周边地区),Red Bluff (and vicinity),22
+30831,6055920,克鲁努贝里(郡),Kronoberg (county),22
+2890,3178,圣安吉洛,San Angelo,22
+31433,6057609,黑泽尔顿(及周边地区),Hazleton (and vicinity),22
+25793,6047748,Anyer (安耶尔),Anyer,22
+30758,6055708,"",Salland (region),22
+28029,6050645,德拉吉尼昂(及周边),Draguignan (and vicinity),22
+39494,6134289,北部湾(及附近地区),North Bay (and vicinity),22
+32200,6059836,阿特金森堡(及周边地区),Fort Atkinson (and vicinity),22
+33108,6084593,纳斯卡,Nazca,22
+31828,6058819,梅肯(及周边地区),Macon (and vicinity),22
+40928,6140183,伊丽莎白(及周边地区),Elizabethtown (and vicinity),22
+31116,6056620,布斯克鲁德(省),Buskerud (county),22
+2648,2911,波多韦柳,Porto Velho,22
+31955,6059188,本顿港(及周边地区),Benton Harbor (and vicinity),22
+29756,6053676,曼塔(及周边地区),Manta (and vicinity),22
+30602,6055407,费尔菲尔德(及周边地区),Fairfield (and vicinity),22
+785,844,奇克拉约（及其周边地区）,Chiclayo (and vicinity),22
+37573,6130051,落基山国家公园(及周边地区),Rocky Mountain National Park (and vicinity),22
+30834,6055923,哈兰(郡),Halland (county),22
+31531,6057903,彼得伯勒(及周边地区),Peterborough (and vicinity),21
+30019,6054194,卡森城(及周边地区),Carson City (and vicinity),21
+31690,6058388,邓肯(及周边地区),Duncan (and vicinity),21
+21169,602863,莫雷阿岛,Moorea,21
+54002,6223310,莫伯日(及邻近地区),Maubeuge (and vicinity),21
+20591,602171,圣克罗伊岛,St. Croix Island,21
+8804,9351,比拉斯布尔,Bilaspur,21
+1155,1255,弗朗西斯敦,Francistown,21
+31272,6057087,惠灵(及周边地区),Wheeling (and vicinity),21
+2348,2592,新库兹涅茨克,Novokuznetsk,21
+31397,6057494,科利奇帕克(及周边地区),College Park (and vicinity),21
+20230,601721,太阳谷(及周边地区),Sun Valley (and vicinity),21
+30814,6055874,罗克斯普林(及周边地区),Rock Springs (and vicinity),21
+29433,6053059,埃纳(省),Aisne (department),21
+69340,6338214,奥斯塔尔伯 (地区),Ostalbkreis (area),21
+1278,1400,盖洛普,Gallup,21
+38275,6130982,克利本(及周边地区),Cleburne (and vicinity),21
+31297,6057162,马苏里湖(区),Masurian Lakes (region),21
+2469,2722,奥维亚多(及附近地区),Oviedo (and vicinity),21
+31611,6058185,拉格兰奇(及周边地区),LaGrange (and vicinity),21
+30740,6055664,查尔腾镇,El Chalten,21
+1341,1467,晋州,Jinju,21
+53093,6212591,Tsaghkadzor (特萨夫卡德佐),Tsaghkadzor,21
+31386,6057474,坎伯兰(及周边地区),Cumberland (and vicinity),21
+32234,6059951,沃辛顿(及周边地区),Worthington (and vicinity),21
+858,923,切伯克萨瑞,Cheboksary,21
+20642,602231,甲米,Krabi,21
+27238,6049435,伊塞奥湖(区),Lake Iseo (area),21
+31608,6058182,卡罗尔顿(及周边地区),Carrollton (and vicinity),21
+31104,6056596,克里斯蒂安桑-阿格德(省),Vest-Agder (county),21
+31121,6056626,奥普兰(省),Oppland (county),21
+36740,6127436,"",Pitesti,21
+35661,6125046,塞里福斯岛,Serifos Island,21
+1041,1128,埃尔迈拉(及周边地区),Elmira (and vicinity),21
+30963,6056247,瓦萨(区),Vaasa (region),21
+23495,6034253,埃斯特城,Ciudad Del Este,21
+36407,6126517,"",Antakya,21
+32107,6059602,欧文斯伯勒(及周边地区),Owensboro (and vicinity),21
+931,1003,"",Durango,21
+32111,6059606,霍普金斯维尔(及周边地区),Hopkinsville (and vicinity),20
+1272,1393,哥隆塔洛,Gorontalo,20
+39742,6135538,格林纳达(及周边地区),Grenada (and vicinity),20
+24006,6034919,贝尔法斯特(及附近地区),Belfast (and vicinity),20
+31706,6058422,福里斯特城(及周边地区),Forrest City (and vicinity),20
+28384,6051359,"",Murraylands,20
+81101,6352141,帕拉尔,Parral,20
+19168,184036,锡安国家公园 (及周边地区),Zion National Park (and vicinity),20
+1693,1863,库马西,Kumasi,20
+1898,2094,利隆圭,Lilongwe,20
+1364,1491,霍布斯,Hobbs,20
+31572,6058061,斯泰茨伯勒(及周边地区),Statesboro (and vicinity),20
+2974,3278,萨姆松,Samsun,20
+24889,6046690,马卡埃,Macae,20
+29482,6053196,艾松(省),Essonne (department),20
+30790,6055818,北林堡(区),North Limburg (area),20
+38274,6130980,杰克逊维尔(及周边地区),Jacksonville (and vicinity),20
+31000,6056341,普赖斯(及周边地区),Price (and vicinity),20
+3175,3499,台南,Tainan,20
+38284,6131009,支笏洞爷国立公园,Shikotsu-Toya National Park,20
+63156,6301806,Si Maha Phot (西玛哈坡),Si Maha Phot,20
+28513,6051539,哥伦比亚河谷,Columbia River Gorge,20
+4032,4429,霍夫多尔普,Hoofddorp,20
+30126,6054410,韦纳奇-奇兰湖(及周边地区),Wenatchee - Lake Chelan (and vicinity),20
+31956,6059199,霍兰(及周边地区),Holland (and vicinity),20
+36713,6127335,"",Windsor (and vicinity),20
+28768,6051949,芳县,Fang,20
+31915,6059000,金斯维尔(及周边地区),Kingsville (and vicinity),20
+32266,6059994,威尔马(及周边地区),Willmar (and vicinity),20
+4252,4654,"",Ordu,20
+41011,6140378,Independence(及周边地区),Independence (and vicinity),20
+3329,3667,南萨哈林斯克,Yuzhno-Sakhalinsk,20
+39470,6134259,纳斯托什(及附近地区),Natchitoches (and vicinity),20
+579,608,本库鲁,Bengkulu,20
+9352,9932,史蒂文斯波因特(及周边地区),Stevens Point (and vicinity),20
+31228,6056961,韦斯特米斯 (郡),Westmeath (county),20
+27795,6050255,欧什-吉尔斯(省),Auch - Gers (department),20
+31713,6058431,派恩布拉夫(及周边地区),Pine Bluff (and vicinity),20
+31830,6058821,华盛顿(及周边地区),Washington (and vicinity),20
+31479,6057762,牛津(及周边地区),Oxford (and vicinity),20
+17517,182170,夸察夸尔科斯(及邻近地区),Coatzacoalcos (and vicinity),20
+41864,6141672,牙山,Asan,20
+2426,2675,奥拉迪亚,Oradea,20
+60999,6281885,Kaeng Khoi (康赫),Kaeng Khoi,20
+3060,3372,塔尔图,Tartu,20
+44698,6152546,高千穗,Takachiho,20
+40561,6139544,Bonnyville(及周边地区),Bonnyville (and vicinity),20
+3392,3734,Vieques 岛,Vieques Island,19
+4534,4946,"",Yalova,19
+32093,6059576,奇利科西(及周边地区),Chillicothe (and vicinity),19
+59012,6267162,费拉迪圣安娜,Feira de Santana,19
+42998,6143873,蒙巴萨 (及邻近地区),Mombasa (and vicinity),19
+31184,6056831,Cavan (郡),Cavan (county),19
+408,415,阿米达,Armidale,19
+26100,6048101,夏洛特港-夏洛特海港(及周边地区),Port Charlotte - Charlotte Harbor (and vicinity),19
+2149,2365,摩尔曼斯克,Murmansk,19
+1784,1965,基洛夫,Kirov,19
+40564,6139550,大草原城(及周边地区),Grande Prairie (and vicinity),19
+31421,6057565,杜波依斯(及周边地区),DuBois (and vicinity),19
+31668,6058332,科尔比(及周边地区),Colby (and vicinity),19
+2555,2814,帕朗卡拉亚,Palangkaraya,19
+40649,6139755,伯德里纳特(及周边地区),Badrinath (and vicinity),19
+1917,2113,洛哈 (及邻近地区),Loja (and vicinity),19
+755,810,科特斯(及周边地区),Cortez (and vicinity),19
+1925,2121,利佩茨克,Lipetsk,19
+31534,6057908,亨茨维尔(及周边地区),Huntsville (and vicinity),19
+31299,6057165,卢布斯卡(省),Lubusz (province),19
+31639,6058267,新格拉斯哥(及周边地区),New Glasgow (and vicinity),19
+3650,4009,廷布,Yanbu,19
+30974,6056259,Salla - Posio (区),Salla - Posio (region),19
+8678,9213,奥尔莫克,Ormoc,19
+29450,6053145,沙巴,Sapa,19
+80521,6351494,阿贝奥库塔,Abeokuta,19
+29228,6052640,皮奥伊(州),Piaui (state),19
+31384,6057468,切萨皮克西海岸,Western Chesapeake Shore,19
+25773,6047725,"",Daintree - Cape Tribulation,19
+9016,9574,"",Pachuca (and vicinity),19
+8060,8580,洛兹堡(及周边地区),Lordsburg (and vicinity),19
+22329,6023324,英属维尔京群岛(全岛),British Virgin Islands (all),19
+29605,6053420,奥登瓦德 (区),Odenwald (region),19
+842,904,库伯佩迪,Coober Pedy,19
+25560,6047447,伊斯拉拉耶罗,El Hierro,19
+31223,6056951,丹维尔(及周边地区),Danville (and vicinity),19
+30265,6054756,圣马力诺(整个地区),San Marino (all),19
+16502,180994,卡鲁阿鲁,Caruaru,19
+28666,6051789,皮亚琴察(省),Piacenza (province),19
+45219,6156549,卡耶蒂纳,Cajetina,19
+41779,6141559,科伦（及周边地区）,Coron (and vicinity),19
+7175,7671,纳齐兹,Natchez,19
+31278,6057102,亨廷顿(及周边地区),Huntington (and vicinity),19
+2345,2589,贝岛,Nosy Be,19
+6399,6875,伯里亚,Berea,19
+4532,4944,阿克恰科贾,Akcakoca,19
+3383,3725,维兰库卢什,Vilanculos,18
+27756,6050206,中央保加利亚,Central Bulgaria,18
+40084,6137274,伊万诺沃,Ivanovo,18
+28135,6050926,阿德什(省),Ardeche (department),18
+17530,182185,特瓦坎,Tehuacan,18
+2288,2522,"",Naberezhnye Chelny,18
+31212,6056914,列克星敦(及周边地区),Lexington (and vicinity),18
+8907,9463,"",Palenque,18
+21167,602861,波拉波拉岛,Bora Bora,18
+710,763,卡斯卡维尔,Cascavel,18
+820,880,卡马圭,Camaguey,18
+2037,2241,梅森城(及周边地区),Mason City (and vicinity),18
+2787,3062,落基山(及周边地区),Rocky Mount (and vicinity),18
+31976,6059245,门罗(及周边地区),Monroe (and vicinity),18
+41269,6140806,皮斯科(及周边地区),Pisco (and vicinity),18
+15653,180018,皇后镇 (及其周边地区),Queenstown (and vicinity),18
+1219,1329,基赞,Gizan,18
+28940,6052204,Haarlem - IJmond(哈勒姆埃蒙德)和 South-Kennemerland(南肯尼马兰)(地区),Haarlem - IJmond and South-Kennemerland (region),18
+2447,2698,奥斯特森,Ostersund,18
+271,266,阿比林(及周边地区),Abilene (and vicinity),18
+29257,6052681,波尔多葡萄酒产区(地区),Bordeaux Wine Region (area),18
+30385,6054955,法明顿(及周边地区),Farmington (and vicinity),18
+10003,10624,斯威夫特卡伦特,Swift Current,18
+31554,6057988,盖恩斯维尔(及周边地区),Gainesville (and vicinity),18
+8846,9397,帕戈萨斯普林斯,Pagosa Springs,18
+30861,6056021,里弗赛德(及周边地区),Riverside (and vicinity),18
+28371,6051335,伊庇鲁斯,Epirus,18
+30661,6055508,帕彭堡,Papenburg,18
+8584,9115,苏加武眉,Sukabumi,18
+19636,500389,萨里山,Saariselka,18
+33077,6084552,帕尔马斯,Palmas,18
+32247,6059975,奥塔姆瓦(及周边地区),Ottumwa (and vicinity),18
+21271,602993,普埃夫洛(及周边地区),Pueblo (and vicinity),18
+15651,180016,巴亚尔塔港(及周边地区),Puerto Vallarta (and vicinity),18
+2397,2644,诺福克,Norfolk,18
+23749,6034583,达加坡,Durgapur,18
+32169,6059764,哈得孙(及周边地区),Hudson (and vicinity),18
+39428,6134125,萨潘贾(及附近地区),Sapanca (and vicinity),18
+849,911,"",Campina Grande,18
+28295,6051207,弗里斯省,Friesland,18
+43039,6143945,桑布鲁(及邻近地区),Samburu (and vicinity),18
+3548,3899,坎贝尔里弗-科特尼,Campbell River - Courtenay,18
+32071,6059493,阿什兰(及周边地区),Ashland (and vicinity),18
+30272,6054779,肖洛(及周边地区),Show Low (and vicinity),18
+28175,6051008,中央波希米亚(区),Central Bohemia (region),17
+31707,6058423,西孟菲斯,West Memphis (and vicinity),17
+31428,6057573,黎巴嫩-派恩格鲁夫(及周边地区),Lebanon - Pine Grove (and vicinity),17
+31117,6056621,海德马克(省),Hedmark (county),17
+32125,6059640,贾斯珀(及周边地区),Jasper (and vicinity),17
+9766,10374,大瀑布城,Big Rapids,17
+29983,6054141,山形县(及其周边地区),Yamagata (and vicinity),17
+30257,6054732,卡萨格兰德(及周边地区),Casa Grande (and vicinity),17
+805,865,科利马 (及邻近地区),Colima (and vicinity),17
+5475,5920,里奇克莱斯特,Ridgecrest,17
+32245,6059973,马歇尔敦(及周边地区),Marshalltown (and vicinity),17
+3760,4125,乔治王子城,Prince George,17
+30965,6056249,奥鲁(区),Oulu (region),17
+786,845,卡哈马卡（及其周边地区）,Cajamarca (and vicinity),17
+26992,6049080,蒂尔卡拉（及其周边地区）,Tilcara (and vicinity),17
+31878,6058921,沃克西哈奇(及周边地区),Waxahachie (and vicinity),17
+30832,6055921,布莱津(郡),Blekinge (county),17
+31953,6059184,拉丁顿(及周边地区),Ludington (and vicinity),17
+41422,6141059,圣安德鲁斯(及邻近地区),St. Andrews (and vicinity),17
+22273,6023261,普洛耶什蒂,Ploiesti,17
+28128,6050918,班戈(及周边地区),Bangor (and vicinity),17
+58361,6262356,约帕尔,Yopal,17
+6475,6951,杜尚别,Dushanbe,17
+31803,6058764,法明顿(及周边地区),Farmington (and vicinity),17
+31532,6057904,坎贝尔顿(及周边地区),Campbellton (and vicinity),17
+2195,2418,莫里,Moree,17
+39878,6135793,"",Lesotho (all),17
+1132,1231,弗里敦,Freetown,17
+31441,6057630,埃克斯顿(及周边地区),Exton (and vicinity),17
+28277,6051183,礁溪,Jiaoxi,17
+480,498,巴亚马雷,Baia Mare,17
+42353,6142860,阿拉卡蒂(及邻近地区),Aracati (and vicinity),17
+42842,6143669,内湖(省),Laguna (province),17
+27503,6049826,"",Druskininkai,17
+9918,10532,"",Taxco,17
+5114,5548,塞莱斯塔(及邻近地区),Selestat (and vicinity),17
+30820,6055891,里弗顿(及周边地区),Riverton (and vicinity),17
+30086,6054323,蒂龙(郡),Tyrone (county),17
+662,707,比尤特(及周边地区),Butte (and vicinity),17
+16963,181530,雷丁(及周边地区),Reading (and vicinity),17
+3782,4149,萨尼亚,Sarnia,17
+8941,9498,特拉斯卡拉 (全部),Tlaxcala (all),17
+37129,6129108,巴德迪,Baddi,17
+1825,2010,劳顿,Lawton,16
+37172,6129214,前桥(和周边地区),Maebashi (and vicinity),16
+28958,6052229,布赖带 (及邻近地区),Buraydah (and vicinity),16
+40173,6138741,Salmon Arm(及周边地区),Salmon Arm (and vicinity),16
+2325,2565,努瓦克肖特,Nouakchott,16
+28007,6050599,威悉山区,Weserbergland,16
+29198,6052609,坎佩切(及周边地区),Campeche (and vicinity),16
+39864,6135765,Taree (及其周边地区),Taree (and vicinity),16
+3403,3745,"",Valledupar,16
+30058,6054275,中威尔士,Mid-Wales,16
+1837,2024,利伯维尔,Libreville,16
+28938,6052202,"",Alkmaar - North-Kennemerland (region),16
+28441,6051437,克罗托(省),Crotone (province),16
+1119,1217,佛斯奎克山,Falls Creek,16
+28668,6051791,勒佐内艾米利亚(省),Reggio nell'Emilia (province),16
+1833,2020,Liberal(及周边地区),Liberal (and vicinity),16
+9970,10588,穆斯乔,Moose Jaw,16
+37381,6129690,Nijmegen(及周边地区),Nijmegen (and vicinity),16
+21189,602893,圣玛丽亚岛,Cayo Santa Maria,16
+28023,6050637,邦多勒(及周边),Bandol (and vicinity),16
+31536,6057910,埃德门兹顿-大瀑布城(及周边地区),Edmundston - Grand Falls (and vicinity),16
+8654,9188,茉莉芬,Madiun,16
+9810,10420,温尼马卡(及周边地区),Winnemucca (and vicinity),16
+31651,6058290,百里屋(及周边地区),100 Mile House (and vicinity),16
+32540,6060735,都城,Miyakonojo,16
+3789,4157,瓦尔迪维亚,Valdivia,16
+71581,6340980,博尔若米,Borjomi,16
+303,303,圣拉斐尔,San Rafael,16
+9447,10036,图克姆卡里,Tucumcari,16
+30137,6054434,凯尔索-朗维尤(及周边地区),Kelso - Longview (and vicinity),16
+28846,6052068,斯基罗斯岛,Skiros Island,16
+28369,6051333,荷尔斯泰因小瑞士,Holsteinische Schweiz,16
+39782,6135608,瑟西(及周边地区),Searcy (and vicinity),16
+22808,6023950,Gandhidham (甘德希罕),Gandhidham,16
+52944,6210116,内乌肯(及邻近地区),Neuquen (and vicinity),16
+9487,10077,特立尼达,Trinidad,16
+3501,3847,沙佩科,Chapeco,16
+31425,6057570,阿尔图纳(及周边地区),Altoona (and vicinity),16
+28123,6050888,塔兰托(省),Taranto (province),16
+31220,6056941,布莱克斯堡(及周边地区),Blacksburg (and vicinity),16
+32218,6059915,爱荷华大湖区,Iowa Great Lakes,16
+30818,6055887,科迪(及周边地区),Cody (and vicinity),16
+31647,6058283,列克星敦(及周边地区),Lexington (and vicinity),16
+37613,6130128,使命海滩(及周边地区),Mission Beach (and vicinity),16
+52276,6205905,奥卡汉贾,Okahandja,16
+457,472,安圭拉,Anguilla (all),16
+8958,9515,皮耶什佳尼,Piestany,16
+36053,6125839,乌泰他尼,Uthai Thani,16
+1902,2098,洛斯莫奇斯（及周边地区）,Los Mochis (and vicinity),16
+6259,6731,南派因斯(及周边地区),Southern Pines (and vicinity),16
+2986,3291,斯塔夫罗波尔,Stavropol,16
+31012,6056377,洛根(及周边地区),Logan (and vicinity),16
+1495,1636,威利斯顿,Williston,16
+30200,6054633,罗斯堡(及周边地区),Roseburg (and vicinity),16
+3256,3585,斗湖,Tawau,16
+51182,6201244,泰安郡,Taean,16
+24801,6046584,日内瓦湖城(及周边地区),Lake Geneva (and vicinity),16
+32133,6059675,波卡根州立公园(区域),Pokagon State Park (area),16
+31439,6057628,尤宁敦(及周边地区),Uniontown (and vicinity),15
+3550,3902,布兰登,Brandon,15
+30579,6055352,沙斯塔山(及周边地区),Mount Shasta (and vicinity),15
+30587,6055370,克利尔湖(及周边地区),Clear Lake (and vicinity),15
+31505,6057820,贝尔维尔(及周边地区),Belleville (and vicinity),15
+31559,6058009,安德森(及周边地区),Anderson (and vicinity),15
+2174,2392,米诺特,Minot,15
+30745,6055674,里霍博斯比奇(及周边地区),Rehoboth Beach (and vicinity),15
+1306,1430,哈伊勒,Hail,15
+31471,6057740,斯科茨伯勒(及周边地区),Scottsboro (and vicinity),15
+31711,6058427,埃尔多拉多(及周边地区),El Dorado (and vicinity),15
+1338,1464,哈瓦苏湖市,Lake Havasu City,15
+1347,1474,霍基蒂卡,Hokitika,15
+11050,55296,德拉姆黑勒(及邻近地区),Drumheller (and vicinity),15
+31258,6057059,帕克斯堡(及周边地区),Parkersburg (and vicinity),15
+2475,2728,扎波罗热,Zaporozhye,15
+33438,6085004,德兰(及周边地区),DeLand (and vicinity),15
+40459,6139371,利恩(及周边地区),Vermillion (and vicinity),15
+31743,6058530,帕克西,Paxos,15
+41727,6141476,波苏斯-迪卡尔达斯,Pocos De Caldas,15
+3328,3666,乌兰乌德,Ulan-Ude,15
+5897,6357,比修普,Bishop,15
+28481,6051487,多瑙河平原和高原(区),Danubian Plains and Plateaus (area),15
+1289,1412,科海丘（及其周边地区）,Coyhaique (and vicinity),15
+32056,6059457,卡姆登(及周边地区),Camden (and vicinity),15
+30717,6055593,南布尔根兰(区),Southern Burgenland (area),15
+866,931,"",Cucuta,15
+31215,6056923,阿巴拉契亚高原,Appalachian Plateau,15
+27330,6049591,贝内文托(省),Benevento (province),15
+28003,6050595,奥尔登堡敏斯特地区,Oldenburger Munsterland,15
+3642,4001,麦克默里堡,Fort McMurray,15
+1292,1415,吉塞尼,Gisenyi,15
+30098,6054336,道恩(郡),Down (county),15
+31208,6056906,斯汤顿(及周边地区),Staunton (and vicinity),15
+29426,6053050,上卢瓦尔(省),Haute-Loire (department),15
+2214,2439,蒙特罗斯(及周边地区),Montrose (and vicinity),15
+31176,6056801,阿拉莫萨(及周边地区),Alamosa (and vicinity),15
+28341,6051284,Sonderjylland(县),Sonderjylland (county),15
+29399,6052979,卡塔尼塞塔-恩纳(区),Caltanissetta - Enna (region),15
+1271,1392,大瀑布(及周边地区),Great Falls (and vicinity),15
+3162,3486,圣多美岛,Sao Tome Island,15
+28046,6050698,霍亨洛尔(区),Hohenlohe (area),15
+2980,3285,桑特莱,Santarem,15
+42321,6142815,奇萨鲁瓦,Cisarua,15
+3779,4146,耶洛奈夫,Yellowknife,15
+36131,6125962,"",Tabarka (and vicinity),15
+6118,6586,柴尔德里斯（及其周边地区）,Childress (and vicinity),15
+53111,6212729,匹兹堡 (及邻近地区),Pittsburg (and vicinity),15
+11756,56071,伍德沃德,Woodward,15
+31798,6058747,麦卡莱斯特(及周边地区),McAlester (and vicinity),15
+22274,6023262,锡吉什瓦拉,Sighisoara,15
+48907,6194493,帕索里,Parsoli,15
+4114,4512,马尔丁,Mardin,15
+31310,6057185,奥波莱(省),Opole (province),15
+29133,6052514,索诺拉南部,Southern Sonora,15
+3473,3819,沃兰(及周边地区),Worland (and vicinity),15
+3207,3533,塔拉坎,Tarakan,15
+28198,6051033,马彦(省),Mayenne (department),15
+711,764,哥伦比亚(及附近地区),Columbia (and vicinity),15
+31965,6059222,利奇菲尔德(及周边地区),Litchfield (and vicinity),15
+30742,6055671,格拉斯瓦利(及周边地区),Grass Valley (and vicinity),15
+60583,6277730,帕尼帕特,Panipat,15
+41683,6141427,伊尼扬巴内,Inhambane,15
+39866,6135771,贝特曼斯湾 (及其周边地区),Batemans Bay (and vicinity),15
+3247,3575,塔布克,Tabuk,15
+53136,6212969,沃索 (及附近地区),Warsaw (and vicinity),15
+28774,6051959,阿穆尔戈斯岛,Amorgos Island,14
+25733,6047671,梅里马克山谷,Merrimack Valley,14
+40753,6139906,格莱斯顿(及周边地区),Gladstone (and vicinity),14
+29665,6053538,塔恩-加龙(省),Tarn-et-Garonne (department),14
+31001,6056344,比弗(及周边地区),Beaver (and vicinity),14
+21245,602962,斯普林菲尔德(及周边地区),Springfield (and vicinity),14
+36972,6128599,"",Trollhattan (and vicinity),14
+3536,3885,苏圣 玛丽亚,Sault Ste. Marie,14
+28635,6051738,西布兰登堡,Western Brandenburg,14
+32055,6059452,杰克逊(及周边地区),Jackson (and vicinity),14
+943,1016,迪亚巴克尔,Diyarbakir,14
+30388,6054974,阿拉莫戈多(及周边地区),Alamogordo (and vicinity),14
+31612,6058186,奥科尼湖(及周边地区),Lake Oconee (and vicinity),14
+9168,9739,罗林斯,Rawlins,14
+1391,1520,赤塔,Chita,14
+31276,6057097,贝克利(及周边地区),Beckley (and vicinity),14
+31794,6058737,庞卡城(及周边地区),Ponca City (and vicinity),14
+922,992,迪凯特(及周边地区),Decatur (and vicinity),14
+32075,6059498,皮埃尔(及周边地区),Pierre (and vicinity),14
+28901,6052150,比利时阿登,Belgian Ardennes,14
+577,606,巴马科,Bamako,14
+344,346,奥克兰,Auckland,14
+24364,6035415,莱昂（及周边地区）,Leon (and vicinity),14
+2961,3261,苏克雷,Sucre,14
+30930,6056196,芬兰湾(区),Gulf of Finland (region),14
+55281,6234853,尖竹汶 (省),Chanthaburi (province),14
+30248,6054712,布尔海德城(及周边地区),Bullhead City (and vicinity),14
+31957,6059202,杰克逊(及周边地区),Jackson (and vicinity),14
+29648,6053485,齐格尔地区,Siegerland,14
+3834,4206,锡尔赫特,Sylhet,14
+40207,6138812,斯特布里奇(及周边地区),Sturbridge (and vicinity),14
+9325,9905,希德尼,Sidney,14
+277,272,阿伯丁,Aberdeen,14
+34215,6094980,尤巴城(及周边地区),Yuba City (and vicinity),14
+36815,6127743,"",La Junta (and vicinity),14
+15971,180391,斯德特莱恩,Stateline,14
+28063,6050769,阿尔高 (州),Aargau (canton),14
+37096,6129044,旺加拉塔 (及其周边地区),Wangaratta (and vicinity),14
+1182,1283,大本德(及周边地区),Great Bend (and vicinity),14
+1335,1461,华欣,Hua Hin,14
+7998,8515,利蒙,Limon,14
+33135,6084629,泗川,Sacheon,14
+31964,6059221,坎卡基(及周边地区),Kankakee (and vicinity),14
+3697,4058,康奈尔,Quesnel,14
+42575,6143225,伊帕廷加(及邻近地区),Ipatinga (and vicinity),14
+38279,6130995,萨宾国家森林公园(及周边地区),Sabine National Forest (and vicinity),14
+31622,6058233,下卡尔尼奥拉(区),Lower Carniola (region),13
+2850,3133,桑尼乌法,Sanliurfa,13
+32090,6059570,坎伯兰湖(地区),Lake Cumberland (area),13
+36917,6128407,德岛 (及其周边地区),Tokushima (and vicinity),13
+3796,4165,特木科,Temuco,13
+32226,6059923,伯米吉(及周边地区),Bemidji (and vicinity),13
+7257,7755,哈钦森(及周边地区),Hutchinson (and vicinity),13
+6563,7042,里德尔斯,Needles,13
+31768,6058680,牛津(及周边地区),Oxford (and vicinity),13
+70649,6339849,海芬斯,High Fens,13
+28708,6051852,北罗马(区),Northern Rome (area),13
+31316,6057206,惠林顿(及周边地区),Willington (and vicinity),13
+31432,6057608,托旺达(及周边地区),Towanda (and vicinity),13
+31146,6056702,瓦恩兰(及周边地区),Vineland (and vicinity),13
+42559,6143177,Chiloe(智鲁)岛,Chiloe Island,13
+27758,6050208,西北保加利亚,Northwest Bulgaria,13
+31929,6059104,马布尔福尔斯(及周边地区),Marble Falls (and vicinity),13
+43558,6144666,久留米,Kurume,13
+41130,6140591,杜兰特(及周边地区),Durant (and vicinity),13
+26484,6048517,中卡塔龙尼亚,Central Catalonia,13
+17162,181754,威斯特洛克,Westlock,13
+31811,6058781,欧塞奇比奇(及周边地区),Osage Beach (and vicinity),13
+28951,6052222,波萨里卡-埃默拉尔德海岸,Poza Rica - Emerald Coast,13
+32121,6059636,麦迪逊(及周边地区),Madison (and vicinity),13
+2033,2237,马卡帕,Macapa,13
+33682,6085329,伊莎贝拉岛,Isabela Island,13
+1559,1704,雅加达,Jakarta,13
+2683,2952,里奥布朗库,Rio Branco,13
+30534,6055270,爱图塔基（及周边地区）,Aitutaki (and vicinity),13
+31383,6057464,华尔道夫(及周边地区),Waldorf (and vicinity),13
+3755,4120,里穆斯基 (及邻近地区),Rimouski (and vicinity),13
+30400,6054994,卡纳维赛地区,Canavese Region,13
+1184,1285,盖尔斯堡(及周边地区),Galesburg (and vicinity),13
+28996,6052277,东马其顿,Eastern Macedonia,13
+2518,2776,佩姬,Page,13
+40771,6139939,法伦(及周边地区),Fallon (and vicinity),13
+31704,6058418,布莱斯维尔(及周边地区),Blytheville (and vicinity),13
+28346,6051289,菲特列堡(县),North Sealand,13
+19483,500228,梅尔加（及其周边地区）,Melgar (and vicinity),13
+32199,6059833,道奇维尔(及周边地区),Dodgeville (and vicinity),13
+2851,3134,斯克尔弗特,Skelleftea,13
+31509,6057824,史密斯福尔斯(及周边地区),Smiths Falls (and vicinity),13
+36133,6125965,"",Tozeur (and vicinity),13
+8865,9417,佩森,Payson,13
+38286,6131011,斜里,Shari,13
+34335,6122869,杰维斯湾(及周边地区),Jervis Bay (and vicinity),13
+28840,6052058,阿尔伯里(及其周边地区),Albury (and vicinity),13
+19485,500230,萨利纳斯,Salinas,13
+32049,6059430,布雷斯顿斯堡(及周边地区),Prestonsburg (and vicinity),13
+25958,6047938,Copan Ruinas (科潘鲁伊纳斯),Copan Ruinas,13
+2601,2861,波帕扬,Popayan,13
+24073,6035042,西冷,Serang,13
+3263,3593,东京,Tokyo,13
+29488,6053203,瓦勒德瓦兹(省),Val d'Oise (department),13
+8854,9406,休伦港(及周边地区),Port Huron (and vicinity),12
+31839,6058862,费尔菲尔德(及周边地区),Fairfield (and vicinity),12
+33730,6085384,北罗嘉兰(区),Northern Rogaland (area),12
+32119,6059631,悉尼(及周边地区),Sidney (and vicinity),12
+7252,7749,亨茨维尔,Huntsville,12
+40559,6139539,卡姆罗斯(及周边地区),Camrose (and vicinity),12
+6466,6942,Black River Falls(布莱克里弗福尔斯及邻近地区),Black River Falls (and vicinity),12
+43431,6144504,科尔卡峡谷,Colca Canyon,12
+5706,6158,阿拉德,Arad,12
+31893,6058956,卡莱尔莱克(及周边地区),Carlyle Lake (and vicinity),12
+621,659,伯度,Bodo,12
+38560,6131414,郡山(及附近地区),Koriyama (and vicinity),12
+42086,6142233,扬巴(及邻近地区),Yamba (and vicinity),12
+28962,6052233,蓝可妮(区),Lakonia (region),12
+31857,6058890,盖恩斯维尔(及周边地区),Gainesville (and vicinity),12
+36921,6128420,"",Kiruna (and vicinity),12
+31576,6058088,东部镇区,Eastern Townships,12
+40329,6139017,斯沃尔维尔(及周边地区),Svolvaer (and vicinity),12
+32085,6059521,曾斯维尔(及周边地区),Zanesville (and vicinity),12
+23680,6034505,McLaren 谷,McLaren Vale,12
+32992,6084418,埃伦斯堡(及周边地区),Ellensburg (and vicinity),12
+2323,2561,尼亚美,Niamey,12
+22479,6023567,马林县,Marin County,12
+41131,6140592,托里(及周边地区),Torrey (and vicinity),12
+31281,6057105,普林斯顿(及周边地区),Princeton (and vicinity),12
+40472,6139411,三条(及周边地区),Sanjo (and vicinity),12
+37821,6130393,米高莱夫,Mykolaiv,12
+7555,8064,仁川,Incheon,12
+7450,7957,圣罗莎,Santa Rosa,12
+39932,6136103,荷秀,Hosur,12
+30722,6055598,布朗库堡 (区),Castelo Branco (district),12
+38273,6130978,普莱森顿(及周边地区),Pleasanton (and vicinity),12
+31898,6058966,摩根城(及周边地区),Morgan City (and vicinity),12
+32080,6059509,迪斯梅特(及周边地区),De Smet (and vicinity),12
+39785,6135614,希望(及周边地区),Hope (and vicinity),12
+32170,6059765,赖斯湖(及周边地区),Rice Lake (and vicinity),12
+797,856,科纳克里,Conakry,12
+16005,180428,埃德森,Edson,12
+42466,6143059,巴真府,Prachinburi,12
+88158,6360000,直葛,Tegal,12
+437,448,沃特镇,Watertown,12
+1822,2007,拉勒米,Laramie,12
+3512,3859,圣路易斯,St. Louis,12
+2993,3298,"",Satu Mare,12
+35499,6124832,萨伊迪耶,Saidia,12
+27399,6049689,阿拉萨图巴（及周边地区）,Aracatuba (and vicinity),12
+31646,6058282,奥加拉拉(及周边地区),Ogallala (and vicinity),12
+1563,1709,詹姆斯敦(及周边地区),Jamestown (and vicinity),12
+7054,7545,格里利（及周边地区）,Greeley (and vicinity),12
+32172,6059768,里士满(及周边地区),Richmond (and vicinity),12
+28206,6051041,谢尔(省),Cher (department),12
+55828,6241867,黎逸府,Roi Et,12
+31148,6056706,卡尼斯角(及周边地区),Carneys Point (and vicinity),12
+2006,2208,马拉开波,Maracaibo,12
+76228,6346319,日南,Nichinan,12
+20978,602633,庆州,Gyeongju,12
+27135,6049304,特雷热比奇（及周边地区）,Treasure Beach (and vicinity),12
+7020,7509,格林伍德,Greenwood,12
+3270,3601,乌贝拉巴,Uberaba,12
+9184,9756,桑波因特(及周边地区),Sandpoint (and vicinity),12
+31687,6058385,(及周边地区),Reidsville (and vicinity),12
+31716,6058439,罗阿诺克拉皮兹(及周边地区),Roanoke Rapids (and vicinity),12
+30843,6055932,二十九棕榈村(及周边地区),Twentynine Palms (and vicinity),12
+78169,6348829,科科岛,Cayo Coco,12
+1280,1402,阿特劳,Atyrau,12
+39468,6134255,利斯维尔(及附近地区),Leesville (and vicinity),12
+42836,6143653,曼吉马普(及邻近地区),Manjimup (and vicinity),12
+31100,6056591,泰勒马克(省),Telemark (county),11
+30150,6054461,吉赛普半岛,Kitsap Peninsula,11
+43171,6144166,普罗维登西亚,Providencia,11
+594,624,布兰太尔,Blantyre,11
+16749,181284,利耶帕亚,Liepaja,11
+40939,6140203,天鹅山(及周边地区),Swan Hill (and vicinity),11
+2743,3015,与论,Yoron,11
+2167,2384,蒙蒂斯克拉鲁斯,Montes Claros,11
+30258,6054737,环球-迈阿密(及周边地区),Globe - Miami (and vicinity),11
+32082,6059511,丹维尔(及周边地区),Danville (and vicinity),11
+32138,6059680,库克维尔(及周边地区),Cookeville (and vicinity),11
+6483,6959,克莱瑞恩,Clarion,11
+3730,4091,蒂明斯,Timmins,11
+1852,2041,黎巴嫩(及周边地区),Lebanon (and vicinity),11
+31368,6057411,普利茅斯(及周边地区),Plymouth (and vicinity),11
+20823,602442,伊瓦格,Ibague,11
+7376,7878,迪克森(及周边地区),Dixon (and vicinity),11
+14156,178215,内坦亚,Netanya,11
+54001,6223308,杜埃(及邻近地区),Douai (and vicinity),11
+20065,601076,马格朗,Magelang,11
+8246,8769,马歇尔,Marshall,11
+31560,6058010,蓝岭(及周边地区),Blue Ridge (and vicinity),11
+32826,6069920,简斯维尔(及周边地区),Janesville (and vicinity),11
+32126,6059641,温森斯(及周边地区),Vincennes (and vicinity),11
+30672,6055523,埃武拉 (区),Evora (district),11
+32151,6059717,迪克森(及周边地区),Dickson (and vicinity),11
+5069,5502,索洛图恩 (州),Solothurn (canton),11
+1687,1857,宫崎,Miyazaki,11
+17057,181639,"",Yeppoon,11
+28370,6051334,石勒苏益格-荷尔斯泰因宾恩莱德,Schleswig-Holstein Binnenland,11
+707,760,布拉柴维尔,Brazzaville,11
+31394,6057491,索尔兹伯里(及周边地区),Salisbury (and vicinity),11
+21469,603233,阿伯丁郡(市),Aberdeenshire (county),11
+32222,6059919,康瑟尔布拉夫斯(及周边地区),Council Bluffs (and vicinity),11
+21036,602708,Byblos (比布鲁斯),Byblos,11
+30884,6056075,泰塔山,Taita Hills,11
+27363,6049638,罗维戈(省),Rovigo (province),11
+3303,3637,乌尔默,Umea,11
+1187,1290,"",Guernsey,11
+19764,500528,索哈尔,Sohar,11
+1830,2017,北普拉特,North Platte,11
+31786,6058718,维尼塔(及周边地区),Vinita (and vicinity),11
+2704,2974,奥伦堡,Orenburg,11
+38331,6131089,妙高,Myoko,11
+31797,6058744,艾达贝尔(及周边地区),Idabel (and vicinity),11
+28904,6052153,布拉班特瓦隆(区),Walloon Brabant (province),11
+29652,6053489,亚琛（及其周边地区）,Aachen (and vicinity),11
+882,947,克洛维斯(及周边地区),Clovis (and vicinity),11
+52989,6211235,皮拉尔(及邻近地区),Pilar (and vicinity),11
+31645,6058281,斯科茨布拉夫(及周边地区),Scottsbluff (and vicinity),11
+53999,6223300,康布雷(及邻近地区),Cambrai (and vicinity),11
+31737,6058521,莫尔黑德城(及周边地区),Morehead City (and vicinity),11
+44443,6150825,Dilijan (迪利扬),Dilijan,11
+5913,6373,布莱斯,Blythe,11
+31334,6057300,内盖夫沙漠(地区),Negev Desert (area),11
+5609,6056,阿菲永卡拉希萨尔,Afyonkarahisar,11
+27240,6049437,克雷莫纳(省),Cremona (province),11
+74944,6344796,塞提夫,Setif,11
+40805,6139982,古多里,Gudauri,11
+29154,6052543,Watarrka 国家公园,Watarrka National Park,11
+1859,2052,莱蒂西亚,Leticia,11
+39865,6135768,Ulladulla (及其周边地区),Ulladulla (and vicinity),11
+36818,6127747,"",Burlington (and vicinity),11
+31225,6056955,恩波里亚(及周边地区),Emporia (and vicinity),11
+562,590,贝贾亚,Bejaia,11
+34211,6094973,莫哈韦(及周边地区),Mojave (and vicinity),11
+41724,6141473,里欧维德,Rio Verde,10
+30967,6056252,卡累利阿(区),Karelia (region),10
+24177,6035187,廊开,Nong Khai,10
+9118,9687,伊里卡,Yreka,10
+32091,6059572,阿森斯(及周边地区),Athens (and vicinity),10
+23741,6034575,"",Atherton Tablelands,10
+4641,5063,普沃茨克,Plock,10
+27242,6049439,帕尔瓦(省),Pavia (province),10
+1510,1651,阿加尔塔拉,Agartala,10
+3282,3613,久米岛,Kume Island,10
+27090,6049234,梁赞,Ryazan,10
+1604,1759,卡尔巴里,Kalbarri,10
+17384,182017,韦本,Weyburn,10
+11068,55318,箱根,Hakone,10
+2821,3102,苏恰瓦,Suceava,10
+2639,2901,奥克斯塔港,Port Augusta,10
+1203,1311,"",Griffith,10
+28350,6051308,科斯塔利戈雷南海岸,South Coast - Costalegre,10
+31230,6056966,Laois - Offaly (郡),Laois (county),10
+1760,1940,"",Katherine,10
+29736,6053640,马岛,Margarita Island,10
+2557,2816,普拉茨堡,Plattsburgh,10
+5980,6443,巴特尔斯维尔,Bartlesville,10
+40893,6140116,哈尔斯塔(及周边地区),Harstad (and vicinity),10
+23158,6025738,"",Gura Humorului,10
+25466,6047334,尼兹瓦,Nizwa,10
+2589,2849,奔巴,Pemba,10
+31450,6057678,迪尔莱克-科纳布鲁克(及周边地区),Deer Lake - Corner Brook (and vicinity),10
+9000,9557,苫小牧,Tomakomai,10
+31588,6058128,加斯佩半岛,Gaspe Peninsula,10
+40819,6140001,都伯林(及附近地区),Dublin (and vicinity),10
+2978,3283,圣地亚哥(及周边地区),Santiago (and vicinity),10
+40006,6136941,"",Riviere Du Loup (and vicinity),10
+42152,6142368,普里根,Prigen,10
+36620,6127014,卡皮蒂海岸,Kapiti Coast,10
+29968,6054126,圣亚历克西德蒙,Saint-Alexis-des-Monts,10
+29562,6053351,沃格兰(区),Vogtland (region),10
+40086,6137292,鲁亨盖里,Ruhengeri,10
+6201,6672,科西卡纳城,Corsicana,10
+2549,2808,帕克斯,Parkes,10
+6358,6833,德明,Deming,10
+30785,6055784,蒙蒂塞洛(及周边地区),Monticello (and vicinity),10
+39829,6135701,卡萨芒斯,Casamance,10
+31417,6057554,米德维尔(及周边地区),Meadville (and vicinity),10
+33573,6085178,萨福德(及周边地区),Safford (and vicinity),10
+51229,6201373,贡布,Kampot,10
+8679,9214,奥马克,Omak,10
+3278,3609,"",Uzhhorod,10
+29423,6053038,朱拉(省),Jura (department),10
+59522,6270671,克亚岛,Kea Island,10
+10138,10810,红屋市,Red Lodge,10
+7367,7868,印第安纳,Indiana,10
+881,946,维多利亚城,Ciudad Victoria,10
+28308,6051226,西兰,Zeeland,10
+42780,6143568,北苏里高(省),Surigao del Norte (province),10
+32249,6059977,德可拉(及周边地区),Decorah (and vicinity),10
+31606,6058180,圣亚森特(及周边地区),Saint Hyacinthe (and vicinity),10
+1836,2023,纳闽,Labuan,10
+1537,1679,北茹阿泽鲁,Juazeiro do Norte,10
+3666,4026,阿尔伯特亲王城,Prince Albert,10
+28178,6051011,Usti nad Labem(区),Usti nad Labem (region),10
+4086,4484,纳沙泰尔 (州),Neuchatel (canton),10
+55498,6237240,劳斯 (郡),Louth (county),10
+31568,6058041,黑泽尔赫斯特(及周边地区),Hazlehurst (and vicinity),10
+44369,6149802,"",Linhares,10
+6645,7131,尤福拉,Eufaula,10
+64641,6312678,北加浪岸,Pekalongan,9
+46511,6173554,科切岛,Isla de Coche,9
+31503,6057818,帕里湾(及周边地区),Parry Sound (and vicinity),9
+2542,2801,皮乌拉,Piura,9
+27331,6049594,阿韦利诺(省),Avellino (province),9
+930,1002,马奇葡萄酒产区,Mudgee Wine Region,9
+29615,6053439,南马德里(区),Southern Madrid (area),9
+16429,180907,伊尼扬加,Nyanga,9
+2973,3276,苏圣 玛丽亚,Sault Ste. Marie,9
+901,967,君士坦丁,Constantine,9
+20895,602533,波苏阿雷格里,Pouso Alegre,9
+30398,6054992,孟菲拉多地区,Monferrato Region,9
+1705,1878,科乌努拉,Kununurra,9
+1061,1150,埃努古,Enugu,9
+9666,10270,范霍恩,Van Horn,9
+37967,6130549,"",Tetovo,9
+1104,1198,卢本巴希,Lubumbashi,9
+2523,2781,蓬塔格罗萨,Ponta Grossa,9
+44190,6147287,布科维尔,Bukovel,9
+39723,6135432,奥利夫布兰奇(及周边地区),Olive Branch (and vicinity),9
+1954,2152,"",Loreto,9
+9496,10086,太平,Taiping,9
+38277,6130989,Liberty(及周边地区),Liberty (and vicinity),9
+1095,1188,"",Elazig,9
+30515,6055245,欧洲之尖-坎塔布连山脉(阿斯图里亚斯),Picos de Europa - Cantabrian Mountains (Cantabria),9
+4179,4578,卡斯塔莫努,Kastamonu,9
+25202,6047036,伊卡里亚岛,Ikaria Island,9
+567,595,布琼布拉,Bujumbura,9
+22722,6023858,隆多诺波利斯,Rondonopolis,9
+8083,8605,拉斯维加斯,Las Vegas,9
+10021,10642,巴达维亚,Batavia,9
+28253,6051153,外赫布里底群岛,Outer Hebrides,9
+30715,6055591,新锡德尔湖(区),Neusiedler Lake (area),9
+28504,6051526,森特勒利亚-奇黑利斯(及周边地区),Centralia - Chehalis (and vicinity),9
+43590,6144706,格兰茨(及周边地区),Grants (and vicinity),9
+607,642,贝宁城,Benin City,9
+34210,6094971,杰克逊(及周边地区),Jackson (and vicinity),9
+2358,2602,洛坤,Nakhon Si Thammarat,9
+31235,6056980,切萨皮克湾,Chesapeake Bay,9
+59771,6271764,山中湖村,Yamanakako,9
+84882,6356545,洛朗第（区域）,Laurentides (area),9
+28256,6051156,设德兰群岛,Shetland Islands,9
+41132,6140596,坎贝尔斯(及周边地区),Campbellsville (and vicinity),9
+31712,6058429,蒙蒂塞洛(及周边地区),Monticello (and vicinity),9
+30007,6054174,梅洛,Merlo,9
+31715,6058436,兰伯顿(及周边地区),Lumberton (and vicinity),9
+31590,6058135,圣让湖(及周边地区),Lac Saint-Jean (and vicinity),9
+7696,8205,贾斯珀,Jasper,9
+41481,6141138,蒂拉登斯(及其周边地区),Tiradentes (and vicinity),9
+6132,6601,西恩富戈斯,Cienfuegos,9
+26964,6049035,阿克套,Aktau,9
+32110,6059605,麦迪逊维尔(及周边地区),Madisonville (and vicinity),9
+27403,6049693,阿连德图拉,Tula de Allende,9
+1387,1516,哈里森,Harrison,9
+893,958,芝拉札,Cilacap,9
+1699,1871,金门县,Kinmen County,9
+3056,3367,塔帕丘拉,Tapachula,9
+31274,6057093,摩根敦(及周边地区),Morgantown (and vicinity),9
+16114,180543,阿尔科巴尔,Al Khobar,9
+19996,500782,惠德比岛,Whidbey Island,9
+1460,1596,艾恩山(及周边地区),Iron Mountain (and vicinity),9
+784,842,奇姆肯特,Shymkent,9
+22484,6023573,特拉尔内潘特拉 (及邻近地区),Tlalnepantla de Baz (and vicinity),9
+7534,8042,格林维尔,Greenville,9
+1643,1806,"",Kherson,9
+28133,6050923,安(省),Ain (department),9
+25729,6047666,富兰克林县,Franklin County,9
+983,1059,得尔瑞欧,Del Rio,9
+15960,180379,克莱尔,Clare,9
+2583,2843,黑角,Pointe-Noire,9
+31732,6058516,阿尔伯马尔湾(北卡罗来纳东北部的濒大西洋的),Albemarle Sound,9
+8819,9368,普雷里德欣,Prairie Du Chien,9
+30824,6055904,惠特兰(及周边地区),Wheatland (and vicinity),9
+3337,3677,凡城,Van,9
+28941,6052205,"",Hilversum - Gooi en Vechtstreek (region),8
+33310,6084857,哈里斯科州东部,Eastern Jalisco,8
+79669,6350495,穆干里,Muganli,8
+42931,6143797,克里斯蒂安斯塔德(及邻近地区),Kristianstad (and vicinity),8
+5907,6367,贝克城,Baker City,8
+31239,6057004,法姆维尔(及周边地区),Farmville (and vicinity),8
+36991,6128669,塞鲁斯禁猎区,Selous Game Reserve,8
+30792,6055838,瓦登海岛,Wadden Islands,8
+30760,6055710,特文特(区),Twente (region),8
+3198,3523,特皮克市,Tepic,8
+38267,6130959,三叶草(及周边地区),Shamrock (and vicinity),8
+9910,10524,费城,Philadelphia,8
+31126,6056637,比纳维斯塔(及周边地区),Buena Vista (and vicinity),8
+38265,6130951,Luling(及周边地区),Luling (and vicinity),8
+1551,1695,吉布提,Djibouti,8
+63714,6306629,Zitundo (兹顿多),Zitundo,8
+854,918,哥伦布,Columbus,8
+28251,6051151,拉纳克郡,Lanarkshire,8
+55246,6234484,素攀武里,Suphan Buri,8
+31370,6057413,基恩(及周边地区),Keene (and vicinity),8
+25341,6047196,利川,Icheon,8
+5981,6444,贝茨维尔,Batesville,8
+1311,1435,哈法尔阿尔巴廷,Hafr Albatin,8
+22385,6023403,李堡-帕拉默斯(及周边地区),Fort Lee - Paramus (and vicinity),8
+33985,6094712,瑟斯兰姆,Sesriem,8
+45405,6157571,麻坡,Muar,8
+20197,601680,普罗旺斯地区艾克斯 (及邻近地区),Aix-en-Provence (and vicinity),8
+63160,6301847,北柳府,Chachoengsao,8
+30738,6055661,普莱瑟维尔(及周边地区),Placerville (and vicinity),8
+57336,6257761,北宁,Bac Ninh,8
+2462,2714,乌季达,Oujda,8
+76274,6346404,伊姆斯特(与周边地区),Imst (and vicinity),8
+8032,8552,黎府,Loei,8
+31219,6056937,希尔斯维尔(及周边地区),Hillsville (and vicinity),8
+39639,6134583,苏珊维尔(及附近地区),Susanville (and vicinity),8
+31593,6058141,勒奴地耶（区域）,Lanaudiere (area),8
+30003,6054167,莫瑞(市),Moray (county),8
+28849,6052071,波罗斯岛,Poros Island,8
+3818,4187,奥索尔诺,Osorno,8
+22916,6024084,赫瓦尔,Hvar,8
+10767,54985,Death Valley (死谷),Death Valley,8
+36719,6127353,"",Kenora (and vicinity),8
+9609,10210,尤瓦尔迪,Uvalde,8
+1508,1649,艾恩伍德(及周边地区),Ironwood (and vicinity),8
+6195,6666,圣克鲁斯（及周边地区）,Santa Cruz (and vicinity),8
+38199,6130845,瓜拉普阿瓦,Guarapuava,8
+25743,6047691,马撒葡萄园,Martha's Vineyard,8
+55236,6234203,博他仑,Phatthalung,8
+16284,180755,亚历山大城,Alexander City,8
+17161,181753,瓦特顿公园(及邻近地区),Waterton Park (and vicinity),8
+32178,6059782,格林斯堡(及周边地区),Greensburg (and vicinity),8
+8687,9222,索科罗,Socorro,8
+7449,7956,加利纳(及周边地区),Galena (and vicinity),8
+31696,6058406,芒廷霍姆(及周边地区),Mountain Home (and vicinity),8
+9306,9885,碧武里,Phetchaburi,8
+31823,6058811,奇利科西(及周边地区),Chillicothe (and vicinity),8
+5632,6079,霍顿(及周边地区),Houghton (and vicinity),8
+36915,6128399,北九州(及周边),Kitakyushu (and vicinity),8
+30709,6055585,维塞乌 (区),Viseu (district),8
+3268,3599,圣胡安,San Juan,8
+55181,6233936,奥法利 (郡),Offaly (county),8
+38374,6131160,卡温顿(及周边地区),Covington (and vicinity),8
+41702,6141450,埃雷欣,Erechim,8
+1759,1939,克奇坎,Ketchikan,8
+41271,6140810,Zorritos(及周边地区),Zorritos (and vicinity),8
+42211,6142581,Thrace(色雷斯),Thrace,8
+5950,6411,巴拉奥纳,Barahona,8
+28060,6050766,沙夫豪森(区),Schaffhausen (canton),8
+393,399,亚罗士打,Alor Setar,8
+30110,6054366,马德拉斯(及周边地区),Madras (and vicinity),8
+31741,6058528,海兰兹(及周边地区),Highlands (and vicinity),8
+32253,6059981,克林顿(及周边地区),Clinton (and vicinity),8
+17034,181608,比洛乌伊拉,Biloela,8
+39411,6134094,希金斯维尔(及附近地区),Higginsville (and vicinity),8
+23185,6025766,恩戈罗恩戈罗保护区,Ngorongoro Conservation Area,8
+11457,55736,格林堡,Greensburg,8
+36717,6127349,平泽,Pyeongtaek,8
+2471,2724,比绍,Bissau,8
+31224,6056954,南山(及周边地区),South Hill (and vicinity),8
+35975,6125665,"",Bojnice,8
+9825,10435,温诺娜,Winona,7
+23075,6025639,普斯科夫,Pskov,7
+32238,6059955,雷德温(及周边地区),Red Wing (and vicinity),7
+29961,6054111,塔马拉克(及周边地区),Tamarack (and vicinity),7
+8491,9018,尼法,Nephi,7
+30518,6055250,欧洲之尖-坎塔布连山脉(阿斯图里亚斯),Picos de Europa - Cantabrian Mountains (Asturias),7
+29075,6052374,沃得阿尔卑斯山(区),Vaudois Alps (area),7
+8875,9428,波尔塔瓦,Poltava,7
+54000,6223301,瓦朗谢讷(及邻近地区),Valenciennes (and vicinity),7
+31860,6058897,凯蒂(及周边地区),Katy (and vicinity),7
+1118,1216,福岛,Fukushima,7
+40513,6139482,京丹后市,Kyotango,7
+8307,8831,首府(及周边地区),Metropolis (and vicinity),7
+9493,10083,特罗伊,Troy,7
+31855,6058886,迪凯特(及周边地区),Decatur (and vicinity),7
+31470,6057735,卡尔曼(及周边地区),Cullman (and vicinity),7
+2585,2845,彼得罗利纳,Petrolina,7
+2193,2416,矿水城,Mineralnye Vody,7
+1525,1666,出云,Izumo,7
+77442,6347994,石川,Ishikawa,7
+2590,2850,莫尔兹比港,Port Moresby,7
+479,497,巴尔瑙尔,Barnaul,7
+2612,2873,帕府,Phrae,7
+37520,6129940,荒地国家公园(及周边地区),Badlands National Park (and vicinity),7
+28294,6051206,弗莱福兰,Flevoland,7
+55817,6241826,四色菊府,Sisaket,7
+31769,6058683,科林斯(及周边地区),Corinth (and vicinity),7
+3148,3472,特莱姆森,Tlemcen,7
+12868,132691,麦斯基德,Mesquite,7
+6129,6598,阿托卡,Atoka,7
+32258,6059986,底特律湖区(及周边地区),Detroit Lakes (and vicinity),7
+69083,6337914,阿萨巴,Asaba,7
+5664,6113,马里内特(及邻近地区),Marinette (and vicinity),7
+1595,1747,卡里巴,Kariba,7
+30250,6054715,诺加利斯(及周边地区),Nogales (and vicinity),7
+7041,7532,盖蒙,Guymon,7
+20483,602032,阿尔托廷,Altoetting,7
+32076,6059499,张伯伦(及周边地区),Chamberlain (and vicinity),7
+47089,6177728,桃园县,Taoyuan County,7
+673,718,"",Benguela,7
+44647,6152309,秩父,Chichibu,7
+31352,6057353,温德姆县,Windham County,7
+32011,6059374,新费城(及周边地区),New Philadelphia (and vicinity),7
+1319,1443,赫尔辛基,Helsinki,7
+41597,6141305,Chequamegon Bay(希夸默根湾),Chequamegon Bay,7
+396,403,阿皮纳,Alpena,7
+28866,6052088,楚格-施维茨,Zug - Schwyz,7
+2514,2772,帕苏丰杜,Passo Fundo,7
+40927,6140180,梅斯维尔(及周边地区),Maysville (and vicinity),7
+31529,6057899,巴瑟斯特(及周边地区),Bathurst (and vicinity),7
+31068,6056511,詹姆斯敦(及周边地区),Jamestown (and vicinity),7
+31188,6056858,Carlow (郡),Carlow (county),7
+63834,6307334,Phu Ruea (普卢尔),Phu Ruea,7
+31280,6057104,洛根(及周边地区),Logan (and vicinity),7
+6170,6641,克拉克斯维尔,Clarksville,7
+3121,3442,的黎波里,Tripoli,7
+5249,5689,索利赫尔,Solihull,7
+41424,6141062,Miramichi(米拉米奇及邻近地区),Miramichi (and vicinity),7
+27801,6050262,布埃纳文图拉,Buenaventura,7
+20326,601839,直布罗陀(全部),Gibraltar (all),7
+3180,3504,托木斯克,Tomsk,7
+28957,6052228,阿卡迪亚(区),Arkadia (region),7
+24204,6035231,"",Tahaa,7
+40930,6140189,梅菲尔德(及周边地区),Mayfield (and vicinity),7
+2845,3128,斯法克斯,Sfax,7
+2186,2408,马凯特(及周边地区),Marquette (and vicinity),7
+28490,6051496,维也纳森林(区),Vienna Woods (area),7
+75434,6345365,横城,Hoengseong,7
+5858,6315,"",Bacau,7
+29421,6053036,上索恩(省),Haute-Saone (department),7
+29146,6052531,维欧提亚(地区),Viotia (region),7
+6147,6617,奇克谢,Chickasha,7
+38263,6130947,罗森伯格(及周边地区),Rosenberg (and vicinity),7
+3631,3989,柯克兰莱克,Kirkland Lake,7
+322,322,阿尔荷塞马,Al Hoceima,7
+1436,1568,伊万诺-弗兰科夫斯克,Ivano-Frankovsk,7
+39395,6134031,西平原(及附近地区),West Plains (and vicinity),7
+488,508,巴拉科阿,Baracoa,7
+1518,1659,兰契,Ranchi,7
+9448,10037,图尔恰,Tulcea,7
+3785,4152,七岛港,Sept-Iles,7
+28327,6051263,维堡(县),Viborg (and vicinity),7
+8278,8802,马科姆(及周边地区),Macomb (and vicinity),7
+32081,6059510,米切尔(及周边地区),Mitchell (and vicinity),7
+32639,6063186,"",Kahramanmaras,7
+30693,6055555,达拉斯奥斯蒙达斯(区),Tras-os-Montes (area),7
+1071,1161,埃尔佐鲁姆,Erzurum,7
+25734,6047672,北海岸,North Shore,7
+5827,6283,阿什伯勒,Asheboro,7
+37965,6130547,"",Struga,7
+828,889,凯恩斯,Cairns,7
+262,254,安纳巴,Annaba,7
+7011,7500,柯林顿,Clinton,7
+29086,6052387,美格里西亚(区),Magnesia (region),7
+64119,6309095,清康,Chiang Khan,7
+9988,10606,落基山庄,Rocky Mountain House,6
+10814,55052,巴恩沃尔,Barnwell,6
+31183,6056829,斯莱戈- Leitrim (郡),Leitrim (county),6
+53691,6220214,东阿格德尔 (郡),Aust-Agder (county),6
+32173,6059770,劳伦斯堡(及周边地区),Lawrenceburg (and vicinity),6
+20329,601843,陶格夫匹尔斯,Daugavpils,6
+1426,1557,伊巴丹,Ibadan,6
+6377,6852,达尔哈特,Dalhart,6
+2604,2864,公主港,Puerto Princesa,6
+49156,6195628,贝罗沃,Berovo,6
+522,544,布拉德福德,Bradford,6
+6648,7134,斯托本维尔,Steubenville,6
+21427,603178,巴扎鲁托岛,Bazaruto Island,6
+2237,2463,弗农山,Mount Vernon,6
+23418,6034162,"",Amboseli,6
+41372,6140988,特伦钦,Trencin,6
+2393,2639,敖德萨,Odessa,6
+55853,6242003,程逸府,Uttaradit,6
+39414,6134098,保宁,Boryeong,6
+8881,9435,潘塔雷纳斯,Puntarenas,6
+53145,6213350,凯迪拉克 (及邻近地区),Cadillac (and vicinity),6
+6030,6496,克兰顿,Clanton,6
+32537,6060729,拉廊府,Ranong,6
+43520,6144612,Camlihemsin (卡姆里赫姆辛),Camlihemsin,6
+13993,178007,百乐费利克斯,Baile Felix,6
+3726,4087,汤姆森,Thompson,6
+68782,6337575,汤加 (全部地区),Tonga (all),6
+32166,6059761,科科莫(及周边地区),Kokomo (and vicinity),6
+20497,602052,伊萨基岛,Ithaki Island,6
+55323,6235162,基尔德尔 (郡),Kildare (county),6
+1276,1398,冈讷达,Gunnedah,6
+29725,6053623,巴拉特普尔,Bharatpur,6
+1991,2192,"",Lazaro Cardenas,6
+31790,6058729,普赖尔(及周边地区),Pryor (and vicinity),6
+38268,6130961,特勒尔(及周边地区),Terrell (and vicinity),6
+40566,6139554,Olds(及周边地区),Olds (and vicinity),6
+31847,6058873,普莱森特山(及周边地区),Mount Pleasant (and vicinity),6
+28065,6050771,康斯坦茨湖(区),Lake Constance (area),6
+752,807,韦科昆戈,Waco Kungo,6
+32259,6059987,哈钦森(及周边地区),Hutchinson (and vicinity),6
+41746,6141516,帕拉瓜纳半岛,Paraguana Peninsula,6
+74699,6344515,青松,Cheongsong,6
+40120,6138514,Montmagny(及周边地区),Montmagny (and vicinity),6
+30140,6054440,长滩(及周边地区),Long Beach (and vicinity),6
+33253,6084796,古尔冈(及其周边地区),Gurgaon (and vicinity),6
+32072,6059494,莫尔黑德(及周边地区),Morehead (and vicinity),6
+32188,6059795,阿森斯-斯威特沃特(及周边地区),Athens - Sweetwater (and vicinity),6
+993,1070,达尼丁,Dunedin,6
+31780,6058706,麦库姆(及周边地区),McComb (and vicinity),6
+3543,3894,贝科莫,Baie Comeau,6
+17365,181997,瓦勒多,Val-d'Or,6
+38281,6131004,哥伦布(及周边地区),Columbus (and vicinity),6
+15699,180076,莫洛凯岛,Molokai Island,6
+30474,6055131,戈里齐亚(省),Gorizia (province),6
+31686,6058384,芒特艾里(及周边地区),Mount Airy (and vicinity),6
+26102,6048104,凯库拉(及其周边地区),Kaikoura (and vicinity),6
+29085,6052386,拉里萨(地区),Larissa (region),6
+925,996,丹佛,Denver,6
+2857,3140,胡志明市,Ho Chi Minh City,6
+41010,6140375,阿肯色城(及周边地区),Arkansas City (and vicinity),6
+25188,6047019,比塞大,Bizerte,6
+3158,3482,图阿马西纳,Toamasina,6
+1623,1783,克麦罗沃,Kemerovo,6
+2002,2204,马塔莫罗斯(及周边地区),Matamoros (and vicinity),6
+39506,6134304,比托拉,Bitola,6
+592,622,班加罗尔,Bengaluru,6
+1147,1247,"",Forbes,6
+1603,1758,凯塔亚,Kaitaia,6
+39696,6135273,放心湾,Doubtless Bay,6
+59706,6271583,坡州,Paju,6
+70916,6340160,爱尔巴桑,Elbasan,6
+2970,3273,马拉博,Malabo,6
+32221,6059918,大西洋(及周边地区),Atlantic (and vicinity),6
+31455,6057686,迪莫波利斯(及周边地区),Demopolis (and vicinity),6
+47680,6184847,安蒂克(省),Antique (province),6
+45105,6156153,Point Stuart (波因特斯图尔特),Point Stuart,6
+31960,6059211,普莱森特山(及周边地区),Mount Pleasant (and vicinity),6
+41906,6141731,安城,Anseong,6
+28811,6052004,蒂洛斯岛,Tilos Island,6
+2495,2752,普林西比岛,Principe Island,6
+32570,6062898,荣市,Vinh,6
+40007,6136959,"",Gatineau (and vicinity),6
+3663,4022,海莱维,High Level,6
+4262,4664,伊斯肯德伦,Iskenderun,6
+31989,6059291,迪法恩斯(及周边地区),Defiance (and vicinity),6
+40565,6139552,和平河(及周边地区),Peace River (and vicinity),6
+11076,55326,弘前,Hirosaki,6
+39828,6135700,萨卢姆三角洲,Delta de Saloum,6
+31688,6058386,谢尔比(及周边地区),Shelby (and vicinity),6
+2494,2751,普卡尔帕,Pucallpa,6
+54227,6224940,塞康第-塔科拉迪,Sekondi-Takoradi,6
+1366,1494,Al Ahsa (阿哈萨),Al Ahsa,6
+32404,6060323,和歌山,Wakayama,6
+575,604,曼谷,Bangkok,6
+46027,6161113,广义,Quang Ngai,6
+28767,6051948,清道,Chiang Dao,5
+17027,181601,Kakadu 国家公园,Kakadu National Park,5
+74661,6344465,扶安,Buan,5
+36192,6126084,"",Kenitra,5
+30203,6054638,山 胡德(及周边地区),Mt. Hood (and vicinity),5
+23040,6025603,Elmina (埃尔米纳),Elmina,5
+38269,6130967,惠特尼湖 (及邻近地区),Lake Whitney (and vicinity),5
+1113,1210,金沙萨,Kinshasa,5
+39645,6134835,温哥华(及周边地区),Vancouver (and vicinity),5
+2395,2642,奥尔莫克,Ornskoldsvik,5
+31699,6058410,克林顿(及周边地区),Clinton (and vicinity),5
+32079,6059508,卡罗尔顿(及周边地区),Carrollton (and vicinity),5
+6451,6927,杜迈,Dumai,5
+1920,2116,"",Monclova,5
+58363,6262375,沙敦府,Satun,5
+3169,3493,种子岛,Tanegashima,5
+9887,10499,德拉蒙德维尔,Drummondville,5
+33139,6084639,原州,Wonju,5
+78167,6348827,吉列尔莫岛,Cayo Guillermo,5
+2556,2815,巴色,Pakse,5
+40202,6138804,莱姆斯特(及周边地区),Leominster (and vicinity),5
+2446,2697,大阪,Osaka,5
+1077,1167,埃斯梅拉达斯(及邻近地区),Esmeraldas (and vicinity),5
+31573,6058062,本尼茨维尔(及周边地区),Bennettsville (and vicinity),5
+2909,3200,盐湖城,Salt Lake City,5
+8849,9400,帕朗,Pahrump,5
+2842,3124,首尔,Seoul,5
+2820,3101,圣地亚哥,Santiago,5
+6592,7074,埃尔金斯,Elkins,5
+31508,6057823,安普赖尔(及周边地区),Arnprior (and vicinity),5
+73127,6342805,八幡平市,Hachimantai,5
+40093,6137858,干哈国家公园,Kanha National Park,5
+46835,6176598,马里恩,Marion,5
+42095,6142246,兰瑙,Ranau,5
+2992,3297,苏尔,Sur,5
+1723,1898,浦项,Pohang,5
+29139,6052522,弗基达(地区),Fokida (region),5
+1753,1933,卡拉瑟,Karratha,5
+76691,6346946,奥卡,Awka,5
+31968,6059225,Monaghan (郡),Monaghan (county),5
+279,274,阿尔巴哈,Al Baha,5
+36136,6125969,"",Douz (and vicinity),5
+2241,2468,马斯温哥,Masvingo,5
+38266,6130956,格雷厄姆(及周边地区),Graham (and vicinity),5
+31974,6059237,豪厄尔(及周边地区),Howell (and vicinity),5
+16397,180875,Siren(赛伦及邻近地区),Siren (and vicinity),5
+7940,8455,曼斯菲尔德,Mansfield,5
+354,358,阿尔塔,Alta,5
+2177,2395,莫斯科,Moscow,5
+3736,4098,罗伊诺兰达,Rouyn-Noranda,5
+32230,6059944,弗吉尼亚(及周边地区),Virginia (and vicinity),5
+3565,3918,道森城,Dawson City,5
+43324,6144355,布鲁尼岛,Bruny Island,5
+6248,6720,拉戈岛,Cayo Largo,5
+17520,182173,埃尔富埃尔特,El Fuerte,5
+32217,6059914,谢尔登(及周边地区),Sheldon (and vicinity),5
+37966,6130548,盖夫盖利亚,Gevgelija,5
+38766,6131744,边和市,Bien Hoa,5
+53865,6221945,沙道,Sadao,5
+42930,6143794,博拉斯(及邻近地区),Boras (and vicinity),5
+19289,184169,史诺修组,Snowshoe,5
+16606,181121,沃尔塔雷东达,Volta Redonda,5
+1995,2197,"",Maraba,5
+31003,6056350,菲尔莫尔(及周边地区),Fillmore (and vicinity),5
+25813,6047769,德罗贝塔-塞维林堡,Drobeta-Turnu Severin,5
+63704,6306399,Sung Noen (松尼),Sung Noen,5
+3087,3405,"",Tete,5
+1234,1346,戈梅尔,Gomel,5
+55259,6234580,信武里,Sing Buri,5
+6614,7097,温道尔,Wendover,5
+8161,8683,墨菲,Murphy,5
+19508,500255,兰德克(与周边地区),Landeck (and vicinity),5
+37048,6128900,"",Yarmouth (and vicinity),5
+28258,6051158,波德申港,Port Dickson,5
+3776,4143,卡普斯卡辛,Kapuskasing,5
+36969,6128592,"",Stromstad (and vicinity),5
+4213,4615,阿德亚曼,Adiyaman,5
+31437,6057626,巴特勒(及周边地区),Butler (and vicinity),5
+37471,6129837,"",Sevan,5
+63921,6307783,科尔察,Korce,5
+19471,500214,圣洛伦索（及周边地区）,Sao Lourenco (and vicinity),5
+53549,6218147,"",Presidente Prudente,5
+2607,2868,普雷斯克岛,Presque Isle,5
+36500,6126753,赫洛克岛,Havelock Island,5
+63991,6308174,磨县,Pua,5
+25926,6047902,休达(区),Ceuta (region),5
+28864,6052086,卢塞恩阿尔卑斯,Luzerner Alps,5
+9813,10423,纳加,Naga,5
+29189,6052600,彼德拉斯内格拉斯(及周边地区),Piedras Negras (and vicinity),5
+20166,601574,布哈拉,Bukhara,5
+29591,6053405,雷西察,Resita,5
+743,798,查德任,Chadron,5
+22365,6023373,圣·胡安群岛,San Juan Islands,5
+36912,6128392,西东京,Western Tokyo,5
+6388,6863,本松,Benson,5
+32149,6059701,普拉斯基(及周边地区),Pulaski (and vicinity),5
+39783,6135610,克林顿(及周边地区),Clinton (and vicinity),5
+31710,6058426,特克萨卡纳(及周边地区),Texarkana (and vicinity),5
+22653,6023785,蒲郡,Gamagori,5
+2371,2617,纳维克,Narvik,5
+5708,6160,亚拉腊,Ararat,5
+7000,7489,格罗德诺,Grodna,5
+3050,3360,塔纳岛,Tanna Island,5
+7214,7710,西海伦娜,West Helena,5
+32050,6059435,哈泽德(及周边地区),Hazard (and vicinity),5
+22586,6023683,圣文森特和格林纳丁斯群岛(全岛),St. Vincent and the Grenadines (all),5
+16327,180798,安斯沃思,Ainsworth,5
+3909,4292,霍尔夫,Horw,5
+54124,6223983,特拉瓦斯,Trawas,5
+39801,6135654,阿德里安(及周边地区),Adrian (and vicinity),5
+6978,7466,"",Victoriaville,4
+29169,6052564,伊利亚(地区),Ilia (region),4
+50428,6199631,西迪贝勒阿巴斯,Sidi Bel Abbes,4
+47561,6182198,舞鹤,Maizuru,4
+5848,6305,布拉迪,Brady,4
+78457,6349124,占冠,Shimukappu,4
+51395,6202172,土庄,Tonosho,4
+31342,6057320,阿什凯隆 - 南部海岸,Ashkelon - Southern Coast,4
+2247,2475,姆万扎,Mwanza,4
+4611,5028,托沙芬,Torshavn,4
+28344,6051287,Vestsjaelland(县),Vestsjaelland (county),4
+38150,6130781,唐津,Karatsu,4
+81789,6352944,莱什,Lezhe,4
+1124,1222,佛罗伦萨,Florence,4
+48745,6193691,基度山,Monte Cristi,4
+38522,6131361,宾埃尔韦迪安,Bine el Ouidane,4
+6100,6567,井里汶,Cirebon,4
+26338,6048365,镰仓,Kamakura,4
+31085,6056566,北特伦德拉格(省),Nord-Trondelag (county),4
+2291,2526,尼斯,Nice,4
+59508,6270581,萨姆森,Sam Son,4
+14950,179183,郡上,Gujo,4
+63947,6308008,亚兰,Aranyaprathet,4
+7460,7967,加利波利,Gallipolis,4
+40971,6140295,利物浦(及周边),Liverpool (and vicinity),4
+32220,6059917,斯托姆湖(及周边地区),Storm Lake (and vicinity),4
+20333,601847,姆扎尔卡法尔比安,Mzaar Kfardebian,4
+2139,2354,"",Malatya,4
+2788,3063,罗哈斯市,Roxas City,4
+5740,6192,卡塔利娜岛,Catalina Island,4
+7422,7928,尼斯蒂克,Manistique,4
+31952,6059180,托瓦斯城(及周边地区),Tawas City (and vicinity),4
+40768,6139933,四联市(及周边地区),Quad Cities (and vicinity),4
+49986,6198187,塔帕侬,That Phanom,4
+31714,6058435,亨德森(及周边地区),Henderson (and vicinity),4
+28190,6051024,Vysocina(区),Vysocina (region),4
+65759,6320446,良水,Nyaungshwe,4
+67648,6336123,圣胡安包蒂斯塔图斯特佩克,San Juan Bautista Tuxtepec,4
+31596,6058146,蒙特贝洛(及周边地区),Montebello (and vicinity),4
+41127,6140583,波托(及周边地区),Poteau (and vicinity),4
+28173,6051006,德伦特,Drenthe,4
+67762,6336256,布罗奇,Bharuch,4
+75121,6345005,加巴拉,Gabala,4
+31570,6058047,海恩斯维尔(及周边地区),Hinesville (and vicinity),4
+8899,9455,潘帕,Pampa,4
+12910,135122,莫瑞尔提,Moriarty,4
+2709,2979,"",Reynosa,4
+9210,9786,圣查尔斯,St. Charles,4
+38262,6130942,蓝毗尼(及周边地区),Lumbini (and vicinity),4
+3816,4185,"",Newman,4
+10964,55207,图巴市,Tuba City,4
+6121,6589,切列波韦茨,Cherepovets,4
+10666,12062,萨拉皮基,Sarapiqui,4
+29776,6053700,上田(及其周边地区),Ueda (and vicinity),4
+55831,6241885,玛哈沙拉堪府,Maha Sarakham,4
+23502,6034271,泰恩河畔纽卡斯尔,Newcastle-upon-Tyne,4
+62173,6292801,兹林 (行政区),Zlin (region),4
+41661,6141391,弗格斯福尔斯(及邻近地区),Fergus Falls (and vicinity),4
+70922,6340166,察沃,Tsavo,4
+38444,6131257,鲨鱼湾,Shark Bay,4
+2906,3197,萨拉斯克,Saransk,4
+47054,6177643,Lages (拉赫斯),Lages,4
+12030,74220,阿帕拉契科拉,Apalachicola,4
+32196,6059814,希博伊根(及周边地区),Sheboygan (and vicinity),4
+30087,6054324,阿玛(郡),Armagh (county),4
+28252,6051152,奥克尼群岛,Orkney Islands,4
+501,522,万隆,Bandung,4
+31739,6058526,马里恩(及周边地区),Marion (and vicinity),4
+3126,3448,塔里哈,Tarija,4
+46143,6164123,雾岛,Kirishima,4
+11770,56095,罗克代尔,Rockdale,4
+5786,6241,邦纳斯费里,Bonners Ferry,4
+32543,6060738,库雷萨雷,Kuressaare,4
+29373,6052938,坦博尔(及周边地区),Tambor (and vicinity),4
+31903,6058973,基瓦尼(及周边地区),Kewanee (and vicinity),4
+62767,6298225,叻丕府,Ratchaburi,4
+28912,6052170,甘烹碧,Kamphaeng Phet,4
+8776,9320,长野,Nagano,4
+33062,6084530,坎普斯,Campos,4
+3101,3420,坦噶,Tanga,4
+747,802,塞杜纳,Ceduna,4
+66770,6324683,梅伽蒙杜,Megamendung,4
+2776,3049,阿鲁阿,Arua,4
+14001,178016,布莱克河,Black River,4
+73110,6342788,仓吉市,Kurayoshi,4
+78229,6348889,昔加末,Segamat,4
+55825,6241849,益梭通府,Yasothon,4
+3737,4099,莫罗尼,Moroni,4
+37651,6130177,莫索罗,Mossoro,4
+29614,6053438,瓜达拉玛山脉(区),Sierra de Guadarrama (area),4
+44688,6152509,延冈,Nobeoka,4
+32456,6060431,巴里奥斯港(及周边地区),Puerto Barrios (and vicinity),4
+41644,6141370,纳沃伊,Navoiy,4
+8866,9418,普林斯顿,Princeton,4
+45965,6160581,东近江,Higashiomi,4
+2329,2572,"",Nuevo Laredo,4
+39663,6135091,Phan Rang(及周边地区),Phan Rang (and vicinity),4
+395,402,楠普拉,Nampula,4
+28216,6051099,肖蒙-上马恩(省),Chaumont - Haute Marne (department),4
+2281,2515,楠迪,Nadi,4
+64122,6309104,Miyako (宫古郡),Miyako,4
+71061,6340357,居銮,Kluang,4
+11857,57663,波蒂奇拉普雷里,Portage La Prairie,4
+3144,3467,图莱亚尔,Toliara,4
+31314,6057199,旧塞布鲁克(及周边地区),Old Saybrook (and vicinity),4
+42565,6143193,Prado(洛普拉多及邻近地区),Prado (and vicinity),4
+31840,6058863,利文斯顿(及周边地区),Livingston (and vicinity),4
+7620,8129,锡米谷-千橡市,Simi Valley - Thousand Oaks,4
+33977,6094701,奇夫兰(及周边地区),Chiefland (and vicinity),4
+31980,6059261,皮亚季戈尔斯克,Pyatigorsk,4
+967,1042,丹维尔,Danville,4
+30633,6055458,波尔图桑塔岛,Porto Santo Island,4
+2016,2219,纹别,Monbetsu,4
+29128,6052484,Tasman 半岛,Tasman Peninsula,4
+44579,6151671,本那瓦鎮,Bandar Penawar,4
+56686,6252285,香美,Kami,4
+28222,6051116,伊达尔戈·德尔帕拉尔,Hidalgo del Parral,4
+31718,6058441,罗金厄姆(及周边地区),Rockingham (and vicinity),4
+17370,182003,埃斯特万,Estevan,4
+30108,6054359,伯恩斯(及周边地区),Burns (and vicinity),4
+2926,3219,仙本那,Semporna,4
+53261,6215057,"",Kocani,4
+74609,6344412,波诺罗戈,Ponorogo,4
+25927,6047903,梅利利亚(区),Melilla (region),4
+29269,6052726,Temiscouata-sur-le-Lac (拉克河畔特米考塔),Temiscouata-sur-le-Lac,4
+20328,601841,拉托维亚,Sigulda,4
+16186,180619,八户,Hachinohe,4
+27241,6049438,罗迪(省),Lodi (province),4
+44803,6153892,杜瓦尔卡,Dwarka,4
+40507,6139475,库克山国家公园,Mount Cook National Park,4
+44650,6152312,湖西,Kosai,4
+602,634,邦美蜀,Buon Ma Thuot,3
+6013,6478,布良斯克,Bryansk,3
+1346,1472,函馆,Hakodate,3
+8007,8525,莱克维尤,Lakeview,3
+37095,6129040,瓦雷高 (及其周边地区),Warragul (and vicinity),3
+699,750,迪巴,Dibba,3
+6790,7277,塞特福德矿城,Thetford Mines,3
+28939,6052203,霍伦-西弗里斯(区),Hoorn - West-Friesland (region),3
+40396,6139296,丸龟,Marugame,3
+32265,6059993,沃克(及周边地区),Walker (and vicinity),3
+31358,6057386,斯托(及周边地区),Stowe (and vicinity),3
+27685,6050104,斯拉沃尼亚,Slavonia,3
+77565,6348123,兰斯当,Lansdowne,3
+37909,6130483,沃洛格达,Vologda,3
+5809,6265,莫多,Murdo,3
+67979,6336531,日向,Hyuga,3
+57259,6257624,河江,Ha Giang,3
+57452,6258091,金瓯,Ca Mau,3
+1048,1135,伊利,Ely,3
+41860,6141666,抱川,Pocheon,3
+28709,6051853,东罗马(区),Eastern Rome (area),3
+55848,6241978,披集府,Phichit,3
+76305,6346450,库夫施坦（与周边地区）,Kufstein (and vicinity),3
+71745,6341179,威桑海滩,Ngwe Saung,3
+9403,9987,泰尔市,Tell City,3
+50248,6198882,诺夫多伊兰,Nov Dojran,3
+51206,6201306,堤川,Jecheon,3
+33137,6084633,三陟,Samcheok,3
+3022,3328,"",Sale,3
+80193,6351115,适耕庄,Sekinchan,3
+32057,6059460,卡温顿(及周边地区),Covington (and vicinity),3
+27261,6049480,克里西乌马,Criciuma,3
+52144,6205429,埃登,Ehden,3
+32231,6059946,欣克利(及周边地区),Hinckley (and vicinity),3
+37837,6130409,"",Novi Pazar,3
+81598,6352718,东甲,Tangkak,3
+60201,6274057,特雷斯拉瓜斯,Tres Lagoas,3
+16252,180695,熊谷,Kumagaya,3
+5887,6346,博格,Borger,3
+40246,6138866,小坂,Kosaka,3
+35542,6124897,木曽町,Kiso,3
+9355,9935,斯特林,Sterling,3
+63662,6306091,巴拉－杜加萨斯,Barra do Garcas,3
+8554,9084,帕兹谷,Pauls Valley,3
+39674,6135238,柏化威和库纳瓦拉酿酒区,Padthaway and Coonawarra Wine Regions,3
+60713,6278537,笨珍,Pontian,3
+38937,6132073,加伯维尔(及附近地区),Garberville (and vicinity),3
+35822,6125368,拉克拉比什,Lac La Biche,3
+42082,6142201,Kavadarci (卡瓦达尔齐),Kavadarci,3
+30707,6055583,瓜达 (区),Guarda (district),3
+56914,6253837,夸乌特莫克,Cuauhtemoc,3
+67000,6328148,索伯拉,Sobral,3
+75034,6344909,阴城郡,Eumseong,3
+1411,1542,哈费尔,Havre,3
+32124,6059639,弗伦奇利克(及周边地区),French Lick (and vicinity),3
+5774,6228,派克,Parker,3
+40573,6139566,下吕,Gero,3
+75443,6345375,伊势原,Isehara,3
+31829,6058820,沃伦顿(及周边地区),Warrenton (and vicinity),3
+3290,3622,昆西(及周边地区),Quincy (and vicinity),3
+22325,6023318,季托夫韦莱斯,Titov Veles,3
+33648,6085287,"",Hebbronville,3
+519,541,贝拉,Beira,3
+891,956,科克斯巴扎尔,Cox's Bazar,3
+76794,6347081,鸣泽村,Narusawa,3
+19995,500781,科迪亚克岛,Kodiak Island,3
+19376,184265,圣克里斯托佛,San Cristobal,3
+76115,6346182,四万十,Shimanto,3
+3409,3751,圣维森特,Sao Vicente,3
+1357,1484,"",Hassi Messaoud,3
+40835,6140032,萨顿(及周边地区),Sutton (and vicinity),3
+451,464,谢戈德阿维拉,Ciego de Avila,3
+13117,149618,"",Rangeley,3
+41420,6141055,伍德斯托克(及邻近地区),Woodstock (and vicinity),3
+928,1000,达拉斯,Dallas,3
+268,262,阿巴坎,Abakan,3
+11924,59251,奥兰治维尔,Orangeville,3
+2302,2539,恩贾梅纳,N'Djamena,3
+6313,6787,卡梅尔,Carmel,3
+47772,6187190,北茨城,Kitaibaraki,3
+7288,7787,亚祖城,Yazoo City,3
+67432,6335718,新日高,Shinhidaka,3
+5592,6037,艾达,Ada,3
+4060,4458,"",Kutahya,3
+28946,6052217,甘吉布勒姆,Kanchipuram,3
+10626,12004,曼戈切,Mangochi,3
+81570,6352684,瓜拉吉打,Kuala Kedah,3
+54703,6229675,皮雷诺波利斯,Pirenopolis,3
+67416,6335467,麟蹄,Inje,3
+37638,6130164,韦尔德河畔卢卡斯,Lucas do Rio Verde,3
+20492,602043,釜山,Busan,3
+74352,6344113,纳卡拉,Nacala,3
+53291,6215578,康卡沾,Kaeng Krachan,3
+32094,6059579,朴次茅斯(及周边地区),Portsmouth (and vicinity),3
+66186,6322125,萨莫色雷斯,Samothrace,3
+23135,6025715,乌瓦吉玛,Uwajima,3
+2889,3177,圣何塞,San Jose,3
+1900,2096,萨利马,Salima,3
+41688,6141432,长滨,Nagahama,3
+31256,6057057,韦斯顿(及周边地区),Weston (and vicinity),3
+1849,2037,拿督,Lahad Datu,3
+19481,500226,洛杉矶,Los Angeles,3
+9475,10065,来兴,Tak,3
+50249,6198883,斯特鲁米察,Strumica,3
+73118,6342796,忆良,Okura,3
+15701,180078,拉奈岛,Lanai Island,3
+76277,6346408,太良,Tara,3
+41937,6141778,温菲尔德,Winfield,3
+44636,6152296,驹根,Komagane,3
+44643,6152303,柏崎,Kashiwazaki,3
+28580,6051625,埃格尔小山(区),Eger Hill (area),3
+57441,6258062,永隆,Vinh Long,3
+31924,6059093,伊斯特兰(及周边地区),Eastland (and vicinity),3
+1326,1451,哈默菲斯特,Hammerfest,3
+37813,6130385,克拉古耶瓦茨,Kragujevac,3
+76826,6347129,天川,Tenkawa,3
+28335,6051278,哈利斯科内区,Interior Jalisco,3
+76909,6347225,飞驒,Hida,3
+36668,6127136,阿伊特本哈杜,Ait Benhaddou,3
+38208,6130855,米尔拉夫特,Mirhleft,3
+57315,6257721,海阳,Hai Duong,3
+31091,6056578,"",Chingola,3
+31610,6058184,哈特韦尔(及周边地区),Hartwell (and vicinity),3
+54106,6223934,守山,Moriyama,3
+7382,7885,威尔克斯伯罗,Wilkesboro,3
+1452,1587,威尔明顿(及周边地区),Wilmington (and vicinity),3
+30931,6056197,清迈,Chiang Mai,3
+5073,5506,伊韦尔东 (及邻近地区),Yverdon-les-Bains (and vicinity),3
+1670,1839,科内斯,Kirkenes,3
+58362,6262362,上富良野,Kamifurano,3
+61952,6289399,纳夫塔兰,Naftalan,3
+19416,500148,卡里比布,Karibib,3
+41299,6140861,加拉璜,Karawang,3
+39784,6135612,哈代(及周边地区),Hardy (and vicinity),3
+45134,6156241,叶先图基,Yessentuki,3
+3767,4132,卡尔加里,Calgary,3
+2822,3103,瑟克特夫卡尔,Syktyvkar,3
+44676,6152483,"",Saijo,3
+2264,2496,米里,Miri,3
+75517,6345478,埃吉苏,Ejisu,3
+29937,6054047,雷克斯堡(及周边地区),Rexburg (and vicinity),3
+40288,6138923,约克角(及周边地区),York (and vicinity),3
+5865,6322,阿尔图拉斯,Alturas,3
+37877,6130449,伊瓜拉自治市,Iguala de la Independencia,3
+2183,2403,马格尼托哥尔斯克,Magnitogorsk,3
+32150,6059712,哥伦比亚(及附近地区),Columbia (and vicinity),3
+3086,3404,特塞拉岛,Terceira Island,3
+24687,6046459,霍尔博克斯岛,Isla Holbox,3
+25706,6047642,维达利亚,Vidalia,3
+54798,6230499,韦尔比尔基,Verbilki,3
+15928,180342,弗里尔,Freer,3
+31683,6058381,琼斯维尔(及周边地区),Jonesville (and vicinity),3
+30674,6055525,贝雅 (区),Beja (district),3
+8008,8526,兰喀斯特,Lancaster,3
+1434,1565,基辅,Kiev,3
+34201,6094957,克林顿(及周边地区),Clinton (and vicinity),3
+2529,2788,彭世洛,Phitsanulok,3
+31788,6058725,奥克马尔吉(及周边地区),Okmulgee (and vicinity),3
+52986,6211068,杜古姆,Duqm,3
+5929,6389,"",Banja Luka,3
+76256,6346364,吉打日得拉,Jitra,3
+31528,6057876,斯特拉特福(及周边地区),Stratford (and vicinity),3
+3835,4207,姆祖祖,Mzuzu,3
+3225,3552,特尔纳特,Ternate,3
+20266,601772,塞伦班,Seremban,3
+51165,6201170,茂朱,Muju,3
+9975,10593,横滨,Yokohama,3
+9690,10295,瓦伦泰恩,Valentine,3
+1613,1770,古晋,Kuching,3
+29516,6053265,哈雷-薩勒河-翁施特鲁特河(区),Halle - Saale - Unstrut (region),3
+58763,6265745,加埔,Kapar,3
+7788,8299,戈公,Koh Kong,3
+2023,2226,姆巴拉拉,Mbarara,3
+7849,8360,占贾,Gence,3
+2951,3250,札幌,Sapporo,3
+3601,3958,德莱顿,Dryden,3
+53032,6211809,乌鲁地南,Ulu Tiram,3
+37804,6130376,"",Bihac,3
+29799,6053733,圣米格尔(及周边地区),San Miguel (and vicinity),3
+22677,6023811,雪邦,Sepang,3
+406,413,阿尔汉格尔斯克,Arkhangelsk,3
+29167,6052562,Aitoloakarnania(埃托洛卡纳尼亚),Aitoloakarnania,3
+88428,6360276,翁多,Ondo,3
+65783,6320537,锡基诺斯,Sikinos,3
+32262,6059990,北布兰奇(及周边地区),North Branch (and vicinity),3
+8688,9223,安大略,Ontario,3
+40663,6139777,安纳波利斯罗亚尔(及周边地区),Annapolis Royal (and vicinity),3
+39589,6134448,佩里维尔(及附近地区),Perryville (and vicinity),3
+3250,3578,锡夫里弗福尔斯(及邻近地区),Thief River Falls (and vicinity),3
+6396,6872,狄龙,Dillon,3
+15936,180351,恩德培,Entebbe,3
+10015,10636,萨帕塔,Zapata,3
+70711,6339928,高岛,Takashima,3
+651,690,布鲁塞尔,Brussels,3
+5961,6423,勃生,Bassein,3
+31355,6057368,东北佛蒙特-圣约翰斯百利,Northeastern Vermont - St. Johnsbury,3
+1573,1720,约什卡尔奥拉,Yoshkar-Ola,3
+666,711,民都鲁,Bintulu,3
+2347,2591,"",Huambo,3
+33128,6084622,洛斯罗克斯,Los Roques,2
+14861,179077,伯利恒,Bethlehem,2
+3628,3986,"",Yakutsk,2
+78470,6349137,根室,Nemuro,2
+63501,6304904,北标府,Saraburi,2
+11386,55662,库欣,Cushing,2
+31978,6059258,塔甘罗格,Taganrog,2
+72438,6341992,库萨雷,Qusar,2
+12952,137992,新城,New Town,2
+39693,6135267,哈特山(及周边地区),Mount Hutt (and vicinity),2
+16601,181115,托勒斯,Torres,2
+32337,6060210,增田,Masuda,2
+2811,3089,诗巫,Sibu,2
+3790,4158,三宝颜,Zamboanga,2
+46464,6172642,奇廉,Chillan,2
+86288,6358031,贝尔维阿内和卡维拉克,Belvianes-et-Cavirac,2
+342,344,旭川,Asahikawa,2
+31357,6057383,圣奥尔本斯(及周边地区),St. Albans (and vicinity),2
+57568,6258382,代姆纳特,Demnate,2
+20870,602503,埃克斯茅斯,Exmouth,2
+7485,7992,Fairy 港,Port Fairy,2
+5958,6420,巴斯可,Basco,2
+72849,6342467,坦华,Thanh Hoa,2
+19139,184002,穆勒修,Muleshoe,2
+4085,4483,托卡特,Tokat,2
+29732,6053630,法属圭亚那(全部),French Guiana (all),2
+55307,6235071,北榄坡,Nakhon Sawan,2
+11404,55681,伊德斯,Eads,2
+30527,6055259,提厄拉爱士特拉(区),Tierra Estella (area),2
+31066,6056507,敦刻尔克(及周边地区),Dunkirk (and vicinity),2
+74283,6344038,库阿洛,Cua Lo,2
+30852,6055963,大萨肯达加湖(及周边地区),Great Sacandaga Lake (and vicinity),2
+88559,6360407,山口洋,Singkawang,2
+66499,6323672,富内斯,Funes,2
+47387,6179489,奥奇瓦龙戈,Otjiwarongo,2
+10443,11775,安德罗斯岛,Andros Island,2
+62954,6299679,Wang Nam Khiao (旺南赫尔),Wang Nam Khiao,2
+3228,3556,Tana Toraja(塔纳多拉哈),Tana Toraja,2
+5765,6219,戴恩斯堡,Dyersburg,2
+6087,6554,秦里,Chinle,2
+30157,6054473,汤森港口(及周边地区),Port Townsend (and vicinity),2
+73130,6342808,白老,Shiraoi,2
+57348,6257828,和平,Hoa Binh,2
+74305,6344065,梅库菲,Mecufi,2
+53138,6213057,米利奇维尔 (及邻近地区),Milledgeville (and vicinity),2
+35385,6124522,纳尔瓦-约埃苏,Narva-Joesuu,2
+6167,6638,"",Cherkasy,2
+38343,6131108,Springerville(及周边地区),Springerville (and vicinity),2
+34558,6123126,锡福德(及周边地区),Seaford (and vicinity),2
+50432,6199635,佐渡,Sado,2
+9284,9863,谢珀顿,Shepparton,2
+30554,6055304,斯库拉,Skoura,2
+2730,3002,拉杰沙希,Rajshahi,2
+3756,4121,苏瞭望,Sioux Lookout,2
+56693,6252380,Tatsuno (龙野),Tatsuno,2
+10831,55071,布罗肯鲍(及周边地区),Broken Bow (and vicinity),2
+32225,6059922,罗索(及周边地区),Roseau (and vicinity),2
+62236,6293341,Region Test (特斯特区) (及邻近地区),Region Test (and vicinity),2
+33490,6085069,纳里扬马尔,Naryan Mar,2
+3272,3603,宇部,Ube,2
+42710,6143462,圣塔安那（及周边地区）,Santa Ana (and vicinity),2
+474,492,巴库,Baku,2
+1516,1657,列城,Leh,2
+19892,500669,新雪谷,Niseko,2
+18161,182907,德纳利(及周边地区),Denali (and vicinity),2
+51013,6200909,帕瓦伊,Paoay,2
+8915,9471,普里什蒂纳,Pristina,2
+25057,6046874,拉纳卡,Larnaca,2
+4525,4937,科摩,Como,2
+64020,6308463,瓦林昌拉,Warin Chamrap,2
+20659,602248,瓜拉雪兰莪,Kuala Selangor,2
+25467,6047335,杜勒斯,Durres,2
+48431,6192427,鹿屋,Kanoya,2
+36734,6127418,"",Oualidia,2
+32210,6059879,加里维尔(及周边地区),Caryville (and vicinity),2
+32341,6060218,大馆,Odate,2
+56801,6253465,若狭,Wakasa,2
+22912,6024080,室兰,Muroran,2
+53916,6222398,北大西洋岸卢瓦尔(地区),Northern Loire-Atlantique (area),2
+35713,6125124,磅湛,Kampong Cham,2
+67274,6333696,海南,Haenam,2
+68100,6336660,沙沥,Sa Dec,2
+43632,6144772,埃德雷米特,Edremit,2
+7942,8457,曼斯菲尔德,Mansfield,2
+31834,6058851,奇桑巴,Chisamba,2
+9581,10180,神户,Kobe,2
+81250,6352303,东普里马韦拉,Primavera do Leste,2
+8739,9277,奥西奥拉(及周边地区),Osceola (and vicinity),2
+28937,6052201,鹿特丹北部-荷兰(区),Kop van North-Holland (region),2
+65792,6320550,基莫洛斯,Kimolos,2
+66962,6326885,布迈德斯,Boumerdes,2
+36451,6126616,"",Wadi Rum,2
+1766,1946,古达,Kudat,2
+1648,1812,海塞卜,Khasab,2
+43336,6144372,南卢安瓜国家公园,South Luangwa National Park,2
+29743,6053655,圣费尔南多(及周边地区),San Fernando (and vicinity),2
+10127,10784,孤松镇,Lone Pine,2
+31367,6057410,苏纳庇山(及周边地区),Mount Sunapee (and vicinity),2
+8198,8720,丰盛港,Mersing,2
+62477,6295061,Niaga (尼亚加),Niaga,2
+44648,6152310,可儿,Kani,2
+1688,1858,熊本,Kumamoto,2
+22422,6023443,彼得罗波利斯(及邻近地区),Petropolis (and vicinity),2
+5090,5523,基斯洛沃茨克,Kislovodsk,2
+1299,1422,八丈岛,Hachijo Jima Island,2
+28994,6052275,西马其顿,Western Macedonia,2
+32642,6063189,锡诺普,Sinop,2
+7956,8471,塔穆宁,Tamuning,2
+78438,6349105,津别,Tsubetsu,2
+30691,6055553,Hausruckviertel(区),Hausruckviertel (area),2
+1739,1914,克里斯蒂安桑,Kristiansand,2
+1069,1159,埃拉契迪亚,Errachidia,2
+39360,6133789,克里斯提安,Cristian,2
+50254,6198896,莫罗戈罗,Morogoro,2
+63503,6304906,帕他那尼空,Phatthana Nikhom,2
+62952,6299573,西清迈,Si Chiang Mai,2
+32261,6059989,蒙蒂塞洛(及周边地区),Monticello (and vicinity),2
+45333,6157191,敦索尔,Donsol,2
+22275,6023263,梅迪亚什,Medias,2
+18381,183172,萨蒙,Salmon,2
+18935,183778,比尤莱,Beulah,2
+39643,6134739,科尔维尔(及附近地区),Colville (and vicinity),2
+31662,6058324,艾奥拉(及周边地区),Iola (and vicinity),2
+42562,6143185,奥瓦耶(及邻近地区),Ovalle (and vicinity),2
+60107,6272991,Hennessey (亨尼西),Hennessey,2
+44710,6152686,比莱尼,Praia do Bilene,2
+84429,6356050,唐津市,Dangjin,2
+38149,6130780,新温泉,Shinonsen,2
+35708,6125119,宁平,Ninh Binh,2
+75112,6344994,曼道,Mandau,2
+36193,6126085,"",Galati,2
+52042,6205058,姆茨赫塔,Mtskheta,2
+7852,8363,克里沃罗格,Kryvyi Rih,2
+33124,6084617,马里乌波尔,Mariupol,2
+75764,6345764,由良,Yura,2
+20893,602531,伊斯梅利亚,Ismailia,2
+1201,1308,耶利瓦勒,Gallivare,2
+6196,6667,班克罗夫特,Bancroft,2
+68261,6336874,峇株巴辖,Batu Pahat,2
+64064,6308805,克鲁耶区,Kruje,2
+43737,6144928,维甘,Vigan,2
+55833,6241918,加拉信府,Kalasin,2
+30096,6054334,普里莱普,Prilep,2
+25887,6047853,马萨-卡拉拉(省),Massa Carrara (province),2
+44649,6152311,深谷,Fukaya,2
+37873,6130445,"",Uglich,2
+7807,8318,黑泽尔赫斯特,Hazlehurst,2
+71860,6341321,奥州,Oshu,2
+53325,6215981,丹能莎朵,Damnoen Saduak,2
+783,841,奇帕塔,Chipata,2
+32840,6069943,杰赫拉,Al Jahra,2
+30526,6055258,拉里布拉(区),La Ribera (area),2
+50247,6198881,克鲁塞沃,Krusevo,2
+7024,7513,格罗兹尼,Grozny,2
+62865,6299078,Doem Bang Nang Buat (登邦南磨),Doem Bang Nang Buat,2
+1772,1952,屋久岛,Yakushima,2
+8376,8901,内布拉斯加城,Nebraska City,2
+2511,2769,佩洛塔斯,Pelotas,2
+671,716,布宜诺斯艾利斯,Buenos Aires,2
+22966,6024567,萨非,Safi,2
+30690,6055552,因菲尔特尔(区),Innviertel (area),2
+73122,6342800,身延町,Minobu,2
+57443,6258072,高岭,Cao Lanh,2
+32228,6059939,大急流城 (及邻近地区),Grand Marais (and vicinity),2
+44371,6149810,培拉特,Berat,2
+73116,6342794,安来市,Yasugi,2
+57328,6257742,富寿,Phu Tho,2
+77183,6347657,弥彦村,Yahiko,2
+77075,6347507,甲贺,Koka,2
+41703,6141451,南圣克鲁斯,Santa Cruz do Sul,2
+50434,6199637,卜利达,Blida,2
+42661,6143364,竹古童,Takua Thung,2
+62050,6290495,竹富岛,Taketomi,2
+1210,1319,"",Ghardaia,2
+81275,6352334,明盖恰乌尔,Mingacevir,2
+27161,6049330,林比,Rimbey,2
+11326,55600,巴特纽,Bottineau,2
+57075,6256321,安东市,Andong,2
+53513,6217645,湄达,Mae Tha,2
+33861,6094582,苏博蒂察,Subotica,2
+2038,2242,"",Makhachkala,2
+1874,2068,拉合尔,Lahore,2
+23595,6034381,马特鲁,Marsa Matruh,2
+15789,180196,库克城,Cooke City,2
+45025,6155851,伊纳里,Inari,2
+5608,6054,阿夫顿河,Afton,2
+2527,2786,费城,Philadelphia,2
+40104,6138346,福斯特(及周边地区),Forster (and vicinity),2
+20700,602299,圣马丁岛(法属),St. Martin (French),2
+20167,601577,芽庄,Nha Trang,2
+13929,177941,湖村,Lake Village,2
+936,1008,安齐拉纳纳,Antsiranana,2
+28704,6051847,瑞耶提(省),Rieti (province),2
+2100,2313,莫舍恩,Mosjoen,2
+68001,6336555,磅通,Kampong Thom,2
+4234,4636,比特利斯,Bitlis,2
+29435,6053072,克勒兹(省),Creuse (department),2
+28870,6052092,上瓦尔登 - 下瓦尔登,Obwalden - Nidwalden,2
+8061,8581,卢斯科,Lusk,2
+57300,6257692,谅山,Lang Son,2
+2232,2458,木尔坦,Multan,2
+41659,6141387,Redwood Falls(雷德伍德福尔斯及邻近地区),Redwood Falls (and vicinity),2
+4233,4635,费勒姆,Fareham,2
+1994,2196,钦奈,Chennai,2
+23366,6034106,马林维尔,Marienville,2
+9956,10573,福雷斯特维尔,Forestville,2
+32260,6059988,米拉卡(及周边地区),Milaca (and vicinity),2
+25016,6046827,奥贝奈,Obernai,2
+29084,6052384,泰利卡拉(区),Trikala (region),2
+323,323,阿莱恩斯,Alliance,2
+56794,6253456,天理,Tenri,2
+19145,184008,瑞富奇欧,Refugio,2
+29931,6054032,华莱士(及周边地区),Wallace (and vicinity),2
+69824,6338833,班考尧,Khao Yoi,2
+1677,1846,卡利博,Kalibo,2
+77015,6347431,北斗市,Hokuto,2
+44972,6155499,藤枝,Fujieda,2
+38577,6131437,刘易斯顿(及周边地区),Lewiston (and vicinity),2
+32264,6059992,沃科尼亚(及周边地区),Waconia (and vicinity),2
+63203,6302727,Tha Chang (塔昌),Tha Chang,2
+77388,6347935,大船渡,Ofunato,2
+79365,6350145,拉斯特里萨斯,Las Terrazas,2
+976,1052,第波罗,Dipolog,2
+44637,6152297,挂川,Kakegawa,2
+265,258,阿那巴,Anapa,2
+44675,6152482,新居滨,Niihama,2
+40568,6139558,"",Gongju,2
+60396,6275961,雅迪萨里,Ngadisari,2
+52485,6207122,柳川市,Yanagawa,2
+44678,6152485,白河,Shirakawa,2
+31359,6057392,米德尔伯里-沃伦(及周边地区),Middlebury - Warren (and vicinity),2
+63274,6303258,希利特拉,Xilitla,2
+64350,6310843,Dombay (顿巴伊),Dombay,2
+55860,6242022,猜也奔府,Chaiyaphum,2
+44653,6152315,本庄,Honjo,2
+547,573,包纳加尔,Bhavnagar,2
+1176,1276,关塔纳摩,Guantanamo,2
+16867,181422,Wautoma(沃托马及邻近地区),Wautoma (and vicinity),2
+23750,6034584,西瑞狄,Shirdi,2
+56694,6252398,养父,Yabu,2
+86230,6357970,巴通猜,Pak Thong Chai,2
+6606,7088,克梅雷尔,Kemmerer,2
+2936,3230,色军府,Sakon Nakhon,2
+41416,6141047,Pembina Valley(佩姆比纳瓦雷及邻近地区),Pembina Valley (and vicinity),2
+2260,2492,密支那,Myitkyina,2
+3071,3386,滕南特克里克,Tennant Creek,2
+30770,6055732,巴德加施泰因-蓬高(区),Bad Gastein - Pongau (district),2
+65289,6315960,扎维多沃,Zavidovo,2
+8323,8848,莫吉廖夫,Mogilev,2
+76421,6346592,吉打嶂伦,Changlun,2
+57120,6256779,南奔府,Lamphun,2
+78826,6349558,安顺,Teluk Intan,2
+73137,6342815,伊达,Date,2
+520,542,贝鲁特,Beirut,2
+31463,6057711,纳多尔,Nador,2
+30165,6054491,哥伦比亚河谷,Columbia River Gorge,2
+2412,2659,歧,Oki,2
+10123,10775,约翰岱,John Day,2
+59610,6271332,巴图,Batu,2
+1414,1545,海德拉巴,Hyderabad,2
+1430,1561,爱达荷瀑布市(及周边地区),Idaho Falls (and vicinity),2
+1967,2166,卢武克,Luwuk,2
+970,1045,多多马,Dodoma,2
+72959,6342593,今治,Imabari,2
+5976,6439,班伯利,Bunbury,2
+2815,3093,州立学院城,State College,2
+5944,6405,布雷斯特,Brest,2
+7766,8277,库尔纳,Khulna,2
+66913,6326073,桥本,Hashimoto,2
+33533,6085123,厄斯克,Oskemen,2
+6411,6887,丹尼森(及周边地区),Denison (and vicinity),2
+74248,6344000,吉诺卡斯特,Gjirokaster,2
+39740,6135534,克林顿(及周边地区),Clinton (and vicinity),2
+58737,6265448,南丹,Nantan,2
+38341,6131106,乌约,Uyo,2
+40439,6139345,乌尤尼,Uyuni,2
+32144,6059694,马什菲尔德(及周边地区),Marshfield (and vicinity),2
+44127,6146551,岩国,Iwakuni,2
+72451,6342005,塞普,Cepu,2
+31442,6057631,新霍普(及周边地区),New Hope (and vicinity),2
+2236,2462,卡岩塔,Kayenta,2
+35652,6125037,内乌姆,Neum,2
+30772,6055734,泰嫩高(区),Tennengau (district),2
+72447,6342001,博塔,Bota,2
+2922,3215,萨克拉曼多,Sacramento,2
+9688,10293,维捷布斯克,Vitebsk,2
+3408,3750,利辛加,Lichinga,2
+313,313,阿格拉,Agra,2
+64972,6314801,Kazbegi (卡兹贝吉),Kazbegi,2
+32084,6059513,黎巴嫩(及周边地区),Lebanon (and vicinity),2
+10947,55190,谢尔比(及周边地区),Shelby (and vicinity),2
+32067,6059489,威廉斯敦(及周边地区),Williamstown (and vicinity),2
+32331,6060198,花卷,Hanamaki,2
+35868,6125476,迈哈米德,Mhamid,2
+78245,6348906,潮来市,Itako,2
+47560,6182197,福知山,Fukuchiyama,2
+73124,6342802,盘梯町,Bandai,2
+37408,6129743,巴利(及周边地区),Pali (and vicinity),2
+3365,3706,达克拉（西撒哈拉）,Dakhla (Western Sahara),2
+79206,6349976,卡科尔,Cacoal,2
+28485,6051491,阿尔卑斯山丘陵地带(区),Alpine Foothills (area),2
+1108,1204,费尔干纳,Fergana,2
+9025,9583,乌尔姆,Ulm,2
+3570,3923,道芬,Dauphin,2
+84443,6356064,昌宁郡,Changnyeong,2
+49996,6198203,斯库台,Shkoder,2
+7798,8309,霍克斯伯里,Hawkesbury,2
+8935,9492,普拉特,Pratt,2
+1757,1937,吉打邦,Ketapang,2
+32572,6062911,乌多姆塞,Oudomxay,2
+76158,6346226,室户,Muroto,2
+52972,6210708,米娜克拉韦罗 (及邻近地区),Mina Clavero (and vicinity),2
+56669,6252000,朝来,Asago,2
+22986,6024952,罗勇,Rayong,2
+43559,6144667,滨田,Hamada,2
+8938,9495,千叶,Chiba,2
+6092,6559,克莱顿,Clayton,2
+44070,6146306,筑紫野,Chikushino,2
+56350,6247843,Toranagallu (托拉纳加鲁),Toranagallu,2
+58767,6265762,万津,Banting,2
+84427,6356048,瑞山市,Seosan,2
+27190,6049369,多米尼加,Dominica (all),2
+5555,6000,阿莱恩斯,Alliance,2
+44750,6153250,拜特龙,Batroun,2
+66874,6325523,辛塞莱霍,Sincelejo,2
+77433,6347983,仁贺保,Nikaho,2
+41660,6141389,蒙得维的亚(及邻近地区),Montevideo (and vicinity),2
+36889,6128232,阿尔莫拉 (及其周边地区),Almora (and vicinity),2
+7439,7945,贝尔高姆,Belgaum,2
+38270,6130971,锡达河水库(及周边地区),Cedar Creek Reservoir (and vicinity),2
+30998,6056334,幽谷国家娱乐区,Glen Canyon National Recreation Area,2
+58724,6265342,三道,Tam Dao,2
+44682,6152489,常总,Joso,2
+40632,6139727,纳格伯蒂讷姆(区),Nagapattinam (district),1
+18384,183176,毕尔兹镇,Beardstown,1
+77411,6347958,岩泉,Iwaizumi,1
+10028,10650,阿伯丁,Aberdeen,1
+53117,6212749,萨贝萨 (及邻近地区),Sabetha (and vicinity),1
+30073,6054308,泰塔温,Tataouine,1
+2883,3169,辛菲罗波尔,Simferopol,1
+5531,5976,阿尔伯马尔,Albemarle,1
+25849,6047812,老街,Lao Cai,1
+59099,6267989,Mai Chau (迈州),Mai Chau,1
+41340,6140932,"",Banyuwangi,1
+29945,6054063,奥巴马,Obama,1
+19484,500229,版诺斯,Banos,1
+24746,6046519,展玉,Cianjur,1
+8039,8559,劳伦斯维尔,Lawrenceville,1
+31369,6057412,银湖(及周边地区),Silver Lake (and vicinity),1
+9497,10087,托诺帕,Tonopah,1
+52273,6205892,马辛基,Massingir,1
+42758,6143534,利纳雷斯,Linares,1
+64116,6309044,万烹,Ban Phaeng,1
+2738,3010,里米尼,Rimini,1
+63293,6303358,阿尔马维尔,Armavir,1
+37474,6129853,"",Radom,1
+331,332,阿蒂乌,Atiu,1
+38424,6131223,"",Huaraz,1
+1492,1633,伊斯兰堡,Islamabad,1
+1283,1405,瓜达尔,Gwadar,1
+36683,6127174,塔兰吉雷国家公园,Tarangire National Park,1
+73027,6342701,马查利拉,Machalilla,1
+22276,6023264,阿巴由雅,Alba Iulia,1
+73144,6342822,长瀞町,Nagatoro,1
+63946,6307995,甲通庞,Krathum Baen,1
+1269,1390,古斯塔夫,Gustavus,1
+2687,2956,里奥阿查,Riohacha,1
+30983,6056288,上越,Joetsu,1
+76159,6346227,海阳,Kaiyo,1
+68420,6337053,丰根村,Toyone,1
+11429,55707,佛戴斯,Fordyce,1
+8604,9135,"",Oamaru,1
+30523,6055255,比利牛斯(纳瓦拉),Pyrenees (Navarra),1
+33673,6085320,尤福拉,Eufaula,1
+30478,6055141,不丹(全部),Bhutan (all),1
+83051,6354433,昆福达,Al Qunfudhah,1
+68109,6336671,韦拉沃尔,Veraval,1
+32069,6059491,拉皮德城(及周边地区),Rapid City (and vicinity),1
+81265,6352318,特雷齐蒂利亚斯,Treze Tilias,1
+67087,6330723,阿格拉桑,Aglasun,1
+44627,6152287,松阪,Matsusaka,1
+13911,177922,千岁,Chitose,1
+10048,10671,布兰森,Branson,1
+36409,6126520,帕尔蒂多海岸,La Costa Partido,1
+30964,6056248,科科拉(区),Kokkola (region),1
+28399,6051374,塞拉瓦莱斯克里维亚,Serravalle Scrivia,1
+51615,6203073,温加兰,Ungaran,1
+1828,2014,拉伯克,Lubbock,1
+2230,2456,马鲁迪,Marudi,1
+40975,6140303,Ystad(及周边地区),Ystad (and vicinity),1
+36971,6128597,"",Simrishamn (and vicinity),1
+1904,2100,蓝佩杜萨,Lampedusa,1
+37901,6130475,"",Stepanakert,1
+3366,3707,文尼察,Vinnytsya,1
+3624,3982,谢弗维尔,Schefferville,1
+63849,6307457,Ban Phai (班派),Ban Phai,1
+47204,6178429,Fint (芬特),Fint,1
+83208,6354597,卢什涅,Lushnje,1
+54202,6224764,诗都阿佐,Sidoarjo,1
+74704,6344520,休钦斯克,Schuchinsk,1
+5941,6402,别府,Beppu,1
+3402,3744,维沙卡帕特南,Visakhapatnam,1
+78450,6349117,名寄,Nayoro,1
+11481,55762,哈得孙,Hudson,1
+60473,6276591,布拉芙,Bluff,1
+3129,3451,丹戎潘丹,Tanjung Pandan,1
+65982,6321416,Karangan (加拉岸),Karangan,1
+4620,5038,弗里德里希斯多夫,Friedrichsdorf,1
+11523,55804,卢斯代尔,Lucedale,1
+68421,6337054,泉北,Senboku,1
+2727,2998,里约热内卢,Rio de Janeiro,1
+84446,6356067,固城,Goseong,1
+13572,177434,格兰德卡什,Grande Cache,1
+68634,6337319,座间味,Zamami,1
+64145,6309311,Pak Phayun (帕克帕云),Pak Phayun,1
+30786,6055795,奥尼昂塔(及周边地区),Oneonta (and vicinity),1
+51201,6201299,和顺,Hwasun,1
+43908,6145202,哈尔潘德塞拉 (及邻近地区),Jalpan de Serra (and vicinity),1
+25506,6047380,纽厄尔,Newell,1
+83264,6354667,科帕奥尼克,Kopaonik,1
+60608,6277913,卡塔洛,Catalao,1
+44659,6152325,多治见,Tajimi,1
+17538,182198,巴纳韦,Banaue,1
+388,394,安科纳,Ancona,1
+27478,6049798,de Bult,De Bult,1
+54843,6230880,斯雷姆斯基卡尔洛夫奇,Sremski Karlovci,1
+73103,6342781,金山町,Kaneyama,1
+52483,6207119,八女市,Yame,1
+83373,6354832,"",Nosy Komba,1
+9358,9939,斯特劳德,Stroud,1
+63717,6306632,欧文堡,Fort Irwin,1
+58471,6263559,Pirassununga (皮拉苏努恩加),Pirassununga,1
+24861,6046657,汉特－曼西斯克,Khanty-Mansiysk,1
+76823,6347126,串本,Kushimoto,1
+12937,136957,诺伍,Nauvoo,1
+55864,6242026,大马士革,Damascus,1
+78442,6349109,标津,Shibetsu,1
+68437,6337073,葛城市,Katsuragi (Wakayama),1
+15958,180377,西南岩地,South West Rocks,1
+2863,3146,中标津,Nakashibetsu,1
+75867,6345892,毛尔维巴扎尔,Moulvibazar,1
+33685,6085332,西罗亚温泉,West Siloam Springs,1
+28869,6052091,乌里,Uri,1
+88305,6360153,阿库雷,Akure,1
+2387,2633,带广,Obihiro,1
+68217,6336806,巴莱尔,Baler,1
+26851,6048916,北上,Kitakami,1
+2163,2380,毛淡棉,Maulmyine,1
+42132,6142344,埃尔比库,Elbiku,1
+7918,8432,蒂顿瀑布,Tinton Falls,1
+29526,6053283,威斯特林(区),Westerwald (region),1
+9789,10398,弗朗兹约瑟夫冰川,Franz Josef Glacier,1
+70222,6339285,巴林古普,Balingup,1
+74595,6344398,海岸角,Cape Coast,1
+64246,6309968,陶马鲁努伊,Taumarunui,1
+52312,6206113,牌严,Toride,1
+3497,3843,西怀厄朗,West Wyalong,1
+2762,3034,罗德里格斯岛,Rodrigues Island,1
+43596,6144717,Goris (戈里斯),Goris,1
+87766,6359581,阿多埃基蒂,Ado Ekiti,1
+13766,177747,托林顿,Torrington,1
+73112,6342790,下条,Shimojo,1
+8393,8918,布基庭基,Bukittinggi,1
+44668,6152360,上野原,Uenohara,1
+40457,6139367,塞尔比(及周边地区),Selby (and vicinity),1
+31279,6057103,刘易斯堡(及周边地区),Lewisburg (and vicinity),1
+2123,2338,马诺夸里,Manokwari,1
+66127,6321967,巴尔滕,Bartin,1
+62867,6299114,乌泰他尼,Uthai,1
+76167,6346235,赞岐,Sanuki,1
+9548,10144,杜申,Duchesne,1
+31206,6056902,哈里森堡(及周边地区),Harrisonburg (and vicinity),1
+33781,6085446,波托西,Potosi,1
+5918,6378,布里奇波特,Bridgeport,1
+8757,9299,金泽,Kanazawa,1
+63739,6306798,叶伊斯克,Yeysk,1
+12593,112616,哈丁,Hardin,1
+31315,6057200,托林顿(及周边地区),Torrington (and vicinity),1
+8742,9280,奥佐纳,Ozona,1
+12796,127796,路易莎,Louisa,1
+84406,6356027,清原郡,Cheongwon,1
+9169,9740,里夫涅,Rivne,1
+2548,2807,堪察加彼得罗巴甫洛夫斯克,Petropavlovsk-Kamchatsky,1
+3678,4038,鲁珀特王子港,Prince Rupert,1
+2598,2858,波兹南,Poznan,1
+9586,10186,苏梅,Sumy,1
+4827,5255,威斯巴登,Wiesbaden,1
+75027,6344902,淡汶安,Tambunan,1
+55883,6242309,马尔马拉海,Marmara,1
+1195,1301,格伦德芝克,Gelendzhik,1
+58858,6266191,任抹,Jember,1
+36313,6126327,潘恰玛,Pachmarhi,1
+77171,6347644,南牧村,Minamimaki,1
+12233,87897,森特尼尔,Centennial,1
+57352,6257837,河南,Ha Nam,1
+992,1069,都柏林,Dublin,1
+2891,3179,圣胡安,San Juan,1
+30711,6055587,西施蒂里亚(区),West Styria (area),1
+6139,6609,甘米银岛,Camiguin,1
+28348,6051295,博恩霍尔姆(县),Bornholm (county),1
+67145,6332322,潭阳,Damyang,1
+68092,6336651,尼亚斯,Nias,1
+5568,6013,阿伯塔巴德,Abbottabad,1
+20452,601991,辛内亚,Sinaia,1
+11347,55622,卡林顿,Carrington,1
+63781,6307037,泷上,Takinoue,1
+12805,128541,莱姆,Lyme,1
+2396,2643,"",San Antonio Oeste,1
+69534,6338472,克拉皮纳,Krapina,1
+31804,6058765,海地城(及周边地区),Hayti (and vicinity),1
+81733,6352888,德累斯顿,Dresden,1
+37635,6130161,"",Ramnicu Valcea,1
+74422,6344194,切腾戈,Chitengo,1
+37892,6130466,"",Marijampole,1
+67268,6333674,宁越,Yeongwol,1
+18586,183401,巴地特,Baudette,1
+5986,6449,拉格比,Rugby,1
+32571,6062899,迪石,Rach Gia,1
+81380,6352452,北春,Pak Chom,1
+1517,1658,马杜赖,Madurai,1
+78311,6348973,山阳小野田市,Sanyoonoda,1
+73108,6342786,袋井市,Fukuroi,1
+2747,3019,雷恩,Rennes,1
+37634,6130160,"",Piatra Neamt,1
+1771,1951,吉隆坡,Kuala Lumpur,1
+25796,6047752,哈桑,Hassan,1
+1363,1490,海恩斯,Haines,1
+63811,6307244,Lan Saka (兰沙加),Lan Saka,1
+35759,6125182,帕哈干,Pahalgam,1
+53328,6215989,"",Nong Ya Plong,1
+21054,602732,"",El Tigre,1
+72710,6342298,马拉利,Mulwala,1
+3070,3384,坦波夫,Tambov,1
+3350,3691,别德马,Viedma,1
+9337,9917,山萝,Son La,1
+37584,6130070,塔尔马,Tarma,1
+1267,1387,格林斯博罗,Greensboro,1
+57450,6258087,薄辽,Bac Lieu,1
+862,927,查尔维尔,Charleville,1
+5842,6299,罗彻斯特,Rochester,1
+681,730,博阿维斯塔,Boa Vista,1
+1938,2135,莱罗斯岛,Leros Island,1
+2408,2655,那霸,Naha,1
+5526,5971,尼特拉,Nitra,1
+9809,10419,沃纳姆堡,Warrnambool,1
+9782,10391,劳雷峰,Mount Laurel,1
+78291,6348953,哲帕拉,Jepara,1
+40253,6138874,利斯莫尔(及周边地区),Lismore (and vicinity),1
+32783,6069856,科拉欣,Kolasin,1
+41264,6140792,"",Crisan,1
+55753,6240704,科亚,Koya,1
+40956,6140256,锡亚尔科特,Sialkot,1
+3143,3466,图利洛奇,Tuli Lodge,1
+9719,10324,克拉伦维尔,Clarenville,1
+5660,6109,亚历山德拉,Alexandra,1
+559,587,比拉德纳格尔,Biratnagar,1
+51945,6204640,佩列斯拉夫尔札列斯基,Pereslavl-Zalesskiy,1
+77188,6347665,忍野村,Oshino,1
+38145,6130775,赤穗,Ako,1
+31580,6058112,艾肯(及周边地区),Aiken (and vicinity),1
+8690,9225,昂斯洛,Onslow,1
+6093,6560,卡里布,Caribou,1
+22310,6023299,皮罗特,Pirot,1
+52126,6205398,卡拉克尔,Karakol,1
+71327,6340672,博利纳,Bolina,1
+87106,6358872,帕兰,Phran,1
+30367,6054925,马恩河畔布里,Bry-sur-Marne,1
+24005,6034918,克拉茨卡尼,Clatskanie,1
+46412,6171245,高敞,Gochang,1
+31295,6057156,南县(地区),South County (area),1
+1980,2180,琅南塔,Luang Namtha,1
+68428,6337061,江府,Kofu,1
+24991,6046797,南帕德里岛(及周边地区),South Padre Island (and vicinity),1
+58654,6265001,Yea (耶伊),Yea,1
+3298,3632,乌兰巴托,Ulaanbaatar,1
+78292,6348954,胎内市,Tainai,1
+64840,6314205,乌苏里斯克,Ussuriysk,1
+67159,6332685,福安,Phuc Yen,1
+84413,6356034,英阳郡,Yeongyang,1
+3230,3558,台东,Taitung,1
+40569,6139559,扶余,Buyeo,1
+851,913,里瓦达维亚海军准将城,Comodoro Rivadavia,1
+29601,6053416,福格尔斯贝格高原(区),Vogelsberg (region),1
+417,425,奄美,Amami,1
+80485,6351454,南新阿尔沃拉达,Nova Alvorada do Sul,1
+72425,6341975,沙拉笛加,Salatiga,1
+1977,2177,路易斯敦,Lewistown,1
+37593,6130085,埃斯皮里图桑托,Espiritu Santo,1
+73453,6343136,圣安杰洛穆克萨阿罗,Al Hamra,1
+73104,6342782,浦河,Urakawa,1
+74548,6344328,纽黑姆,Geisei,1
+58365,6262382,弗洛伦西亚,Florencia,1
+59983,6272387,舒瓦西勒鲁瓦,Choisy-le-Roi,1
+39803,6135660,山,Jahorina,1
+83048,6354430,阿什沙法,Ash Shafa,1
+85818,6357517,恩特威斯尔,Entwistle,1
+58399,6262593,Murrumbateman (穆鲁巴特曼),Murrumbateman,1
+44117,6146477,平冢,Hiratsuka,1
+39429,6134180,科布拉姆(及附近地区),Cobram (and vicinity),1
+42419,6142982,上川,Kamikawa,1
+8720,9257,诺曼,Norman,1
+4242,4644,"",Bolu,1
+77379,6347922,下乡,Shimogo,1
+9452,10042,塔尔迪库尔干,Taldykorgan,1
+16249,180692,古河,Koga,1
+16306,180777,沙仑温泉,Sharon Springs,1
+67564,6336018,新富,Tan Phu,1
+75363,6345292,图隆阿贡,Tulungagung,1
+14411,178508,圣马特乌斯,Sao Mateus,1
+1342,1468,霍尼亚拉,Honiara,1
+45263,6156878,圣尼古拉斯,San Nicolas,1
+36186,6126078,双溪比力,Sungai Pelek,1
+46301,6169321,"",Sorriso,1
+44632,6152292,御前崎,Omaezaki,1
+3046,3355,什切青,Szczecin,1
+30147,6054458,河内,Hanoi,1
+44022,6145687,班兰,Ban Laem,1
+79430,6350220,鸿巢市,Konosu,1
+28286,6051196,采西斯,Cesis,1
+624,662,博罗卢拉,Borroloola,1
+1464,1601,国际瀑布,International Falls,1
+64260,6310113,乌浦奔披柿,Uthumphon Phisai,1
+10320,11379,舍农索,Chenonceaux,1
+18645,183465,里普雷,Ripley,1
+11508,55789,兰登,Langdon,1
+8453,8979,莫斯波因特,Moss Point,1
+81947,6353107,东枝县,Taunggyi,1
+1465,1602,因斯布鲁克,Innsbruck,1
+41866,6141675,太白,Taebaek,1
+72952,6342586,卡索斯,Kasos,1
+548,574,巴哈瓦尔布尔,Bahawalpur,1
+2672,2938,马拉喀什,Marrakech,1
+86997,6358758,德米尔卡皮亚,Demir Kapija,1
+47206,6178433,盖尔西夫,Guercif,1
+9177,9748,Shawano(肖诺及邻近地区),Shawano (and vicinity),1
+36251,6126223,艾瓦 (及其周边地区),Alwar (and vicinity),1
+54163,6224245,塔姆贝里里,Tombariri,1
+49985,6198186,披迈,Phimai,1
+63657,6306072,Chaloem Phra Kiat (汕仑芭杰县),Chaloem Phra Kiat,1
+45299,6157054,伊斯特拉,Istra,1
+38575,6131434,拉姆福德(及附近地区),Rumford (and vicinity),1
+2187,2409,默克莱,Mek'ele,1
+45166,6156399,波别,Poipet,1
+85482,6357162,安平町,Abira,1
+611,646,巴里纳斯,Barinas,1
+1265,1385,格拉茨,Graz,1
+1782,1963,基洛夫斯克,Kirovsk,1
+16489,180979,罗伊特 (与邻近地区),Reutte (and vicinity),1
+791,850,济州,Jeju,1
+48210,6191569,瓜隆岛,Koh Rong,1
+28734,6051898,Yarra 谷,Yarra Valley,1
+47175,6178224,汤坪,Yutsubo,1
+40473,6139413,"",Minoh,1
+37929,6130507,盖布泽,Gebze,1
+40327,6139014,莱克内斯(及周边地区),Leknes (and vicinity),1
+656,696,巴塔,Bata,1
+8372,8897,尼亚加拉瀑布,Niagara Falls,1
+29411,6053011,多米尼加尔(及周边地区),Dominical (and vicinity),1
+44684,6152491,结城,Yuki,1
+14932,179164,太田,Ota,1
+44696,6152541,中津,Nakatsu,1
+66673,6324309,埃斯特利,Esteli,1
+1801,1983,的黎波里,Tripoli,1
+43987,6145361,卡基纳达,Kakinada,1
+73099,6342777,关川村,Sekikawa,1
+57311,6257716,北江,Bac Giang,1
+44403,6150210,太宰府,Dazaifu,1
+59140,6268245,伊格德布里,Igatpuri,1
+49534,6197144,温德恩,Vindeln,1
+19266,184144,里帕布利克,Republic,1
+56688,6252318,加西,Kasai,1
+77309,6347834,中富良野,Nakafurano,1
+4423,4831,拉昂,Laon,1
+31457,6057694,杰克逊(及周边地区),Jackson (and vicinity),1
+19366,184252,贝特桥,Beitbridge,1
+32374,6060273,布达巴地,Puttaparthi,1
+63164,6301861,沙缴府,Sa Kaeo,1
+53626,6219425,"",Cai Be,1
+32771,6069839,阿彻霍克,Achterhoek,1
+7250,7747,霍桑,Hawthorne,1
+7869,8381,洛克波特,Lockport,1
+2789,3064,拉希姆亚尔汗,Rahim Yar Khan,1
+26198,6048221,崎玉,Saitama,1
+8715,9251,奥什,Osh,1
+75802,6345815,姶良,Aira,1
+3147,3471,塔林,Tallinn,1
+30757,6055707,"",Kop van Overijssel (region),1
+37570,6130048,巴雷里尼亚斯,Barreirinhas,1
+7846,8357,库塔伊西,Kutaisi,1
+1935,2131,拉雷多,Laredo,1
+16176,180609,卡西诺,Cassino,1
+9114,9683,利尻,Rishiri,1
+1536,1678,焦特布尔,Jodhpur,1
+78246,6348907,龙崎市,Ryugasaki,1
+57267,6257635,莱州,Lai Chau,1
+44727,6152890,胡日尔,Khuzhir,1
+61931,6289354,Wray (雷),Wray,1
+1489,1629,拉里奥哈,La Rioja,1
+76721,6346988,阿基斯蒙,Aquismon,1
+41277,6140821,"",Caviahue,1
+43597,6144718,锡斯洛克,Cisolok,1
+77441,6347991,柳津,Yanaizu,1
+18805,183642,贝斯佩奇,Bethpage,1
+37920,6130498,包牟尼达地斯,Boumalne Dades,1
+17135,181719,诺瑟姆,Northam,1
+63035,6300396,Sikhio (锡吉赫),Sikhio,1
+2311,2548,"",Nefteyugansk,1
+57307,6257703,太原,Thai Nguyen,1
+21614,6003752,拜尔斯,Byers,1
+66976,6327138,乌穆阿拉马,Umuarama,1
+9676,10281,"",Volgodonsk,1
+25970,6047954,佩里顿,Perryton,1
+3165,3489,塔姆沃思,Tamworth,1
+44666,6152344,新庄,Shinjo,1
+63851,6307470,Bang Pla Ma (邦帕拉马),Bang Pla Ma,1
+26963,6049034,阿克托贝,Aktobe,1
+55084,6232774,班贾尔巴鲁,Banjarbaru,1
+47780,6187243,贝尔德朗,Francisco Beltrao,1
+2370,2616,新乌连戈伊,Novy Urengoy,1
+81242,6352295,舍基,Sheki,1
+76953,6347273,川崎 （福冈）,Kawasaki (Fukuoka),1
+998,1076,代韦斯莱克(及周边地区),Devils Lake (and vicinity),1
+76809,6347108,阿尼斯坎,Anesakhan,1
+63791,6307066,Sichon (锡春),Sichon,1
+389,395,青森,Aomori,1
+62442,6294692,迪亚曼蒂纳,Diamantina,1
+2656,2920,波来古,Pleiku,1
+18652,183472,卡斯维尔,Cassville,1
+55297,6235023,猜纳府,Chai Nat,1
+19141,184004,"",Palacios,1
+13375,168251,阿林,Ullin,1
+57512,6258267,Asgaour (阿斯加尔),Asgaour,1
+56773,6253054,槟椥,Ben Tre,1
+31671,6058340,康科迪亚(及周边地区),Concordia (and vicinity),1
+6589,7070,圣海伦斯,St. Helens,1
+33842,6091074,大本德国家公园,Big Bend National Park,1
+75484,6345438,杨州,Yangju,1
+48710,6193554,科萨米尔,Ksamil,1
+15933,180348,安齐拉贝,Antsirabe,1
+7155,7649,汉密尔顿,Hamilton,1
+60461,6276472,普拉努拉,Planura,1
+33555,6085156,泰尔梅兹,Termez,1
+59056,6267414,库巴,Quba,1
+84418,6356039,永川市,Yeongcheon,1
+2382,2628,奥兰治,Orange,1
+4155,4554,乔鲁姆,Corum,1
+38574,6131432,布里奇顿(及附近地区),Bridgton (and vicinity),1
+2771,3044,鲁滕,Ruteng,1
+67082,6330718,谢宾卡拉希萨尔,Sebinkarahisar,1
+86532,6358277,沃胡夫,Lochow,1
+28343,6051286,Storstrom(县),Storstrom (county),1
+52974,6210727,Calamuchita Valley (卡拉穆奇塔山谷),Calamuchita Valley,1
+52589,6207415,莱克纳特,Lekhnath,1
+645,683,巴基西梅托,Barquisimeto,1
+721,774,卡萨布兰卡,Casablanca,1
+61395,6285280,Parauapebas (帕卢亚佩巴斯),Parauapebas,1
+8257,8780,蒙恩维优,Mountain View,1
+63865,6307576,Wang Thong (旺通),Wang Thong,1
+73490,6343181,新塞勒姆,New Salem,1
+41854,6141656,Song Cau (宋科),Song Cau,1
+4019,4416,"",Zonguldak,1
+58976,6266648,Yankalilla (延卡里拉),Yankalilla,1
+87620,6359425,圣哈辛托,San Jacinto,1
+20284,601793,唐纳森维尔,Donaldsonville,1
+17629,182299,卡尔维亚,Calvia,1
+304,304,"",Alta Floresta,1
+3189,3514,托博尔斯克,Tobolsk,1
+84035,6355627,迪卡,Digha,1
+4776,5202,奇德尔,Cheadle,1
+545,571,巴拉特普尔,Bharatpur,1
+77385,6347928,大鳄,Owani,1
+9898,10510,麦迪逊,Madison,1
+2287,2521,那拉提瓦,Narathiwat,1
+12856,132151,梅多拉,Medora,1
+78437,6349103,康尼奥特莱克,Conneaut Lake,1
+66540,6323736,坎德拉,Kandira,1
+82409,6353596,艾伦波罗,Ellenboro,1
+28851,6052073,斯佩特塞斯岛,Spetses Island,1
+50778,6200484,贾纳克布尔,Janakpur,1
+2907,3198,苏库尔,Sukkur,1
+2104,2318,马任加,Mahajanga,1
+275,270,巴玛加,Bamaga,1
+10620,11995,路易斯维尔,Louisville,1
+40806,6139983,穆里格凯奥尔,Murighiol,1
+31181,6056820,萨塞克斯县,Sussex County,1
+11053,55299,艾信,Eching,1
+44672,6152376,伊那,Ina,1
+13818,177815,圣斯皮里图斯,Sancti Spiritus,1
+82039,6353206,米特里-莫里,Mitry-Mory,1
+44622,6152237,万挠,Rawang,1
+87850,6359677,布鲁库,Buruku,1
+62923,6299423,巴披,Pak Phli,1
+25738,6047676,楠塔基特岛,Nantucket Island,1
+19256,184133,格拉西尔,Glacier,1
+78212,6348872,吉隆海滩,Playa Giron,1
+10664,12059,圣克拉拉,Santa Clara,1
+56487,6250102,筱山,Sasayama,1
+11784,56115,凯特勒麦市,Kettleman City,1
+10962,55205,托科阿,Toccoa,1
+40470,6139407,巴德阿克塞(及周边地区),Bad Axe (and vicinity),1
+75464,6345402,华川,Hwacheon,1
+58066,6260883,塞塔特,Settat,1
+7768,8279,哈伦,Harlan,1
+55823,6241843,安纳乍能府,Amnat Charoen,1
+2138,2353,蒙罗维亚,Monrovia,1
+4927,5357,瓦赫宁恩,Wageningen,1
+44598,6151925,弗赖堡,Fraiburgo,1
+637,675,"",Blagoveshchensk,1
+428,438,雅典,Athens,1
+78337,6349002,奥出云町,Okuizumo,1
+48615,6193063,埃尔克霍恩市,Elkhorn City,1
+52365,6206481,"",Mbale,1
+61071,6282466,森伯里,Sunbury,1
+43754,6144947,藤泽,Fujisawa,1
+41887,6141707,蔚珍,Uljin,1
+3513,3860,马亨德拉,Mahendranagar,1
+51931,6204601,米内鲁斯,Mineiros,1
+53100,6212647,比耶利纳,Bijeljina,1
+44690,6152522,横手,Yokote,1
+5968,6431,伯萨,Bursa,1
+9233,9809,南角,South Point,1
+5889,6348,巴格达,Bagdad,1
+1449,1584,伊尔库次克,Irkutsk,1
+32609,6063064,卡利姆诺斯,Kalymnos Island,1
+61583,6286945,圣克鲁斯韦拉帕斯,Santa Cruz Verapaz,1
+5612,6059,九龙,Kowloon,1
+1083,1174,阿尤恩（西撒哈拉）,El Aaiun (Western Sahara),1
+89624,6361525,乔贝国家公园,Chobe National Park,1
+38141,6130761,加耶(及附近地区),Gaya (and vicinity),1
+53259,6215051,"",Lazaropole,1
+46845,6176628,奇奇卡斯特南戈,Chichicastenango,1
+62598,6295981,加拉尼温斯,Garanhuns,1
+63918,6307766,巴尔萨斯,Balsas,1
+76155,6346223,安艺,Aki,1
+51179,6201239,荣州市,Yeongju,1
+72429,6341979,邦台,Bantay,1
+73791,6343508,卡巴雷,Kabale,1
+52325,6206174,叶町,Naraha,1
+25499,6047373,Padaste (帕达斯特),Padaste,1
+88759,6360614,大福克斯空军基地,Grand Forks Air Force Base,1
+78447,6349114,泷川,Takikawa,1
+84422,6356043,完州郡,Wanju,1
+3091,3409,提斯浦尔,Tezpur,1
+46138,6163988,嘉远,Gia Vien,1
+60519,6277111,斯瓦尔巴群岛,Svalbard (all),1
+44114,6146455,伊图尤塔巴,Ituiutaba,1
+3621,3978,斯提芬维,Stephenville,1
+78453,6349120,南富良野,Minamifurano,1
+40330,6139019,斯托克马克内斯(及周边地区),Stokmarknes (and vicinity),1
+397,404,"",Apartado,1
+63491,6304849,猜巴丹,Chai Badan,1
+80262,6351191,普塔鲁鲁,Putaruru,1
+37072,6128991,凯普施克,Cape Schanck,1
+3444,3788,温顿,Winton,1
+83284,6354704,班旺沙蓬,Wang Saphung,1
+34195,6094950,德克斯特,Dexter,1
+12891,133900,明尼苏达城,Minnesota City,1
+4101,4499,布尔汉尼耶,Burhaniye,1
+3300,3634,古卢,Gulu,1
+4585,5000,维特罗尔,Vitrolles,1
+37230,6129328,Thrissur 区,Thrissur District,1
+46415,6171435,尼莱,Nilai,1
+1936,2132,"",Longreach,1
+36573,6126911,"",Portogruaro,1
+81251,6352304,雅努阿里亚,Januaria,1
+32223,6059920,谢南多厄(及周边地区),Shenandoah (and vicinity),1
+13861,177865,新德里,New Delhi,1
+11722,56019,瓦根,Vaughn,1
+45720,6159317,九里,Guri,1
+8834,9384,图班,Tuban,1
+85573,6357254,杰伊,Jay,1
+10060,10685,日托米尔,Zhytomyr,1
+34305,6117689,巴勒贝克,Baalbek,1
+78827,6349559,莫龙,Morong,1
+74032,6343779,盖拉,Guyra,1
+12786,126702,利特尔顿,Littleton,1
+37410,6129748,巴盖斯赫瓦尔,Bageshwar,1
+49612,6197444,南九州市,Minamikyushu,1
+76857,6347162,苏比克,Subic,1
+29729,6053627,圭亚那(全部),Guyana (all),1
+71841,6341299,比迪亚,Bidiya,1
+63897,6307701,Crescent Head (新月岬),Crescent Head,1
+46975,6177331,彰化县,Changhua County,1
+3238,3566,图赖夫,Turaif,1
+77436,6347986,西和贺,Nishiwaga,1
+32548,6060745,班龙,Ban Lung,1
+11023,55267,布格豪森,Burghausen,1
+73743,6343457,南格拉夫顿,South Grafton,1
+72426,6341976,沙巴哥打贝卢,Kota Belud,1
+88092,6359932,林河,Lam Ha,1
+37926,6130504,"",Tiruvannamalai,1
+9599,10200,圣奥古斯丁,St. Augustine,1
+38334,6131096,Ehrenberg(及周边地区),Ehrenberg (and vicinity),1
+19468,500211,拉古纳,Laguna,1
+78275,6348937,布卢伊特斯普林斯,Blewitt Springs,1
+43008,6143901,马总兹,Mazunte,1
+53017,6211495,巴西古当,Pasir Gudang,1
+66108,6321906,耶尼杰,Yenice,1
+1897,2093,拉利贝拉,Lalibela,1
+2872,3158,什里夫波特,Shreveport,1
+47970,6189097,帕拉戈米纳斯,Paragominas,1
+38559,6131411,和泉,Izumi,1
+76767,6347052,叶山,Hayama,1
+88048,6359888,伊莫塔,Imota,1
+73114,6342792,观音寺,Kanonji,1
+60418,6276057,迪维诺波利斯,Divinopolis,1
+2189,2411,梅里达,Merida,1
+73640,6343345,梳邦,Subang,1
+30799,6055857,万荣,Vang Vieng,1
+696,746,武端,Butuan,1
+2512,2770,白沙瓦,Peshawar,1
+41690,6141434,绥和,Tuy Hoa,1
+38131,6130744,"",Busua,1
+4841,5270,埃斯波,Espoo,1
+67524,6335975,岩见泽,Iwamizawa,1
+87414,6359202,李山,Ly Son,1
+31243,6057019,Roscommon (郡),Roscommon (county),1
+30935,6056204,奥兰(区),Aland (region),1
+72339,6341856,卡里蒙,Karimun,1
+37150,6129181,彦根市,Hikone,1
+18413,183207,克莱瑞恩,Clarion,1
+2127,2342,墨尔本,Melbourne,1
+84595,6356228,新安,Sinan,1
+3252,3581,土瓦,Dawei,1
+3030,3336,沙拔哈特,Sabahat,1
+13246,159292,斯涅乐市,Snellville,1
+77058,6347479,太地,Taiji,1
+36006,6125730,"",Trebinje,1
+5925,6385,阿那达科,Anadarko,1
+17019,181592,瓦格瓦格,Wagga Wagga,1
+2405,2652,奥沙卡蒂,Oshakati,1
+469,487,"",Adrar,1
+2173,2391,摩伦达瓦,Morondava,1
+32760,6069827,包斯卡拉,Bauska,1
+62802,6298410,阿尔巴尼亚,Albania,1
+75944,6345976,阿智村,Achi,1
+79358,6350138,加布棉,Kebumen,1
+65595,6319487,Sukapura (苏卡普拉),Sukapura,1
+1216,1326,吉尔吉特,Gilgit,1
+63835,6307342,Nong Hin (农欣),Nong Hin,1
+56662,6251795,奥拉德塔伊迈,Oulad Teima,1
+38142,6130770,戈勒克布尔(及附近地区),Gorakhpur (and vicinity),1
+44971,6155498,磐田,Iwata,1
+54166,6224347,Petumbak (佩特姆巴克),Petumbak,1
+35722,6125135,格林菲尔德,Greenfield,1
+19861,500636,松巴,Zomba,1
+56689,6252332,Kato (加藤),Kato,1
+73983,6343730,梅宁吉,Meningie,1
+74224,6343971,怀阿拉诺里,Whyalla Norrie,1
+46408,6171132,光明市,Gwangmyeong,1
+87648,6359455,伊杰布奥德,Ijebu Ode,1
+38071,6130673,"",Jinja,1
+2413,2660,冈山,Okayama,1
+89079,6360946,巴托洛梅马索,Bartolome Maso,1
+33372,6084933,雅尔塔(及附近地区),Yalta (and vicinity),1
+63828,6307305,Chum Phae (彻姆佩),Chum Phae,1
+1082,1173,尤金,Eugene,1
+34346,6122883,耶拉布嘎,Yelabuga,1
+10911,55152,洛文顿,Lovington,1
+82059,6353228,库里欧湾,Curio Bay,1
+79445,6350235,科尔查尼,Colchani,1
+7725,8235,高当,Kawthaung,1
+37637,6130163,"",Bistrita,1
+8744,9282,滨松,Hamamatsu,1
+88294,6360142,巴库里阿尼,Bakuriani,1
+32643,6063190,乌沙克,Usak,1
+9962,10580,金德斯利,Kindersley,1
+81308,6352368,克瓦雷利,Kvareli,1
+2953,3252,"",Menongue,1
+81120,6352165,科内利乌-普罗科皮乌,Cornelio Procopio,1
+65808,6320717,武雄,Takeo,1
+53562,6218420,宇多津,Utazu,1
+40053,6137025,利巴,Lipa,1
+38271,6130974,翁多(及周边地区),Hondo (and vicinity),1
+14066,178111,科瑞比里,Kirribilli,1
+18393,183185,哈瓦那,Havana,1
+65560,6319132,克里比,Kribi,1
+77166,6347636,箕轮町,Minowa,1
+57346,6257820,太平,Thai Binh,1
+18686,183513,东冰川公园,East Glacier Park,1
+21273,602995,多佛(及周边地区),Dover (and Vicinity),1
+43654,6144810,波恰耶夫,Pochaiv,1
+67252,6333522,长城,Jangseong,1
+85673,6357357,大巴萨姆,Grand Bassam,1
+3285,3616,乌尔根奇,Urgench,1
+19753,500516,"",Moss Vale,1
+52503,6207148,饭冢市,Iizuka,1
+44818,6154057,居林,Kulim,1
+5978,6441,罗克斯伯勒,Roxboro,1
+41698,6141446,若阿萨巴,Joacaba,1
+2588,2848,让蒂尔港,Port Gentil,1
+41493,6141153,宾托,Pinto,1
+467,485,安集延,Andizhan,1
+80522,6351495,叻丕愿拼县,Suan Phueng,1
+78121,6348776,雷梅迪奥斯,Remedios,1
+86417,6358161,宿毛,Sukumo,1
+30525,6055257,纳瓦拉Media(区),Navarra Media (area),1
+15367,179676,Kamenka (卡缅卡),Kamenka,1
+40576,6139571,草津,Kusatsu,1
+51125,6201092,求礼,Gurye,1
+6449,6925,道格拉斯,Douglas,1
+50236,6198857,基塞沃,Kicevo,1
+33235,6084778,比那尔德里奥,Pinar del Rio,1
+51260,6201515,西宁,Tay Ninh,1
+89459,6361348,古尔贾阿尼,Gurjaani,1
+6289,6763,波利瓦,Bolivar,1
+44644,6152304,菊川,Kikugawa,1
+33762,6085423,克里斯特尔里弗(及周边地区),Crystal River (and vicinity),1
+23224,6025806,维堡,Vyborg,1
+36117,6125933,科代卡纳,Kodaikanal,1
+8786,9331,奈良,Nara,1
+9471,10061,怀托摩洞,Waitomo Caves,1
+2898,3187,苏尔凯德,Surkhet,1
+53097,6212609,图兹拉,Tuzla,1
+77369,6347909,山北,Yamakita,1
+2483,2736,帕特纳,Patna,1
+36254,6126232,萨德里 (及其周边地区),Sadri (and vicinity),1
+69002,6337823,加鲁特,Garut,1
+38272,6130976,班德拉(及周边地区),Bandera (and vicinity),1
+381,387,昂塔拉哈,Antalaha,1
+47056,6177647,保罗阿丰苏,Paulo Afonso,1
+869,934,库马纳,Cumana,1
+31726,6058462,桑福德(及周边地区),Sanford (and vicinity),1
+41214,6140722,伊万里,Imari,1
+76916,6347232,洋野,Hirono,1
+52486,6207124,大牟田市,Omuta,1
+89158,6361033,尼克罗,Niquero,1
+3157,3481,"",Tamale,1
+30756,6055706,东卡林西亚,East Carinthia,1
+62665,6297250,岘港,Da Nang,1
+1314,1438,海德拉巴,Hyderabad,1
+32246,6059974,佩拉(及周边地区),Pella (and vicinity),1
+59102,6268002,Tu Son (慈山),Tu Son,1
+81395,6352472,姆希玛,Muxima,1
+18498,183296,桑福德,Sanford,1
+38884,6131975,林登,Linden,1
+8960,9517,八打灵再也,Petaling Jaya,1
+28804,6051997,卡斯特洛里佐岛,Kastelorizo Island,1
+7760,8271,基洛沃格勒,Kirovograd,1
+23988,6034898,尼德布龙莱班(及邻近地区),Niederbronn-les-Bains (and vicinity),1
+84410,6356031,闻庆市,Mungyeong,1
+77311,6347836,霹雳巴都牙也,Batu Gajah,1
+87491,6359281,浮羽,Ukiha,1
+7154,7648,弗瑟福德,Weatherford,1
+27619,6049991,奥尔恰,Orchha,1
+54451,6228246,阿雷尼亚斯,Arenillas,1
+4899,5329,纳尔德韦克,Naaldwijk,1
+66119,6321943,格伊尼克,Goynuk,1
+1769,1949,钏路,Kushiro,1
+11470,55749,哈维,Harvey,1
+50563,6199963,尾道,Onomichi,1
+46974,6177329,云林县,Yunlin County,1
+63483,6304743,别洛库里哈,Belokurikha,1
+63414,6304376,莱克普卡基,Pukaki,1
+73142,6342820,善通寺市,Zentsuji,1
+81020,6352059,圣维多利亚-杜帕尔马,Santa Vitoria do Palmar,1
+46929,6177128,里萨尼,Rissani,1
+63941,6307902,巴尔梅尔,Barmer,1
+63044,6300542,Phon Phisai (蓬披赛),Phon Phisai,1
+32243,6059971,爱荷华瀑布(及周边地区),Iowa Falls (and vicinity),1
+850,912,库莱布拉,Culebra,1
+19263,184141,帕克伍德,Packwood,1
+31447,6057672,欧文顿,Irvington,1
+7477,7984,盖茨维尔,Gatesville,1
+6651,7137,埃文斯通,Evanston,1
+64224,6309797,Sofrino (索夫里诺),Sofrino,1
+64319,6310413,下乌金斯克,Nizhneudinsk,1
+44671,6152369,饭田,Iida,1
+41459,6141116,格林布赖尔,Greenbrier,1
+74518,6344298,巴瑟斯多夫,Bassersdorf,1
+63705,6306536,瓦尔代,Valday,1
+43854,6145106,塔拉波托(及邻近地区),Tarapoto (and vicinity),1
+9359,9940,苏里高,Surigao,1
+76135,6346202,久万高原,Kumakogen,1
+54159,6224229,岩内,Iwanai,1
+40009,6136964,马杜拉 (及其周边地区),Mathura (and vicinity),1
+7216,7712,赫梅利尼茨基,Khmelnitskiy,1
+55837,6241927,廊磨喃蒲府,Nongbua Lamphu,1
+36890,6128235,Cervantes (及其周边地区),Cervantes (and vicinity),1
+2169,2386,毛梅雷,Maumere,1
+76926,6347246,猪苗代,Inawashiro,1
+13856,177860,因比图巴,Imbituba,1
+19370,184257,卡多马,Kadoma,1
+2878,3164,萨尔,Sal,1
+9136,9706,伦斯勒,Rensselaer,1
+73105,6342783,奥南,Onan,1
+7274,7773,海沃德(及邻近地区),Hayward (and vicinity),1
+67833,6336372,阿纳考,Anakao,1
+59813,6271861,岩手,Iwate,1
+83600,6355168,波普通,Poptun,1
+64314,6310406,下卡姆斯克,Nizhnekamsk,1
+44689,6152520,由利本庄,Yurihonjo,1
+2030,2233,马查拉,Machala,1
+30850,6055948,巴当艾国家公园,Batang Ai National Park,1
+9458,10048,波德戈里察,Podgorica,1
+46396,6170882,陆奥,Mutsu,1
+87424,6359212,洛比托,Lobito,1
+1956,2155,卢克拉,Lukla,1
+43220,6144224,塔泰,Tatai,1
+44707,6152589,索里,Soure,1
+13077,146411,皮斯费德,Pittsfield,1
+16870,181425,新马丁斯维尔,New Martinsville,1
+9735,10340,卡斯特鲁普,Kastrup,1
+37814,6130386,"",Uzice,1
+71518,6340892,大巴瓜,Bagua Grande,1
+4052,4450,伊斯帕尔塔,Isparta,1
+54108,6223937,近江八幡,Omihachiman,1
+55243,6234396,龙仔厝,Samut Sakhon,1
+9281,9860,西隆,Shillong,1
+82079,6353248,怀帕拉,Waipara,1
+11453,55731,格拉弗顿,Grafton,1
+79170,6349935,圣纳西索,San Narciso,1
+45607,6158563,连江县,Lienchiang County,1
+64256,6310093,汇他探,Huai Thap Than,1
+23613,6034401,纽马基特昂弗格斯,Newmarket on Fergus,1
+57549,6258338,海尼夫拉,Khenifra,1
+50567,6199989,鹿岛,Kashima,1
+64137,6309263,Thung Song (童颂),Thung Song,1
+68102,6336663,境港,Sakaiminato,1
+8769,9313,英吉利港镇,English Harbour,1
+7876,8388,巴雷利,Bareilly,1
+28368,6051332,劳恩堡公国,Duchy of Lauenburg,1
+74998,6344858,圣格奥尔基（黑海沿岸）,Sfantu Gheorghe (Black Sea Coast),1
+495,515,别洛列茨克,Beloreck,1
+3434,3776,"",Weipa,1
+7386,7889,温斯普洛,Winnsboro,1
+3448,3792,瓦纳卡,Wanaka,1
+37657,6130183,乌兹里纳,Uzlina,1
+39871,6135786,卡瓦山姆,Caversham,1
+53773,6220902,东沙,Don Sak,1
+78326,6348991,江津,Gotsu,1
+44129,6146553,莫里,Moree,1
+58941,6266505,Sukaraja (苏卡拉贾),Sukaraja,1
+7151,7645,"",Yass,1
+64823,6314174,Artem (阿尔滕),Artem,1
+59814,6271870,生驹,Ikoma,1
+50244,6198878,圣安娜利弗拉门图,Santana do Livramento,1
+31217,6056931,马里恩(及周边地区),Marion (and vicinity),1
+7663,8172,基舍,Keyser,1
+62875,6299192,Tullah (图拉),Tullah,1
+9033,9593,"",Kangar,1
+44642,6152302,糸鱼川,Itoigawa,1
+77397,6347944,皆野,Minano,1
+16903,181465,西角,West Point,1
+29083,6052382,卡尔季察(区),Karditsa (region),1
+19382,184271,奎希尔,El Quseir,1
+42384,6142927,林肯港(及邻近地区),Port Lincoln (and vicinity),1
+73494,6343185,非夏尔,Fier,1
+64153,6309387,Chaiya (采亚),Chaiya,1
+64142,6309295,Khuan Khanun (宽卡暧),Khuan Khanun,1
+8619,9152,奥卡拉,Ocala,1
+31740,6058527,福里斯特城(及周边地区),Forest City (and vicinity),1
+64144,6309307,Khao Chaison (考查松),Khao Chaison,1
+442,453,阿布扎比,Abu Dhabi,1
+12821,129614,曼苏拉,Mansura,1
+30401,6054995,北皮埃蒙特,Northern Piedmont,1
+78466,6349133,夕张,Yubari,1
+32709,6069727,麦格雷戈,McGregor,1
+8211,8734,霍瑟姆山,Hotham Heights,1
+53499,6217463,特伦克劳肯,Trenque Lauquen,1
+1240,1354,杭济,Ghanzi,1
+83614,6355190,佩什科比,Peshkopi,1
+1795,1976,西点,West Point,1
+23730,6034562,清湖,Clear Lake,1
+28345,6051288,罗斯基勒(县),Roskilde (county),1
+45466,6157904,卡拉曼,Karaman,1
+78086,6348732,维尼亚莱斯,Vinales,1
+4475,4886,瓦杜兹,Vaduz,1
+67269,6333679,盈德,Yeongdeok,1
+74510,6344288,阿扎金,Arzakan,1
+24127,6035127,美勒路德,Mellerud,1
+64155,6309395,Ron Phibun (罗恩费布),Ron Phibun,1
+36191,6126083,奥廖尔,Oryol,1
+63091,6301241,Bang Pa-in (邦芭茵),Bang Pa-in,1
+8169,8691,马吉,Magee,1
+29593,6053407,卡门斯伯托斯基,Kamenets-Podol'skiy,1
+84438,6356059,长水郡,Jangsu,1
+13012,141196,旧福奇,Old Forge,1
+9671,10275,维琴察,Vicenza,1
+73887,6343630,保禄县,Bao Loc,1
+49221,6195936,拉纳,Rana,1
+58687,6265164,康克林,Conklin,1
+12725,123232,拉希塔斯,Lajitas,1
+72773,6342364,费尔利,Fairlie,1
+2584,2844,彭沙科拉,Pensacola,1
+25395,6047252,卡法亚特,Cafayate,1
+55965,6242736,圣胡安,San Juan,1
+72763,6342354,奥波蒂基,Opotiki,1
+25663,6047596,皇家奇旺国家公园,Royal Chitwan National Park,1
+19081,183940,哈尼帕斯,Honea Path,1
+3310,3646,"",Uruapan,1
+80058,6350962,埃尔卡门,El Carmen,1
+78468,6349135,足寄,Ashoro,1
+6363,6838,台拉登,Dehradun,1
+5840,6297,巴特山,Battle Mountain,1
+44646,6152307,新发田,Shibata,1
+69695,6338668,三浦,Miura,1
+6202,6673,克罗塞特,Crossett,1
+44174,6147131,希马拉,Himare,1
+23644,6034458,格洛斯特,Gloucester,1
+64087,6308872,康塞普西翁,Concepcion,1
+79111,6349874,南望,Rembang,1
+75085,6344963,清化弘化,Hoang Hoa,1
+89179,6361054,豪尔,Al Khor,1
+
