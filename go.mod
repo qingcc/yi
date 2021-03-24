@@ -10,13 +10,13 @@ require (
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/go-ini/ini v1.51.0
 	github.com/go-sql-driver/mysql v1.4.1
-
 	github.com/go-xorm/core v0.6.3 // indirect
 	github.com/gocraft/dbr v0.0.0-20190714181702-8114670a83bd // indirect
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/golang/mock v1.2.0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/jackc/pgx v3.6.0+incompatible // indirect
+	github.com/json-iterator/go v1.1.7
 	github.com/lib/pq v1.1.1
 	github.com/pkg/profile v1.4.0
 	github.com/polaris1119/logger v0.0.0-20170422061149-0233d014769e

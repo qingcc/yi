@@ -3,7 +3,6 @@ package utils
 import (
 	"bufio"
 	"crypto/md5"
-	"encoding/json"
 	"errors"
 	"fmt"
 	"github.com/pkg/profile"
@@ -79,14 +78,6 @@ func Stdin2() {
 }
 
 //endregion
-
-func ToJson(obj interface{}) string {
-	bytes, err := json.Marshal(obj)
-	if err != nil {
-		log.Printf("to json failed (%s), obj %s", err, obj)
-	}
-	return string(bytes)
-}
 
 ////region Remark: 将查询出来的数据结构只取部分字段展示给前端 Author:Qing
 //
